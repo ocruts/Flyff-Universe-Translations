@@ -12,8 +12,8 @@ PROPMAP_TXT_000009,Flaris,Flaris
 PROPMAP_TXT_000012,Flarine,Flaris
 PROPMAP_TXT_000013,Saint City,Saint Morning
 PROPMAP_TXT_000014,Darken,Darkon
-PROPMAP_TXT_000242,Dungeon,Instanz
-PROPMAP_TXT_000263,Mars Dungeon,Mas Dungeon
+PROPMAP_TXT_000242,Dungeon,Dungeon
+PROPMAP_TXT_000263,Mars Dungeon,Mars Dungeon
 PROPMAP_TXT_000265,Dekane Mine,Dekane Mine
 PROPMAP_TXT_000266,Iblis Temple,Ivillis Tempel
 PROPMAP_TXT_000274,Forsaken Tower 1F,Verlassener Turm 1F
@@ -60,11 +60,11 @@ PROPMAP_TXT_100035,Village of Kan,Dorf von Kan
 PROPMAP_TXT_100036,Area,Gebiet
 PROPMAP_TXT_100037,Saint Morning Station,Saint Morning Bahnhof
 PROPMAP_TXT_100038,Garden of Rhisis II,Garten von Rhisis II
-PROPMAP_TXT_100039,Cave of Envy,Eienble Höhle
+PROPMAP_TXT_100039,Cave of Envy,Höhle des Neids
 PROPMAP_TXT_100040,Darkon 2,Darkon 2
 PROPMAP_TXT_100041,Volkane,Volkane
 PROPMAP_TXT_100042,Abandoned Erons Factory,Verlassene Erons-Fabrik
-PROPMAP_TXT_100043,Frozen Forest,Frostwalde
+PROPMAP_TXT_100043,Frozen Forest,Gefrorener Wald
 PROPMAP_TXT_100044,Forgotten Bridge,Vergessene Brücke
 PROPMAP_TXT_100045,Azria Village,Das Dorf Azria
 PROPMAP_TXT_100046,Frozen Lakes,Frostseen
@@ -116,44 +116,44 @@ PROPMAP_TXT_200008,Pet Tamer,Pet Tamer
 PROPMAP_TXT_200009,Beach House (S),Strandhaus (S)
 PROPMAP_TXT_200010,Beach House (M),Strandhaus (M)
 PROPMAP_TXT_200011,Beach House (L),Strandhaus (L)
-PROPMAP_TXT_200012,Kalgas Assault Realm,Kalgas Assault Realm
-PROPMAP_TXT_200013,Darken House,Darken House
-PROPMAP_TXT_100086,2nd Anniversary,2nd Anniversary
-PROPMAP_TXT_100087,2nd Anniversary (Medium),2nd Anniversary (Medium)
-PROPMAP_TXT_100088,2nd Anniversary (Hard),2nd Anniversary (Hard)
-PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Envy Depths (Easy)
-PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Envy Depths (Medium)
-PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Envy Depths (Hard)
+PROPMAP_TXT_200012,Kalgas Assault Realm,Kalgas-Angriffsgebiet
+PROPMAP_TXT_200013,Darken House,Darken Haus
+PROPMAP_TXT_100086,2nd Anniversary,2. Jubiläum
+PROPMAP_TXT_100087,2nd Anniversary (Medium),2. Jubiläum (Medium)
+PROPMAP_TXT_100088,2nd Anniversary (Hard),2. Jubiläum (Hard)
+PROPMAP_TXT_100200,[Event] Envy Depths (Easy),[Event] Neidische Tiefen (Easy)
+PROPMAP_TXT_100201,[Event] Envy Depths (Medium),[Event] Neidische Tiefen (Medium)
+PROPMAP_TXT_100202,[Event] Envy Depths (Hard),[Event] Neidische Tiefen (Hard)
 PROPMAP_TXT_100089,Lv.15+,Lv.15+
 PROPMAP_TXT_100090,Lv.20+,Lv.20+
 PROPMAP_TXT_100091,Lv.80+,Lv.80+
 PROPMAP_TXT_100092,Lv.100+,Lv.100+
 PROPMAP_TXT_100093,Lv.25+,Lv.25+
 PROPMAP_TXT_100097,Lv.120+,Lv.120+
-PROPMAP_TXT_200014,Fall House,Fall House
-PROPMAP_TXT_200015,Fall House (S),Fall House (S)
-PROPMAP_TXT_200016,Fall House (M),Fall House (M)
-PROPMAP_TXT_200017,Fall House (L),Fall House (L)
-PROPMAP_TXT_200018,Blank House (Couple),Blank House (Couple)
-PROPMAP_TXT_200019,Beach House (Couple),Beach House (Couple)
-PROPMAP_TXT_200020,Darken House (Couple),Darken House (Couple)
-PROPMAP_TXT_200021,Forest House (Couple),Forest House (Couple)
-PROPMAP_TXT_200022,Fall House (Couple),Fall House (Couple)
+PROPMAP_TXT_200014,Fall House,Herbst Haus
+PROPMAP_TXT_200015,Fall House (S),Herbst Haus (S)
+PROPMAP_TXT_200016,Fall House (M),Herbst Haus (M)
+PROPMAP_TXT_200017,Fall House (L),Herbst Haus (L)
+PROPMAP_TXT_200018,Blank House (Couple),Blanko Haus (Couple)
+PROPMAP_TXT_200019,Beach House (Couple),Strand Haus (Couple)
+PROPMAP_TXT_200020,Darken House (Couple),Darken Haus (Couple)
+PROPMAP_TXT_200021,Forest House (Couple),Wald Haus (Couple)
+PROPMAP_TXT_200022,Fall House (Couple),Herbst Haus (Couple)
 PROPMAX_TXT_200023,Herneos,Herneos
 PROPMAP_TXT_200024,Boss Monster Raid,Boss Monster Raid
 PROPMAP_TXT_100094,[Event] Halloween Dungeon,[Event] Halloween Dungeon
 PROPMAP_TXT_100095,[Event] Halloween Dungeon (Normal),[Event] Halloween Dungeon (Normal)
 PROPMAP_TXT_100096,[Event] Halloween Dungeon (Hard),[Event] Halloween Dungeon (Hard)
-PROPMAP_TXT_200025,Snowfield,Snowfield
-PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Asylum
-PROPMAP_TXT_200027,Kaillun Temple,Kaillun Temple
+PROPMAP_TXT_200025,Snowfield,Schneefeld
+PROPMAX_TXT_200026,Ankou's Asylum,Ankou's Zuflucht
+PROPMAP_TXT_200027,Kaillun Temple,Tempel von Kaillun
 PROPMAP_TXT_200028,Eillun,Eillun
 PROPMAP_TXT_200029,Kaillun,Kaillun
-PROPMAP_TXT_200030,Leren Chasm (Infernal),Leren Chasm (Infernal)
-PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Rhisis Catacombs (Infernal)
-PROPMAP_TXT_200032,Envy Depths (Infernal),Envy Depths (Infernal)
-PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Sanctuary (Infernal)
-PROPMAP_TXT_200034,Storm Peak (Infernal),Storm Peak (Infernal)
-PROPMAP_TXT_200035,The Wilds (Infernal),The Wilds (Infernal)
-PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Asylum (Story)
-PROPMAP_TXT_200037,Seabed,Seabed
+PROPMAP_TXT_200030,Leren Chasm (Infernal),Lerenkluft (Infernal)
+PROPMAP_TXT_200031,Rhisis Catacombs (Infernal),Katakomben von Rhisis (Infernal)
+PROPMAP_TXT_200032,Envy Depths (Infernal),Neidische Tiefen (Infernal)
+PROPMAP_TXT_200033,Guardiane Sanctuary (Infernal),Guardiane Heiligtum (Infernal)
+PROPMAP_TXT_200034,Storm Peak (Infernal),Sturmgipfel (Infernal)
+PROPMAP_TXT_200035,The Wilds (Infernal),Die Wildnis (Infernal)
+PROPMAP_TXT_200036,Ankou's Asylum (Story),Ankou's Zuflucht (Story)
+PROPMAP_TXT_200037,Seabed,Meeresboden
