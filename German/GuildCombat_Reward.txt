@@ -1,9 +1,9 @@
 ﻿#b#cff0000ff Belohnungsinformationen #nb#nc
 
-※ Red Chip Belohnungen
+* Red Chip Belohnungen
   - Alle Gilden, die die Mindestpunktanforderung erfüllen, erhalten 1.000 Rote Chips pro teilnehmendem Gildenmitglied.
 
-※ Green Chip Belohnungen
+* Green Chip Belohnungen
   - 1. Platz Gilde: 150 pro teilnehmendem Gildenmitglied
   - 2. Platz Gilde: 100 pro teilnehmendem Gildenmitglied
   - 3. Platz Gilde: 50 pro teilnehmendem Gildenmitglied
@@ -11,15 +11,15 @@
   - 5. Platz Gilde: 13 pro teilnehmendem Gildenmitglied
   - 6.–10. Platz Gilden: 6 pro teilnehmendem Gildenmitglied
 
-※ Penya Belohnungen
+* Penya Belohnungen
   - Siegreiche Gilde: 35% des gesamten Anmeldegeldes
   - Bester Spieler: 15% des gesamten Anmeldegeldes
 
-※ Spezielle Belohnungen
+* Spezielle Belohnungen
   - 1 Sieg in Folge: Dragon Cloak of the Initiate (Alle Stats +5)
   - 2 Siege in Folge: Dragon Cloak of the Adept (Alle Stats +6, Max HP +100)
   - 3 Siege in Folge: Dragon Cloak of the Master (Alle Stats +7, Max HP +100)
-  - 4 Siege in Folge: Dragon Cloak of the Hero (Alle Statss +8, Max HP +100)
+  - 4 Siege in Folge: Dragon Cloak of the Hero (Alle Stats +8, Max HP +100)
 
-#b#cffff0000※ Ein Button erscheint, der es ermöglicht,Dragon Cloaks frei im Gildenlager zu erstellen.#nb#nc
-※ Dragon Cloaks können nur ausgerüstet werden, bis die nächste Gildenbelagerung beginnt.
+#b#cffff0000* Ein Button erscheint, der es ermöglicht,Dragon Cloaks frei im Gildenlager zu erstellen.#nb#nc
+* Dragon Cloaks können nur ausgerüstet werden, bis die nächste Gildenbelagerung beginnt.
