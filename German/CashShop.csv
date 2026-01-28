@@ -3,7 +3,7 @@ CS_LIMITED_OFFER,Limited Offer,Begrenztes Angebot
 CS_NEW_COSTUME,New Costume,Neues Kostüm
 CS_NEW_PICKUP_PET,New Pickup Pet,Neues Sammel-Pet
 CS_FASHION,Fashion,Kostüm
-CS_FASHION_SETS,Fashion Sets,Fashion Sets
+CS_FASHION_SETS,Fashion Sets,Kostüm Sets
 CS_FASHION_PIECES,Fashion Pieces,Kostüm Teil
 CS_CLOAKS,Cloaks,Umhänge
 CS_MASKS_GLASSES_HAIR,Masks & Glasses & Hair,Masken & Brillen & Frisuren
@@ -38,4 +38,4 @@ CS_WORLD_THEME_PACK,Theme Pack,Themen Paket
 CS_WORLD_BUNDLE_PACK,Bundle Pack,Bundle Paket
 CS_WORLD_SINGLE_PACK,Single Pack,Single Paket
 CS_NPC,NPC,NPC
-CS_COUPLE,Couple,Couple
+CS_COUPLE,Couple,Partnerschaft
