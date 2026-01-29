@@ -1,4 +1,4 @@
-﻿#b#cff0000ff* Applying Fee#nb#nc
-- Cancellation: 20% of applying money is deducted.
-- Failure: 2% of applying money is deducted.
-* Please make it sure that the 10 Guilds which succeed to join Guild Combat cannot get back the applying money.
+﻿#b#cff0000ff* Bayad sa Pag-apply#nb#nc
+- Pagkansela: Mababawas ang 20% ng bayad sa pag-apply.
+- Pagkabigo: Mababawas ang 2% ng bayad sa pag-apply.
+* Tiyakin na ang 10 Guild na matagumpay na nakasali sa Guild Combat ay hindi na maibabalik ang bayad sa pag-apply.
