@@ -1,1 +1,1 @@
-Annulez la Bénédiction d’un objet ici. Une fois la Bénédiction retirée, elle ne peut pas être rétablie.
+﻿Annulez la Bénédiction d’un objet ici. Une fois la Bénédiction retirée, elle ne peut pas être rétablie.

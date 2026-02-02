@@ -1,19 +1,19 @@
 ﻿Key,English,Russian
 PROPTROUPESKILL_TXT_000000,Call,Клич
-PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,"Сообщает всем игрокам, где находится лидер труппы."
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,"Сообщает всем игрокам, где находится лидер труппы."
 PROPTROUPESKILL_TXT_000002,Blitz,Блиц
-PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,Приказ всем игрокам атаковать цель.
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,Приказ всем игрокам атаковать цель.
 PROPTROUPESKILL_TXT_000004,Retreat,Отступление
-PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Приказ всем игрокам отступать.
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,Приказ всем игрокам отступать.
 PROPTROUPESKILL_TXT_000008,Precision,Точность
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
 PROPTROUPESKILL_TXT_000010,Linked Attack,Зерг!!!
-PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Урон лидера труппы повышается на 5% за каждого из игроков вокруг него.
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Урон лидера труппы повышается на 5% за каждого из игроков вокруг него.
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Удача
-PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,Повышает вероятность получения уникальных предметов.
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,Повышает вероятность получения уникальных предметов.
 PROPTROUPESKILL_TXT_000014,Resting,Отдых
-PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,"Игроки труппы восстанавливают здоровье, энергию и ману в 1.5 раза быстрее. А если лидер - Униформист, то в 1.8 раз быстрее."
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.","Игроки труппы восстанавливают здоровье, энергию и ману в 1.5 раза быстрее. А если лидер - Униформист, то в 1.8 раз быстрее."
 PROPTROUPESKILL_TXT_000016,Gift Box,Подарки
-PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,"Повышает количество предметов, падающих с монстров."
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,"Повышает количество предметов, падающих с монстров."
 PROPTROUPESKILL_TXT_000018,Global Attack,Боевой дух
-PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,Все в труппе получают 2.5% бонуса к атаке за каждого участника поблизости. Не действует на лидера при использовании Зерга.
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,Все в труппе получают 2.5% бонуса к атаке за каждого участника поблизости. Не действует на лидера при использовании Зерга.

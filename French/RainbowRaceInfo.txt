@@ -1,4 +1,4 @@
-#b Informations sur la Course #nb
+﻿#b Informations sur la Course #nb
 La Course Arc-en-ciel est une occasion pour tous les joueurs de s’affronter dans une course aérienne interactive et intense. Les joueurs doivent utiliser leur propre monture volante pendant la course.
 
 #iNote : Les frais d’inscription ne peuvent pas être remboursés. Chaque joueur est responsable de fournir sa propre monture volante.#ni

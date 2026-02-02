@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,Câu hỏi thường gặp
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Phòng thử đồ
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Giúp đỡ Wiki
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Bạn không thể tạo Nhóm trong đấu trường Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,Bạn không thể tạo Nhóm trong đấu trường Guild Siege.
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Bạn không thể mời nhân vật khác tham gia nhóm trong PvP của nhóm.
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Bạn không thể tham gia nhóm khi đấu tay đôi.
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Bạn không thể tham gia bang hội trong khi đấu tay đôi.
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Bạn không thể là
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Bạn không thể làm rơi vật phẩm khi đang giao dịch
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Chỉ có đôi cánh mới có thể cứu bạn khi bạn ngã
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Tên cửa hàng này không được phép
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Bạn không thể giao dịch trong thời gian diễn ra sự kiện.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,Bạn không thể giao dịch trong thời gian diễn ra sự kiện.
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Cửa hàng tư nhân không có sẵn trong khu vực này.
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Bạn không thể mở Cửa hàng tư nhân gần NPC.
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Tất cả các vật phẩm của cửa hàng tư nhân đã được bán.
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Hiện tại cuộc trò chuyện của bạn đã bị chặn. (Còn lại: %d phút %d giây)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,Chỉ được phép hét lên 5 lần mỗi 60 giây.
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Chỉ được phép hét với Hét Trọn Vẹn 2 phút một lần.
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,Bạn không có Bang Hội hoặc bạn không phải là Bang Chủ
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,Bạn không có Bang Hội hoặc bạn không phải là Bang Chủ
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Guild Siege đã đóng.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,Cấp độ bang hội của bạn phải đạt ít nhất %d để đăng ký bao vây.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,Cấp độ bang hội của bạn phải đạt ít nhất %d để đăng ký bao vây.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,Bạn sẽ mất ít nhất %d penya để áp dụng cho cuộc bao vây
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Bạn sẽ phải trả %d penya để áp dụng cho cuộc bao vây.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Bạn có thể áp dụng để bao vây bang hội nếu bạn có Penya cần thiết.
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Bạn đã yêu cầu %d penya trước. Và sau đó bạn yêu cầu thêm %d penya.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Bạn đã áp dụng thành công cuộc bao vây bang hội. Bạn có thể tổ chức nhập Bang hội từ 5 giờ chiều (PST) vào thứ Bảy hàng tuần.
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,Đăng ký bao vây bang hội đã hoàn tất.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Bạn đã yêu cầu %d penya trước. Và sau đó bạn yêu cầu thêm %d penya.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Bạn đã áp dụng thành công cuộc bao vây bang hội. Bạn có thể tổ chức nhập Bang hội từ 5 giờ chiều (PST) vào thứ Bảy hàng tuần.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,Đăng ký bao vây bang hội đã hoàn tất.
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Bạn không thể sử dụng nó ngay bây giờ.
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Bạn đã không đăng ký Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,Phí đăng ký sẽ được hoàn lại khi bạn không tham gia cuộc bao vây bang hội.
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,Cuộc bao vậy ban hội mà bạn tham gia đã bị hủy
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Hoàn vốn Penya
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,Xin chào. Tôi là người quản lý bang hội tên là Donaris.\nTôi sẽ trả lại tiền cho bạn vì bạn đã đăng ký hủy. Tôi đã trích 20% như một khoản hoa hồng.\nChúc bạn ngày mới tốt lành!
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,Bạn đã không đăng ký Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,Phí đăng ký sẽ được hoàn lại khi bạn không tham gia cuộc bao vây bang hội.
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,Cuộc bao vậy ban hội mà bạn tham gia đã bị hủy
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,Hoàn vốn Penya
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",Xin chào. Tôi là người quản lý bang hội tên là Donaris.\nTôi sẽ trả lại tiền cho bạn vì bạn đã đăng ký hủy. Tôi đã trích 20% như một khoản hoa hồng.\nChúc bạn ngày mới tốt lành!
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Chúc bạn ngày mới tốt lành!
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","Bạn đủ điều kiện để vào bao vây bang hội. Hãy hoàn thành ""xếp hàng cho cuộc bao vây bang hội"" ở Flaris ngay bây giờ."
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","Bạn không đủ điều kiện. Hãy thử thách lại vào tuần sau. Sau khi hoàn thành guild siege, nhận phí đăng ký ở Flaris."
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,"Bạn đủ điều kiện để vào bao vây bang hội. Hãy hoàn thành ""xếp hàng cho cuộc bao vây bang hội"" ở Flaris ngay bây giờ."
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","Bạn không đủ điều kiện. Hãy thử thách lại vào tuần sau. Sau khi hoàn thành guild siege, nhận phí đăng ký ở Flaris."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Bao vây bang hội sẽ sớm bắt đầu. Bạn sẽ được tự động dịch chuyển đến Flaris sau %d giây.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","Từ bây giờ, Franky ở Flarine có thể cho bạn vào đấu trường Bao vây bang hội"
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.","Từ bây giờ, bạn có thể tổ chức lối vào bao vây bang hội"
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Thời gian tổ chức xếp hàng và chuẩn bị cho Bao vây bang hội
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Lịch bảo trì
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,Kết thúc trận chiến
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Dịch chuyển đến Flaris
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Chế độ Bao vây bang hội hiện đã có sẵn
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.","Hiện tại, bạn không thể sắp xếp một lối vào"
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.","Bạn đã không áp dụng cuộc bao vây bang hội hoặc, bạn không được chấp nhận tham gia cuộc bao vây bang hội."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,"Từ bây giờ, Franky ở Flarine có thể cho bạn vào đấu trường Bao vây bang hội"
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,"Từ bây giờ, bạn có thể tổ chức lối vào bao vây bang hội"
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,Thời gian tổ chức xếp hàng và chuẩn bị cho Bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,Lịch bảo trì
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,Kết thúc trận chiến
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,Dịch chuyển đến Flaris
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,Chế độ Bao vây bang hội hiện đã có sẵn
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,"Hiện tại, bạn không thể sắp xếp một lối vào"
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,"Bạn đã không áp dụng cuộc bao vây bang hội hoặc, bạn không được chấp nhận tham gia cuộc bao vây bang hội."
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Đã vượt quá số %d người.
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Bạn phải trên cấp %d cho một mục nhập.
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Đã đăng ký. Đăng ký lại.
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Bang chủ không thể là một người bảo vệ.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Không có kingpin hoặc bang chủ trong tại lối vào
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Không có hậu vệ. Chọn một hậu vệ.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Không có người tham gia. Chọn người tham gia.
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,Cuộc bao vây bang hội được tổ chức trong tuần này
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,Bang chủ không thể là một người bảo vệ.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,Không có kingpin hoặc bang chủ trong tại lối vào
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,Không có hậu vệ. Chọn một hậu vệ.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,Không có người tham gia. Chọn người tham gia.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,Cuộc bao vây bang hội được tổ chức trong tuần này
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Hãy tham gia sau một thời gian.
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Công tác chuẩn bị đang được tiến hành.
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Vagrant không đủ điều kiện để bao vây bang hội. Hãy thử lại sau khi thay đổi chức nghiệp đầu tiên của bạn.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Vagrant không đủ điều kiện để bao vây bang hội. Hãy thử lại sau khi thay đổi chức nghiệp đầu tiên của bạn.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Chào mừng bạn đến với Bao vây bang hội
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,Bạn có thể phóng to máy ảnh bằng cách nhấn phím [Scroll Lock].
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","Bạn là Bang chủ! Đánh bại được hậu vệ, bạn sẽ nhận được tiền thưởng."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Bạn là hậu vệ! Nếu bạn bị kẻ thù đánh bại, họ sẽ nhận được tiền thưởng"
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.","Đánh bại đối thủ của bạn để giành vinh quang cho bang hội của bạn! Đánh bại được hậu vệ, bạn sẽ nhận được tiền thưởng."
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Xin chúc mừng, bạn đã nhận được bản đồ bang hội!"
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Chiến đấu bắt đầu ngay sau khi bảo trì máy chủ. Chuẩn bị cho chiến tranh!
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,Bạn có thể phóng to máy ảnh bằng cách nhấn phím [Scroll Lock].
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,"Bạn là Bang chủ! Đánh bại được hậu vệ, bạn sẽ nhận được tiền thưởng."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.","Bạn là hậu vệ! Nếu bạn bị kẻ thù đánh bại, họ sẽ nhận được tiền thưởng"
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,"Đánh bại đối thủ của bạn để giành vinh quang cho bang hội của bạn! Đánh bại được hậu vệ, bạn sẽ nhận được tiền thưởng."
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,"Xin chúc mừng, bạn đã nhận được bản đồ bang hội!"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,Chiến đấu bắt đầu ngay sau khi bảo trì máy chủ. Chuẩn bị cho chiến tranh!
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Bắt đầu chiến đấu
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Bang chủ đã tăng %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Bang hội của bạn đã tăng %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Hậu vệ của bạn đã chết! Bang hội %s đã đạt được điểm!
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,Bang chủ đã tăng %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,Bang hội của bạn đã tăng %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,Hậu vệ của bạn đã chết! Bang hội %s đã đạt được điểm!
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Bạn phải được kết nối trên Kênh 1 để vào Bao vây bang hội
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,Bạn phải được kết nối trên Kênh 1 để vào Bao vây bang hội
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Bao vây bang hội đã kết thúc
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,Bang hội chiến thắng trong tuần này: bang hội %s
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVP là %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,Bang hội chiến thắng trong tuần này: bang hội %s
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,MVP là %s.
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Chúc mừng!
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Thời gian giới hạn
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Thời gian giới hạn
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Bạn không thể mời ai đó vào bang hội khi đang trong Cuộc bao vây bang hội
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,Bạn có thể giải tán một bang hội đã đăng ký Cuộc bao vây Bang hội.
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Bạn không thể thoát khỏi một bang hội khi đang ở trong Cuộc bao vây bang hội
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Bạn không thể thay đổi biểu tượng Bang hội của mình trong Cuộc bao vây Bang hội.
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Bạn không thể thay đổi tên bang hội của mình trong Cuộc bao vây bang hội
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Không thể tuyên chiến trong Cuộc bao vây bang hội
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Bạn không thể sử dụng các vật phẩm trong sự kiện
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Bạn không thể sử dụng các kỹ năng trong sự kiện
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Bạn không thể bỏ bùa trong thời gian diễn ra sự kiện.
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,Bạn không thể la hét trong thời gian diễn ra sự kiện.
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Điều đó không có sẵn trong Cuộc bao vây bang hội
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Hoàn lại tiền khi đấu thầu không thành công cho cuộc bao vây bang hội
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,Xin chào. Tôi là người quản lý bang hội tên là Donaris.\nTôi sẽ trả lại cho bạn một số tiền của bạn. Tôi đã trích 2% như một khoản hoa hồng.\nTôi hy vọng sẽ gặp lại bạn tại Cuộc bao vây bang hội.\nCảm ơn vì sự quan tâm của bạn
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",Bạn đã nhận được tiền thưởng cho MVP hoặc bạn không phải là MVP.
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Vì số lượng vượt quá penya trong kho sau khi thêm tiền thưởng của cuộc bao vây bang hội, vui lòng yêu cầu GM nhận tiền thưởng trên trang web. Thành thật xin lỗi về sự bất tiện."
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Bạn đã nhận được %d penya dưới dạng MVP. Xin chúc mừng!
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",Bạn đã nhận được tiền thưởng hoặc bạn không phải là người cần nhận lại lệ phí đăng ký.
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Bạn đã nhận được %d penya làm tiền thưởng cho cuộc bao vây bang hội. Xin chúc mừng!
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Bạn đã nhận được %d penya trừ đi số tiền bạn đã trả cho đơn đăng ký
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,Bạn không thể sử dụng các vật phẩm trong sự kiện
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,Bạn không thể sử dụng các kỹ năng trong sự kiện
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,Bạn không thể bỏ bùa trong thời gian diễn ra sự kiện.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,Bạn không thể la hét trong thời gian diễn ra sự kiện.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,Điều đó không có sẵn trong Cuộc bao vây bang hội
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,Hoàn lại tiền khi đấu thầu không thành công cho cuộc bao vây bang hội
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",Xin chào. Tôi là người quản lý bang hội tên là Donaris.\nTôi sẽ trả lại cho bạn một số tiền của bạn. Tôi đã trích 2% như một khoản hoa hồng.\nTôi hy vọng sẽ gặp lại bạn tại Cuộc bao vây bang hội.\nCảm ơn vì sự quan tâm của bạn
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",Bạn đã nhận được tiền thưởng cho MVP hoặc bạn không phải là MVP.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,"Vì số lượng vượt quá penya trong kho sau khi thêm tiền thưởng của cuộc bao vây bang hội, vui lòng yêu cầu GM nhận tiền thưởng trên trang web. Thành thật xin lỗi về sự bất tiện."
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,Bạn đã nhận được %d penya dưới dạng MVP. Xin chúc mừng!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",Bạn đã nhận được tiền thưởng hoặc bạn không phải là người cần nhận lại lệ phí đăng ký.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,Bạn đã nhận được %d penya làm tiền thưởng cho cuộc bao vây bang hội. Xin chúc mừng!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,Bạn đã nhận được %d penya trừ đi số tiền bạn đã trả cho đơn đăng ký
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Bạn không thể sử dụng cái này khi đang sử dụng transy.
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Tài khoản này bị cấm. Liên hệ với Bộ phận hỗ trợ FlyFF để được hỗ trợ.
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Bạn không thể đi lối này

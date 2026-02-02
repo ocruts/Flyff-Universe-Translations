@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Wiki Help
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Kamu tidak bisa membuat Party di arena Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,Kamu tidak bisa membuat Party di arena Guild Siege.
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Kamu tidak dapat mengundang karakter lain untuk bergabung dengan party selama party PvP.
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Kamu tidak dapat bergabung dengan party selama duel.
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Kamu tidak dapat bergabung dengan guild selama duel.
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Kamu tidak dapat menja
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Kamu tidak dapat menjatuhkan item saat bertransaksi.
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Hanya sayapp yang dapat menyelamatkanmu saat jatuh
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Nama toko ini tidak diperbolehkan.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Kamu tidak dapat berdagang selama acara.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,Kamu tidak dapat berdagang selama acara.
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Toko Pribadi tidak tersedia di area ini.
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Kamu tidak dapat membuka Toko Pribadi di dekat NPC.
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Semua barang dari toko pribadi terjual.
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Saat ini Chat Anda telah diblokir.(Sisa: %d menit %d detik)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,Shouting hanya diperbolehkan 5 kali per 60 detik.
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Shouting dengan fitur Full Shout hanya diperbolehkan sekali setiap 2 menit.
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,Kamu sedang tidak bergabung dengan guild atau kamu bukanlah Guild Master.
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,Kamu sedang tidak bergabung dengan guild atau kamu bukanlah Guild Master.
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Guild Siege telah ditutup.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,Level Guild minimal harus %d untuk dapat melakukan Siege.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,Level Guild minimal harus %d untuk dapat melakukan Siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,Kamu akan dikenakan biaya setidaknya %d penya untuk mendaftar ke Siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Kamu akan dikenakan biaya %d penya untuk mendaftar ke Siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Kamu dapat mendaftar ke Guild Siege jika kamu memiliki Penya yang diperlukan.
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Kamu telah meminta %d penya terlebih dahulu. Dan kemudian kamu meminta tambahan %d penya.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Kamu telah berhasil mendaftar ke Guild Siege. Kamu dapat mengatur masuknya Guild mulai pukul 5 pm (PST) setiap hari Sabtu.
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,Registrasi untuk Guild Siege telah selesai.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Kamu telah meminta %d penya terlebih dahulu. Dan kemudian kamu meminta tambahan %d penya.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Kamu telah berhasil mendaftar ke Guild Siege. Kamu dapat mengatur masuknya Guild mulai pukul 5 pm (PST) setiap hari Sabtu.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,Registrasi untuk Guild Siege telah selesai.
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Kamu tidak dapat menggunakannya sekarang.
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Kamu tidak terdaftar pada Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,Biaya akan dikembalikan jika kamu gagal bergabung dengan Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,Guid Siege yang kamu ikuti telah dibatalkan.
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Payback Penya
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,"Halo. Aku Guild Manager Donaris.\nKarena telah dibatalkan, aku akan mengembalikan uangmu setelah dikurangi 20% sebagai komisi.\nSemoga harimu menyenangkan!"
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,Kamu tidak terdaftar pada Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,Biaya akan dikembalikan jika kamu gagal bergabung dengan Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,Guid Siege yang kamu ikuti telah dibatalkan.
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,Guild Siege Application Refund
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!","Halo. Aku Guild Manager Donaris.\nKarena telah dibatalkan, aku akan mengembalikan uangmu setelah dikurangi 20% sebagai komisi.\nSemoga harimu menyenangkan!"
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Semoga harimu menyenangkan!
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","Kamu memenuhi syarat untuk memasuki Guild siege. Silakan selesaikan ""Line up for Guild Siege"" di Flaris sekarang."
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","Kamu gagal memenuhi syarat. Silakan coba lagi minggu depan. Setelah menyelesaikan Guild Siege, terima biaya masuk di Flaris."
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,"Kamu memenuhi syarat untuk memasuki Guild siege. Silakan selesaikan ""Line up for Guild Siege"" di Flaris sekarang."
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","Kamu gagal memenuhi syarat. Silakan coba lagi minggu depan. Setelah menyelesaikan Guild Siege, terima biaya masuk di Flaris."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Guild Siege segera dimulai. Kamu akan diteleport secara otomatis ke flaris dalam %d detik.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","Mulai sekarang, Franky di Flarine bisa membiarkanmu masuk ke arena Guild Siege."
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.","Mulai sekarang, kamu dapat mengatur masuknya Guild Siege."
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Saatnya mengatur barisan dan persiapan Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Guild Siege dimulai dalam
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,End combat
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Teleporting to Flaris
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Mode Guild Siege sekarang tersedia.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.","Untuk saat ini, Kamu tidak dapat mengatur entri."
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.","Anda tidak menerapkan guild siege atau, Anda tidak diterima untuk menghadiri guild siege."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,"Mulai sekarang, Franky di Flarine bisa membiarkanmu masuk ke arena Guild Siege."
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,"Mulai sekarang, kamu dapat mengatur masuknya Guild Siege."
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,Saatnya mengatur barisan dan persiapan Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,Guild Siege dimulai dalam
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,Combat Ends In
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,Teleporting to Flarine
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,Mode Guild Siege sekarang tersedia.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,"Untuk saat ini, Kamu tidak dapat mengatur entri."
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,"Anda tidak menerapkan guild siege atau, Anda tidak diterima untuk menghadiri guild siege."
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Jumlah orang yang %d terlampaui.
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Kamu harus melebihi level %d untuk sebuah entri.
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Terdaftar. Daftar lagi.
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Guild Master tidak bisa menjadi defender.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Tidak ada kingpin atau master guild dalam sebuah entri.
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Tidak ada defender. Pilih defender.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Tidak ada peserta. Pilih peserta.
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,Guild siege diadakan untuk minggu ini.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,Guild Master tidak bisa menjadi defender.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,Tidak ada kingpin atau master guild dalam sebuah entri.
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,Tidak ada defender. Pilih defender.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,Tidak ada peserta. Pilih peserta.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,Guild siege diadakan untuk minggu ini.
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Silakan bergabung setelah beberapa saat.
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Persiapan sedang berlangsung.
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Gelandangan tidak memenuhi syarat untuk pengepungan guild. Coba lagi setelah kesempatan job pertama Anda.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Gelandangan tidak memenuhi syarat untuk pengepungan guild. Coba lagi setelah kesempatan job pertama Anda.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Selamat datang di Pengepungan Guild.
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,Anda dapat memperbesar kamera dengan menekan tombol [Scroll Lock].
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","Kamu adalah master guild! Mengalahkan defender, Anda akan mendapatkan bonus."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Anda defender! Jika Anda dikalahkan oleh musuh, mereka akan mendapatkan bonus."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.","Kalahkan lawanmu untuk kemuliaan guildmu! Mengalahkan defender, Anda akan mendapatkan bonus."
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Selamat, Anda mendapatkan peta guild!"
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Pertempuran dimulai tepat setelah pemeliharaan server. Bersiaplah untuk perang!
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,Anda dapat memperbesar kamera dengan menekan tombol [Scroll Lock].
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,"Kamu adalah master guild! Mengalahkan defender, Anda akan mendapatkan bonus."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.","Anda defender! Jika Anda dikalahkan oleh musuh, mereka akan mendapatkan bonus."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,"Kalahkan lawanmu untuk kemuliaan guildmu! Mengalahkan defender, Anda akan mendapatkan bonus."
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,"Selamat, Anda mendapatkan peta guild!"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,Pertempuran dimulai tepat setelah pemeliharaan server. Bersiaplah untuk perang!
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Start Combat
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Master guild telah memperoleh %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Guildmu telah mendapatkan %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Defendermu sudah mati! %s guild telah mendapatkan poin!
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,Master guild telah memperoleh %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,Guildmu telah mendapatkan %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,Defendermu sudah mati! %s guild telah mendapatkan poin!
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Kamu harus terhubung di Channel 1 untuk masuk ke Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,Kamu harus terhubung di Channel 1 untuk masuk ke Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Guild Siege telah berakhir.
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,Guild pemenang untuk minggu ini: %s guild.
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVP adalah %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,Guild pemenang untuk minggu ini: %s guild.
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,MVP adalah %s.
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Selamat!
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Time Limit
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Entry Phase Ends In
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Kamu tidak bisa mengundang seseorang ke guild saat berada di Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,Kamu bisa membubarkan guild yang telah mengajukan Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Kamu tidak bisa berhenti dari guild saat berada di Guild Siege.
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Kamu tidak dapat mengubah logo guild selama Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Kamu tidak dapat mengubah nama guild selama Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Tidak dapat menyatakan perang selama Guild Siege.
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Kamu tidak dapat menggunakan item selama acara.
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Kamu tidak dapat menggunakan skills selama acara.
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Kamu tidak dapat enchant selama acara.
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,Kamu tidak bisa shout selama acara berlangsung.
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Itu tidak tersedia selama Guild Siege.
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Refund dari kegagalan tender untuk guild siege
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,Halo. Aku seorang manajer guild bernama Donaris.\nAku akan mengembalikan sebagian uangmu. Aku telah mengurangi 2% sebagai komisi.\nAku berharap dapat melihatmu di Guild Siege lagi.\nTerima kasih atas minatmu
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.","Kamu telah menerima hadiah uang untuk MVP atau, Kamu bukan MVP."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Karena jumlahnya melebihi penya persediaan setelah menambahkan hadiah uang guild siege, silakan minta untuk mendapatkan hadiah uang kepada GM di situs web. Maaf atas ketidaknyamanannya."
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Kamu telah menerima %d penya sebagai MVP. Selamat!
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.","Kamu telah menerima hadiah uang atau, Kamu bukan orang yang perlu menerima biaya aplikasi kembali."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Kamu menerima %d penya sebagai hadiah uang untuk pengepungan guild. Selamat!
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Kamu menerima %d penya dikurangi jumlah yang Kamu bayarkan untuk aplikasi.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,Kamu tidak dapat menggunakan item selama acara.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,Kamu tidak dapat menggunakan skills selama acara.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,Kamu tidak dapat enchant selama acara.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,Kamu tidak bisa shout selama acara berlangsung.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,Itu tidak tersedia selama Guild Siege.
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,Refund dari kegagalan tender untuk guild siege
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",Halo. Aku seorang manajer guild bernama Donaris.\nAku akan mengembalikan sebagian uangmu. Aku telah mengurangi 2% sebagai komisi.\nAku berharap dapat melihatmu di Guild Siege lagi.\nTerima kasih atas minatmu
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.","Kamu telah menerima hadiah uang untuk MVP atau, Kamu bukan MVP."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,"Karena jumlahnya melebihi penya persediaan setelah menambahkan hadiah uang guild siege, silakan minta untuk mendapatkan hadiah uang kepada GM di situs web. Maaf atas ketidaknyamanannya."
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,Kamu telah menerima %d penya sebagai MVP. Selamat!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.","Kamu telah menerima hadiah uang atau, Kamu bukan orang yang perlu menerima biaya aplikasi kembali."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,Kamu menerima %d penya sebagai hadiah uang untuk pengepungan guild. Selamat!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,Kamu menerima %d penya dikurangi jumlah yang Kamu bayarkan untuk aplikasi.
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Kamu tidak dapat menggunakan ini saat transy sedang digunakan.
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Akun ini diblokir. Hubungi FlyFF Support untuk mendapatkan bantuan.
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Kamu tidak bisa pergi dengan cara ini.

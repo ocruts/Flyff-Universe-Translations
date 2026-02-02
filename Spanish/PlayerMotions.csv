@@ -4,7 +4,7 @@ PROPMOTION_TXT_000001,Combat Stance,Posición de Combate
 PROPMOTION_TXT_000002,,
 PROPMOTION_TXT_000003,Sit Down,Sentarse
 PROPMOTION_TXT_000004,,
-PROPMOTION_TXT_000005,Pickup Nearby Item,Recoger Objeto Cercano
+PROPMOTION_TXT_000005,Pick Up Nearby Item,Recoger Objeto Cercano
 PROPMOTION_TXT_000006,,
 PROPMOTION_TXT_000007,Shake Hands,Apretón de Manos
 PROPMOTION_TXT_000008,,
@@ -14,7 +14,7 @@ PROPMOTION_TXT_000011,Nod Head,Asentir con la Cabeza
 PROPMOTION_TXT_000012,,
 PROPMOTION_TXT_000013,Shake Head,Negar con la Cabeza
 PROPMOTION_TXT_000014,,
-PROPMOTION_TXT_000015,Run in place,Correr
+PROPMOTION_TXT_000015,Run in Place,Correr
 PROPMOTION_TXT_000016,,
 PROPMOTION_TXT_000017,Parade Rest,Posición de Descanso
 PROPMOTION_TXT_000018,,
@@ -38,28 +38,28 @@ PROPMOTION_TXT_000035,Kneel,Arrodillarse
 PROPMOTION_TXT_000036,,
 PROPMOTION_TXT_000037,Push-Ups,Flexiones
 PROPMOTION_TXT_000038,,
-PROPMOTION_TXT_000039,Shake butt,Mueca de desafio
+PROPMOTION_TXT_000039,Shake Butt,Mueca de desafio
 PROPMOTION_TXT_000040,Pow!,¡Pow!
 PROPMOTION_TXT_000041,Punch,Golpear
 PROPMOTION_TXT_000042,,
-PROPMOTION_TXT_000043,Put head on ground,Poner la cabeza en el suelo
+PROPMOTION_TXT_000043,Put Head to the Ground,Poner la cabeza en el suelo
 PROPMOTION_TXT_000044,,
-PROPMOTION_TXT_000045,Raise weapon,Elevar el arma
+PROPMOTION_TXT_000045,Raise Weapon,Elevar el arma
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,Recoger Suplementos
 PROPMOTION_TXT_000048,,
 PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),Transpórtate al Pueblo mas Cercano. (5 min. de lanzamiento)
 PROPMOTION_TXT_000050,,
-PROPMOTION_TXT_000051,Cheer up another character,Animar a otro personaje.
+PROPMOTION_TXT_000051,Cheer Up Another Player,Animar a otro personaje.
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the selected target,Ataca al objetivo seleccionado.
+PROPMOTION_TXT_000053,Attack the Selected Target,Ataca al objetivo seleccionado.
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected character.,Declararse al personaje seleccionado.
+PROPMOTION_TXT_000055,You propose to the selected player.,Declararse al personaje seleccionado.
 PROPMOTION_TXT_000057,Toggle Weapons,Alternar Armas
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,Activar la divinidad de la Mascota invocada.
-PROPMOTION_TXT_000059,Follow the selected target,Seguir el objetivo seleccionado.
-PROPMOTION_TXT_000060,Swap your current stat page,Cambie su página de estadísticas actual
-PROPMOTION_TXT_000061,Play dead,Hacerse el muerto
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,Activar la divinidad de la Mascota invocada.
+PROPMOTION_TXT_000059,Follow the Selected Target,Seguir el objetivo seleccionado.
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,Cambie su página de estadísticas actual
+PROPMOTION_TXT_000061,Play Dead,Hacerse el muerto
 PROPMOTION_TXT_000062,Propose,Propose
 PROPMOTION_TXT_000063,High Five (Couple),High Five (Couple)
 PROPMOTION_TXT_000064,Hug (Couple),Hug (Couple)
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,Provoke
 PROPMOTION_TXT_000108,Surprised,Surprised
 PROPMOTION_TXT_000109,Look Around,Look Around
 PROPMOTION_TXT_000110,Arm Heart,Arm Heart
-PROPMOTION_TXT_000111,Swap your current skill page,Swap your current skill page
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Switch Your Current Skill Page
 PROPMOTION_TXT_000112,Surrender,Surrender
 PROPMOTION_TXT_000113,Begging,Begging

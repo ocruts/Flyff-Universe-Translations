@@ -628,18 +628,18 @@ TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund
 TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!"
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine."
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.
 TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"You can now enter the Guild Siege arena through Franky in Flarine."
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"You can now set up the Guild Siege lineup."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.
 TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In
 TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In
 TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In
 TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine
 TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"You cannot edit the lineup at this time."
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"Your guild did not apply for the Guild Siege or was not accepted."
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.
@@ -653,10 +653,10 @@ TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.
 TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are the Guild Master! Defeating the Defender grants 1 bonus point."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.
 TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point."
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"You have entered the Guild Siege combat area!"
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!
 TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat
 TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!
@@ -684,7 +684,7 @@ TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.
 TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund
 TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!"
 TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.
 TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!
 TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee."
 TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!

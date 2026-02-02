@@ -25,18 +25,18 @@ MMI_25,Mailbox,Buzón de Mensajes
 MMI_26,Apply,Aplicar
 MMI_27,Status,Estado
 MMI_28,Cancel,Cancelar
-MMI_29,Join,Unirse
+MMI_29,Enter,Unirse
 MMI_30,Ranking,Clasificación
 MMI_31,Cheer,Animar
 MMI_32,Remove piercing card,Eliminar carta de piercing
-MMI_33,Entry,Entrar
-MMI_34,Receipt prize money and application money,Recibir el dinero del premio e inscripción
-MMI_35,The information of prize money,Información del premio
-MMI_36,Acceptance of prize money for MVP,Aceptar dinero del premio al MVP
-MMI_37,Information to Participate,Información para Participar
-MMI_38,Basic Rule,Reglas Básicas
-MMI_39,Condition to Win,Condición de Victoria
-MMI_40,The information of a commission,Información de la comisión
+MMI_33,Lineup Setup,Entrar
+MMI_34,Claim Guild Penya,Recibir el dinero del premio e inscripción
+MMI_35,Reward Information,Información del premio
+MMI_36,Claim MVP Penya Reward,Aceptar dinero del premio al MVP
+MMI_37,Participation Information,Información para Participar
+MMI_38,Basic Rules,Reglas Básicas
+MMI_39,Winning Conditions,Condición de Victoria
+MMI_40,Application Fee Information,Información de la comisión
 MMI_41,The refund of application fee,Devolución del precio de entrada
 MMI_42,Cosmetic Upgrades,Mejoras Cosméticas
 MMI_44,Rock-Paper-Scissors,Piedra-Papel-Tijeras
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,Armario de Cosméticos
 MMI_1018,Lv80 GS Apply,Aplicar Nivel 80 GS
 MMI_1019,Lv80 GS Status,Estado GS Nivel 80
 MMI_1020,Lv80 GS Cancel,Cancelar GS Nivel 80
-MMI_1021,Lv80 GS Join,Unión GS Nivel 80
-MMI_1022,Lv80 GS Line Up,Alinear GS Nivel 80
+MMI_1021,Lv80 GS Enter,Unión GS Nivel 80
+MMI_1022,Lv80 GS Lineup Setup,Alinear GS Nivel 80
 MMI_1023,Lv80 GS Ranking,Rango GS Nivel 80
 MMI_1024,Lv80 GS Information,Información GS Nivel 80
 MMI_1025,Lv60 GS Apply,Aplicar GS Nivel 60
 MMI_1026,Lv60 GS Status,Estado GS Nivel 60
 MMI_1027,Lv60 GS Cancel,Cancelar GS Nivel 60
-MMI_1028,Lv60 GS Join,Unión GS Nivel 60
-MMI_1029,Lv60 GS Line Up,Alinear GS Nivel 60
+MMI_1028,Lv60 GS Enter,Unión GS Nivel 60
+MMI_1029,Lv60 GS Lineup Setup,Alinear GS Nivel 60
 MMI_1030,Lv60 GS Ranking,Rango GS Nivel 60
 MMI_1031,Lv60 GS Information,Información GS Nivel 60
 MMI_1032,Blue Chip Shop,Tienda de Ficha Azul

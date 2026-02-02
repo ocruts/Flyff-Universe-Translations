@@ -1,17 +1,25 @@
-﻿#b#cff0000ff* Reward#nb#nc
-#b#cff0000ff* Reward Red Chips#nb#nc
-- Winning Guild: 34 x number of participating guilds
-- Second Guild: 24 x number of participating guilds
-- Third Guild: 14 x number of participating guilds
-- Fourth Guild: 8 x number of participating guilds
-- Fifth Guild: 4 x number of participating guilds
-#b#cff0000ff* Reward Money#nb#nc
-- Winning Guild: 35% of total applying money
-- Best Player: 15% of total applying money
-#b#cff0000ff* Reward Present#nb#nc
-- 1 victory: Dragon Cloak of the Initiate, All stats +5
-- 2 victories in a row: Dragon Cloak of the Adept, All stats +6, HP MAX+100
-- 3 victories in a row: Dragon Cloak of the Master, All stats +7 , HP MAX+100
-- 4 victories in a row: Dragon Cloak of the Hero, All stats +8, HP MAX+100
-#b#cffff0000* A button is shown up with which can create Dragon Cloak freely in the Guild bank.#nb#nc
-* Dragon Cloak can be put on only before the next Guild Combat begins.
+﻿#b#cff0000ff Reward Information #nb#nc
+
+※ Red Chip Rewards
+  - All guilds that meet the minimum point requirement receive 1,000 Red Chips per participating guild member.
+
+※ Green Chip Rewards
+  - 1st Place Guild: 150 per participating guild member
+  - 2nd Place Guild: 100 per participating guild member
+  - 3rd Place Guild: 50 per participating guild member
+  - 4th Place Guild: 25 per participating guild member
+  - 5th Place Guild: 13 per participating guild member
+  - 6th–10th Place Guilds: 6 per participating guild member
+
+※ Penya Rewards
+  - Winning Guild: 35% of the total application money
+  - Best Player: 15% of the total application money
+
+※ Special Rewards
+  - 1 consecutive victory: Dragon Cloak of the Initiate (All Stats +5)
+  - 2 consecutive victories: Dragon Cloak of the Adept (All Stats +6, Max HP +100)
+  - 3 consecutive victories: Dragon Cloak of the Master (All Stats +7, Max HP +100)
+  - 4 consecutive victories: Dragon Cloak of the Hero (All Stats +8, Max HP +100)
+
+#b#cffff0000※ A button will appear that allows Dragon Cloaks to be created freely in the Guild Warehouse.#nb#nc
+※ Dragon Cloaks can only be equipped until the next Guild Siege begins.

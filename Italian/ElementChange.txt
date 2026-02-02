@@ -1,2 +1,2 @@
-#b#cff0000ff Pergamena del Cambiamento degli Elementi#nb#nc
+﻿#b#cff0000ff Pergamena del Cambiamento degli Elementi#nb#nc
 Dopo aver inserito un oggetto applicabile nella casella sopra, puoi selezionare una delle icone sottostanti per convertire l'attributo elementale di un oggetto.

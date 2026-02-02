@@ -1,4 +1,4 @@
-#b#cff0000ffHaustier neu rollen #nb#nc
+﻿#b#cff0000ffHaustier neu rollen #nb#nc
 Du kannst das #bLevel#nb eines ausgewählten Tiers ändern, wodurch ein neues zufälliges Level entsteht, das #bhöher oder niedriger#nb als das aktuelle Level sein kann.  
 #cffff0000Die Anzahl der beim Auswählen des Tiers angezeigten Schriftrollen wird verbraucht.#nc  
 Sobald du eine Stufe für das Neu-Rollen ausgewählt hast, bleibt #bnur diese Stufe#nb für das Neu-Rollen berechtigt, und alle anderen Stufen können mit einer Neu-Rollen-Schriftrolle nicht mehr verändert werden.

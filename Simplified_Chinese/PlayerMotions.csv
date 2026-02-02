@@ -4,7 +4,7 @@ PROPMOTION_TXT_000001,Combat Stance,准备战斗
 PROPMOTION_TXT_000002,,
 PROPMOTION_TXT_000003,Sit Down,坐下休息
 PROPMOTION_TXT_000004,,
-PROPMOTION_TXT_000005,Pickup Nearby Item,捡东西
+PROPMOTION_TXT_000005,Pick Up Nearby Item,捡东西
 PROPMOTION_TXT_000006,,
 PROPMOTION_TXT_000007,Shake Hands,握手
 PROPMOTION_TXT_000008,,
@@ -14,7 +14,7 @@ PROPMOTION_TXT_000011,Nod Head,点头
 PROPMOTION_TXT_000012,,
 PROPMOTION_TXT_000013,Shake Head,摇头
 PROPMOTION_TXT_000014,,
-PROPMOTION_TXT_000015,Run in place,齐步走
+PROPMOTION_TXT_000015,Run in Place,齐步走
 PROPMOTION_TXT_000016,,
 PROPMOTION_TXT_000017,Parade Rest,稍息
 PROPMOTION_TXT_000018,,
@@ -38,28 +38,28 @@ PROPMOTION_TXT_000035,Kneel,下跪
 PROPMOTION_TXT_000036,,
 PROPMOTION_TXT_000037,Push-Ups,俯卧撑
 PROPMOTION_TXT_000038,,
-PROPMOTION_TXT_000039,Shake butt,挑衅
+PROPMOTION_TXT_000039,Shake Butt,挑衅
 PROPMOTION_TXT_000040,Pow!,呵！喝！哈！兮！
 PROPMOTION_TXT_000041,Punch,操练
 PROPMOTION_TXT_000042,,
-PROPMOTION_TXT_000043,Put head on ground,趴下
+PROPMOTION_TXT_000043,Put Head to the Ground,趴下
 PROPMOTION_TXT_000044,,
-PROPMOTION_TXT_000045,Raise weapon,前进
+PROPMOTION_TXT_000045,Raise Weapon,前进
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,资源采集
 PROPMOTION_TXT_000048,,
 PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),移动至最近的城镇(吟唱5分钟)
 PROPMOTION_TXT_000050,,
-PROPMOTION_TXT_000051,Cheer up another character,给其他玩家鼓励
+PROPMOTION_TXT_000051,Cheer Up Another Player,给其他玩家鼓励
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the selected target,攻击选定目标
+PROPMOTION_TXT_000053,Attack the Selected Target,攻击选定目标
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected character.,向选定角色求婚。
+PROPMOTION_TXT_000055,You propose to the selected player.,向选定角色求婚。
 PROPMOTION_TXT_000057,Toggle Weapons,切换武器
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,激活你召唤宠物的祝福技能（消耗宠物能量：60）
-PROPMOTION_TXT_000059,Follow the selected target,跟随选定目标
-PROPMOTION_TXT_000060,Swap your current stat page,切换属性页
-PROPMOTION_TXT_000061,Play dead,装死
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,激活你召唤宠物的祝福技能（消耗宠物能量：60）
+PROPMOTION_TXT_000059,Follow the Selected Target,跟随选定目标
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,切换属性页
+PROPMOTION_TXT_000061,Play Dead,装死
 PROPMOTION_TXT_000062,Propose,Propose
 PROPMOTION_TXT_000063,High Five (Couple),High Five (Couple)
 PROPMOTION_TXT_000064,Hug (Couple),Hug (Couple)
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,Provoke
 PROPMOTION_TXT_000108,Surprised,Surprised
 PROPMOTION_TXT_000109,Look Around,Look Around
 PROPMOTION_TXT_000110,Arm Heart,Arm Heart
-PROPMOTION_TXT_000111,Swap your current skill page,Swap your current skill page
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Switch Your Current Skill Page
 PROPMOTION_TXT_000112,Surrender,Surrender
 PROPMOTION_TXT_000113,Begging,Begging

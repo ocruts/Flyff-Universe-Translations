@@ -1,4 +1,4 @@
-﻿#b#cff0000ff* Applying Fee#nb#nc
-- Cancellation: 20% of applying money is deducted.
-- Failure: 2% of applying money is deducted.
-* Please make it sure that the 10 Guilds which succeed to join Guild Combat cannot get back the applying money.
+﻿#b#cff0000ff Application Fee Information #nb#nc
+※ If you cancel your application, 20% of the application fee is deducted.
+※ If your application does not place in the top 10 bidding guilds, 2% of the application fee is deducted.
+※ The 10 guilds that successfully enter Guild Siege do not receive a refund of the application fee.

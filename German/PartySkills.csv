@@ -1,19 +1,19 @@
 ﻿Key,English,German
 PROPTROUPESKILL_TXT_000000,Call,Call
-PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,"Eine Hand erscheint über dem Kopf der Spieler und zeigt in die Richtung, in welcher der Leiter der Party ist."
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,"Eine Hand erscheint über dem Kopf der Spieler und zeigt in die Richtung, in welcher der Leiter der Party ist."
 PROPTROUPESKILL_TXT_000002,Blitz,Blitz
-PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,"Dieser Skill markiert ein Ziel, auf welches die Party ihren Angriff konzentrieren soll. Dieser Skill benötigt keine Partypunkte."
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,"Dieser Skill markiert ein Ziel, auf welches die Party ihren Angriff konzentrieren soll. Dieser Skill benötigt keine Partypunkte."
 PROPTROUPESKILL_TXT_000004,Retreat,Retreat
-PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Fordert die Mitglieder zum Rückzug auf.
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,Fordert die Mitglieder zum Rückzug auf.
 PROPTROUPESKILL_TXT_000008,Precision,Precision
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
 PROPTROUPESKILL_TXT_000010,Linked Attack,Linked Attack
-PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Erhöht die Angriffskraft des Partyleiters und hängt von der Anzahl der Partymitglieder in der Nähe ab.
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Erhöht die Angriffskraft des Partyleiters und hängt von der Anzahl der Partymitglieder in der Nähe ab.
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Lucky Drop
-PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,"Ab Partylevel 25 verfügbar. Erhöht die Chance, dass ein Monster einen seltenen Gegenstand fallen lässt."
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,"Ab Partylevel 25 verfügbar. Erhöht die Chance, dass ein Monster einen seltenen Gegenstand fallen lässt."
 PROPTROUPESKILL_TXT_000014,Resting,Resting
-PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,"Erhöht die Wiederherstellungsrate der HP der Partymitglieder um das 1,5-fache. Wenn der Partyleiter Assist ist, erhöht sie sich um das 1,8-fache."
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.","Erhöht die Wiederherstellungsrate der HP der Partymitglieder um das 1,5-fache. Wenn der Partyleiter Assist ist, erhöht sie sich um das 1,8-fache."
 PROPTROUPESKILL_TXT_000016,Gift Box,Gift Box
-PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,Ab Partylevel 40 verfügbar. Erhöht die Droprate. Jeder Gegenstand hat unterschiedlich hohe Dropchancen. Entweder eine doppelte Drop- oder eine normale Drop-Chance für die Dauer des Skills.
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,Ab Partylevel 40 verfügbar. Erhöht die Droprate. Jeder Gegenstand hat unterschiedlich hohe Dropchancen. Entweder eine doppelte Drop- oder eine normale Drop-Chance für die Dauer des Skills.
 PROPTROUPESKILL_TXT_000018,Global Attack,Global Attack
-PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,"Jedes Partymitglied erhält einen 2,5% Schadensbonus für jedes Partymitglied in seiner Nähe. Falls der Partyleiter zusätzlich #iLink Attack#ni nutzt, wirkt dieser Partyskill nicht für den Partyleiter."
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,"Jedes Partymitglied erhält einen 2,5% Schadensbonus für jedes Partymitglied in seiner Nähe. Falls der Partyleiter zusätzlich #iLink Attack#ni nutzt, wirkt dieser Partyskill nicht für den Partyleiter."

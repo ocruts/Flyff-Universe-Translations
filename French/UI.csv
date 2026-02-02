@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 LANGUAGE_CODE,EN,FR
 UI_HOME_TITLE,Home,Accueil
 UI_HOME_GUESTCHAR,Guest Character,Personnage invité
@@ -677,8 +677,8 @@ UI_PIERCING_MATERIAL,Power Dice,Dés de puissance
 UI_PIERCING_PROTECTSCROLL,GProtect,Gprotect
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,"Souhaitez-vous percer cet objet ? Attention : sans Parchemin Gprotect, il risque de se détruire si le piercing échoue."
 UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,"Sans parchemin Gprotect, vous perdrez l'objet en cas d'échec."
-UI_PIERCING_REMOVE_TITLE,Remove Set Card,Enlever une carte de piercing
-UI_PIERCING_REMOVE_MSG,Do you confirm the card removal and destruction?,Voulez-vous vraiment retirer cette carte et la détruire ?
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Enlever une carte de piercing
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Voulez-vous vraiment retirer cette carte et la détruire ?
 UI_PIERCING_REMOVE_OK,Remove,Supprimer
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,Les chances de succès augmentent à chaque échec.
 UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Tentatives d'amélioration : %d
@@ -698,9 +698,9 @@ UI_UPGRADE_CHANCESCROLL,SFusion,Parchemin Sfusion
 UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Le niveau d'attribut diminuera en cas d'échec. Vous ne perdrez pas l'objet.
 UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,"Sans parchemin Sprotect, vous perdrez l'objet en cas d'échec."
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Voulez-vous améliorer cet objet ?
-UI_ATTRIBUTE_REMOVE_TITLE,Remove Element upgrading,Supprimer l'enchantement
+UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Supprimer l'enchantement
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Confirmer la suppression
-UI_ATTRIBUTE_REMOVE_MSG,"That weapon will be removed element upgrading. And 1,000,000 Penya will be paid from your inventory.",L'enchantement de cet objet va être supprimé pour un coût de 1 000 000 Penyas.
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,L'enchantement de cet objet va être supprimé pour un coût de 1 000 000 Penyas.
 UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,Vous pouvez utiliser un objet premium.
 UI_REVIVAL_REVIVAL,Original Place,Lieu de Départ
 UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,Vous serez ressuscité sur le lieu de votre mort.
@@ -931,16 +931,16 @@ UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Souhaitez-vous entrer dans 
 UI_NETWORK_ERROR_TITLE,Network Error,Erreur réseau
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","Une erreur réseau s'est produite, veuillez vérifier votre connexion et vous reconnecter."
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Lieu de résurrection
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st area.,Vous allez entrer dans le premier secteur
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd area.,Vous allez entrer dans le second secteur
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd area.,Vous allez entrer dans le troisième secteur
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th area.,Vous allez entrer dans le quatrième secteur
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.,Vous allez entrer dans la 5ᵉ zone.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.,Vous allez entrer dans la 6ᵉ zone.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.,Vous allez entrer dans la 7ᵉ zone.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.,Vous allez entrer dans la 8ᵉ zone.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the area you wish to enter.,Sélectionner une zone d'admission
-UI_GUILDCOMBAT_JOINWAR_MSG,"After %d, you enter %s.","Après %d, vous entrez en combat %s."
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Vous allez entrer dans le premier secteur
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Vous allez entrer dans le second secteur
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Vous allez entrer dans le troisième secteur
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Vous allez entrer dans le quatrième secteur
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,Vous allez entrer dans la 5ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,Vous allez entrer dans la 6ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,Vous allez entrer dans la 7ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,Vous allez entrer dans la 8ᵉ zone.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Sélectionner une zone d'admission
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","Après %d, vous entrez en combat %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Aléatoire
 UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
 UI_GUILDCOMBAT_RATE,Current rank:,Classement guildes
@@ -1389,7 +1389,7 @@ UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Frappe d'Esprit
 UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,Vol de PF
 UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,Dégâts de PV provisoires
 UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Dégâts+%d%%
-UI_LEVELDOWN_CANCEL_TITLE,Cancel Reduction,Fermer la fenêtre de diminution de niveau
+UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Fermer la fenêtre de diminution de niveau
 UI_MSGBOX_CONFIRM,Confirm,Valider
 UI_CHANGECHAR_TITLE,Change Character,Changer de personnage
 UI_CHANGECHAR_MSG,Select character and channel:,Veuillez choisir un personnage et un canal :
@@ -2134,7 +2134,7 @@ UI_SESSION_REMOVEALL,Remove All,Tout supprimer
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Attention
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Les performances du client sont faibles.\nVeuillez vérifier les 2 points ci-dessous.
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) Modifier les paramètres vidéo/graphiques du jeu en fonction de votre PC.
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your broswer has hardware acceleration turned on.,2) Assurez-vous que l'accélération matérielle est activée sur votre navigateur.
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Assurez-vous que l'accélération matérielle est activée sur votre navigateur.
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Accéder aux paramètres de jeu
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Terminer la course Arc-en-ciel
 UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Débloquez via des quêtes, des succès, ou un Sac Supplémentaire dans la Boutique"
@@ -2498,9 +2498,9 @@ UI_MATOURNAMENT_BETTING_DATE,Last Date,Dernière date
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Êtes-vous sûr de vouloir miser sur cette équipe ?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Penya misés
 UI_MATOURNAMENT_BETTING_NOREWARD,None,Aucun
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Set Jewel,Retirer le joyau du set
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Retirer le joyau du set
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Supprimer
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Without jewel tweezers, the jewel may be deleted when you remove it. Do you want to continue?","Sans pince à joyaux, le joyau pourrait être détruit lors du retrait. Voulez-vous continuer ?"
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Sans pince à joyaux, le joyau pourrait être détruit lors du retrait. Voulez-vous continuer ?"
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Fusionner un joyau ultime
 UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Enregistrer un joyau matériel ultime
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Fusionnez 3 à 6 joyaux ultimes pour obtenir 1 joyau ultime de grade supérieur
@@ -2532,7 +2532,7 @@ UI_COUPLE_TOTAL_QUESTS,Total Quests Completed,Quêtes totales accomplies
 UI_COUPLE_SINGLE,You are single.,Vous êtes célibataire
 UI_COUPLE_TABPARTNER,Partner,Partenaire
 UI_COUPLE_BREAKUP_TEXT,"Are you sure you want to request a break up from your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Voulez-vous vraiment demander la rupture avec votre partenaire ? En cas de rupture, tous les objets du coffre du couple seront immédiatement perdus et les fonctions de couple ne seront plus disponibles."
-UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.","Voulez-vous vraiment forcer immédiatement la rupture avec votre partenaire ? Tous les objets du coffre du couple seront perdus et les fonctions de couple désactivées."
+UI_COUPLE_BREAKUP_FORCE_TEXT,"Are you sure you want to immediately force a break up with your partner? If you break up, you will immediately lose all items in your couple storage, and couple functions will no longer be available.",Voulez-vous vraiment forcer immédiatement la rupture avec votre partenaire ? Tous les objets du coffre du couple seront perdus et les fonctions de couple désactivées.
 UI_COUPLE_BREAKUP_NOTIFY,"Your partner has requested a break up. If accepted you will immediately lose all items in your couple storage and will no longer be a couple, losing any couple functionality. Do you accept?","Votre partenaire a demandé la rupture. Si vous acceptez, tous les objets du coffre du couple seront perdus et vous ne serez plus un couple. Acceptez-vous ?"
 UI_COUPLE_PROPOSE,Propose,Proposer
 UI_COUPLE_PROPOSE_INFO,Request to form a couple with the recipient using the inserted couple ring.,Demande de formation de couple avec le destinataire en utilisant la bague de couple insérée
@@ -2549,7 +2549,7 @@ UI_ULTIMATE_JEWEL_ONYX,Onyx,Onyx
 UI_RAINBOW_ULTIMATE_JEWEL_COMPOSE_TITLE,Compose Rainbow Ultimate Jewel,Composer un joyau ultime arc-en-ciel
 UI_RAINBOW_ULTIMATE_JEWEL_INFO,You can use all seven jewels of the same grade to get rainbow jewel of the same grade.,Vous pouvez utiliser les sept joyaux du même niveau pour obtenir un joyau arc-en-ciel du même niveau.
 UI_RAINBOW_ULITMATE_JEWEL_DISMANTLE_TITLE,Dismantle Rainbow Jewel,Démanteler le joyau arc-en-ciel
-UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel,Vous pouvez démanteler le joyau arc-en-ciel pour obtenir un joyau ultime
+UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_INFO,You can dismantle the Rainbow Jewel to get Ultimate Jewel.,Vous pouvez démanteler le joyau arc-en-ciel pour obtenir un joyau ultime
 UI_RAINBOW_ULTIMATE_JEWEL_DISMANTLE_NOTICE,"If you fail, you will lose your item.","En cas d’échec, vous perdrez votre objet."
 UI_HOUSINGWARDROBE_INFO,Your wardrobe items can only be worn by #bone#nb NPC at a time.,Les objets de votre garde-robe ne peuvent être portés que par #bone#nb PNJ à la fois
 UI_HOUSINGWARDROBE_CONFIRM,Equip,Équiper
@@ -2594,7 +2594,7 @@ UI_LIFE_FISHING_SKIP_MINIGAME,Skip Minigame,Sauter le mini-jeu
 UI_LIFE_FISHING_SKIP_MINIGAME_AUTO,Skip Minigame automatically,Sauter automatiquement le mini-jeu
 UI_LIFE_FISHING_SKIP_MINIGAME_INFORMATION,"If you skip the minigame, you can't get the buffs for increasing your fishing success to date. Are you sure you want to skip the minigame?","Si vous sautez le mini-jeu, vous ne pourrez pas obtenir les bonus d’augmentation de votre réussite de pêche actuelle. Êtes-vous sûr de vouloir sauter le mini-jeu ?"
 UI_LIFE_FISHING_BAIT_SELECTION,Bait Selection,Sélection de l’appât
-UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get.,Sélectionnez l’appât que vous souhaitez utiliser pour la pêche. L’appât choisi influencera la rareté des poissons que vous pourrez obtenir
+UI_LIFE_FISHING_BAIT_SELECTION_INFORMATION,Select the bait you want to use for fishing. The bait you use will change the rarity of fish you can get. ,Sélectionnez l’appât que vous souhaitez utiliser pour la pêche. L’appât choisi influencera la rareté des poissons que vous pourrez obtenir
 UI_QUEST_GATHERING_HERB,Gathering herb. #cffc32f07#b%d/%d#nb#nc,Ramassage d’herbes. #cffc32f07#b%d/%d#nb#nc
 UI_LIFE_FISHING_GUESS,Guess which bait the fish will take.,Devinez quel appât le poisson prendra
 UI_LIFE_FISHING_SUCCESS_RATE_INCREASE,Fishing success %% goes up when you win.\n(Current success rate %.1f%%),Le taux de réussite à la pêche augmente lorsque vous gagnez.\n(Taux actuel %.1f%%)

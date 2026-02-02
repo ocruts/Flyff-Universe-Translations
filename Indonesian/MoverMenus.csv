@@ -25,18 +25,18 @@ MMI_25,Mailbox,Mailbox
 MMI_26,Apply,Apply
 MMI_27,Status,Status
 MMI_28,Cancel,Cancel
-MMI_29,Join,Join
+MMI_29,Enter,Enter
 MMI_30,Ranking,Ranking
 MMI_31,Cheer,Cheer
 MMI_32,Remove piercing card,Lepaskan piercing card
-MMI_33,Entry,Entry
-MMI_34,Receipt prize money and application money,Terima prize money dan application money
-MMI_35,The information of prize money,Informasi prize money
-MMI_36,Acceptance of prize money for MVP,Penerimaan prize money untuk MVP
-MMI_37,Information to Participate,Information to Participate
-MMI_38,Basic Rule,Basic Rule
-MMI_39,Condition to Win,Syarat untuk menang
-MMI_40,The information of a commission,Informasi komisi
+MMI_33,Lineup Setup,Lineup Setup
+MMI_34,Claim Guild Penya,Terima prize money dan application money
+MMI_35,Reward Information,Informasi prize money
+MMI_36,Claim MVP Penya Reward,Penerimaan prize money untuk MVP
+MMI_37,Participation Information,Participation Information
+MMI_38,Basic Rules,Basic Rules
+MMI_39,Winning Conditions,Syarat untuk menang
+MMI_40,Application Fee Information,Informasi komisi
 MMI_41,The refund of application fee,Pengembalian application fee
 MMI_42,Cosmetic Upgrades,Cosmetic Upgrades
 MMI_44,Rock-Paper-Scissors,Rock-Paper-Scissors
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,Cosmetic Wardrobe
 MMI_1018,Lv80 GS Apply,Lv80 GS Terapkan
 MMI_1019,Lv80 GS Status,Lv80 GS Status
 MMI_1020,Lv80 GS Cancel,Lv80 GS Batalkan
-MMI_1021,Lv80 GS Join,Lv80 GS Gabung
-MMI_1022,Lv80 GS Line Up,Lv80 GS Barisan
+MMI_1021,Lv80 GS Enter,Lv80 GS Gabung
+MMI_1022,Lv80 GS Lineup Setup,Lv80 GS Barisan
 MMI_1023,Lv80 GS Ranking,Lv80 GS Peringkat
 MMI_1024,Lv80 GS Information,Lv80 GS Informasi
 MMI_1025,Lv60 GS Apply,Lv60 GS Terapkan
 MMI_1026,Lv60 GS Status,Lv60 GS Status
 MMI_1027,Lv60 GS Cancel,Lv60 GS Batalkan
-MMI_1028,Lv60 GS Join,Lv60 GS Join
-MMI_1029,Lv60 GS Line Up,Lv60 GS Barisan
+MMI_1028,Lv60 GS Enter,Lv60 GS Enter
+MMI_1029,Lv60 GS Lineup Setup,Lv60 GS Barisan
 MMI_1030,Lv60 GS Ranking,Lv60 GS Peringkat
 MMI_1031,Lv60 GS Information,Lv60 GS Informasi
 MMI_1032,Blue Chip Shop,Blue Chip Shop

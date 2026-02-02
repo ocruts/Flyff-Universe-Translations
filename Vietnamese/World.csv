@@ -45,9 +45,9 @@ WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the 
 WDKEBARAS_WLD_000000,Lodelight,Lodelight
 WDKEBARAS_WLD_000001,This is a safe place.,Đây là 1 nơi an toàn
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,Welcome to the town Kebaras!\nThis place was a prison for criminals a long time ago...,Chào mừng đến với thị trấn Kebaras!\nNơi đây từng là nhà tù dành cho tội phạm cách đây rất lâu...
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",Chào mừng đến với thị trấn Kebaras!\nNơi đây từng là nhà tù dành cho tội phạm cách đây rất lâu...
 WDMADRIGAL_WLD_000000,Mysterious Castle,Lâu đài huyền bí
-WDMADRIGAL_WLD_000001,This place is not referenced on the map. No one knows how to enter inside...,Địa điểm này không được tham chiếu trên bản đồ. Không ai biết cách vào bên trong ...
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,Địa điểm này không được tham chiếu trên bản đồ. Không ai biết cách vào bên trong ...
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Nơi ẩn náu của dãy núi Middle Leren
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Phòng tuyến Flarine ↔ Thành phố Saint
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,Phòng tuyến Flarine ↔ Darkon 1
@@ -60,14 +60,14 @@ WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,Phòng tuyến Arians ↔ Guardi
 WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,Phòng tuyến Arians ↔ Deadwallderness
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,Azria\nNhà máy bị bỏ rơi Erons
 WDMADRIGAL_WLD_000013,Azria\nVillage,Azria\nNgôi làng
-WDMADRIGAL_WLD_000014,Line Deadwalderness ↔ Azria,Dòng lệnh từ Deadwalderness ↔ Azria
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Dòng lệnh từ Deadwalderness ↔ Azria
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,Storm Peak Entrance
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,Envy Depths Entrance
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Cổng vào Guardiane Sanctuary 
 WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Leren Chasm Entrance
 WDMADRIGAL_WLD_000022,Wilds Entrance,Wilds Entrance
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,Rhisis Catacombs
-WDMADRIGAL_WLD_000024,This is a safe space.,Đây là 1 nơi an toàn.
+WDMADRIGAL_WLD_000024,This is a safe place.,Đây là 1 nơi an toàn.
 WDMADRIGAL_WLD_000025,The Wilds Entrance,The Wilds Entrance
 WDMADRIGAL_WLD_000026,Coral Village,Coral Village
 WDMADRIGAL_WLD_000028,Coral Island,Coral Island
@@ -76,20 +76,20 @@ WDMADRIGAL_WLD_000030,Red Sea,Red Sea
 WDMADRIGAL_WLD_000032,Deep Sea,Deep Sea
 WDMADRIGAL_WLD_000034,Swamp,Swamp
 WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place used to be famous a long time ago...,This place used to be famous a long time ago...
+WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
-WDMADRIGAL_WLD_000040,This is a safe space.,Đây là 1 nơi an toàn.
+WDMADRIGAL_WLD_000040,This is a safe place.,Đây là 1 nơi an toàn.
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
 WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
-WDMADRIGAL_WLD_000047,This is a safe space.,Đây là 1 nơi an toàn.
+WDMADRIGAL_WLD_000047,This is a safe place.,Đây là 1 nơi an toàn.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\nNhà máy Erons 2
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used for producing Erons.,Nhà máy Erons 2. Được sử dụng để sản xuất Erons.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Nhà máy Erons 2. Được sử dụng để sản xuất Erons.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,Chính giữa của Dãy núi Leren
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,Quận giữa của Dãy núi Leren ở Flaris.\nCó Billeting Place của High-Dwarpets và Plain of Bubble.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,Flarine\nTrung tâm Flarine
@@ -103,12 +103,12 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,Đồng bằng của Bubb
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,Khu vực này được tạo ra bởi Clown God Bubble.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,Phía nam của dãy núi Leren
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,Huyện phía nam của dãy núi Leren.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat..,Trung tâm Chiến đấu Bang hội ..
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,Trung tâm Chiến đấu Bang hội ..
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,Chiến đấu bang hội được quản lý ở đây.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,Phía Nam của dãy núi Leren\nBàn thờ Dreadpet
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,Dreadpet được giữ ở đây.\nNhững người canh giữ của anh ta kiểm soát ma thuật tuyệt vời.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,Darkon 1\nNhà máy Erons 1
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The 1st Erons Factory.\nThis factory produces 80% of all Erons.,Nhà máy Erons đầu tiên.\nNhà máy này sản xuất 80% tổng số Eron.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,Nhà máy Erons đầu tiên.\nNhà máy này sản xuất 80% tổng số Eron.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,Darkon\nBàn thờ của Violet
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,Ở đây có bằng chứng về một sự kiện lớn.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,Chính giữa của Dãy núi Leren
@@ -122,7 +122,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to ha
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,Lodelight
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,Đây là 1 nơi an toàn
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,Thị trấn Madren
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast off Demian live in this town.,Đây là một thị trấn nhỏ của Demian.\nĐưa Demian đến sống ở thị trấn này.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,Đây là một thị trấn nhỏ của Demian.\nĐưa Demian đến sống ở thị trấn này.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,Chính giữa dòng sông khóc
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.,Con sông này dâng trào ra khi trời mưa thỉnh thoảng lại đổ xuống.\nĐôi khi có thể nhìn thấy High-Dwarpet đang tắm ở đây.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037,Madren Town\nAltar of Dreadpet,Thị trấn Madren\nBàn thờ Dreadpet
@@ -130,10 +130,10 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpe
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039,Fountain of Dead Person,Đài phun nước của người chết
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040,"It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life.","Người ta biết rằng các linh hồn tụ họp với nhau ở nơi này.\nTheo truyền thống, nước ở nơi này mang lại tuổi trẻ lâu năm và cuộc sống lâu dài."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041,Northern Leren Mountains,Phía bắc dãy núi Leren
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and Fountain of Dead Person is here.,Huyện phía Bắc của dãy núi Leren.\nHầm mỏ Sao Hỏa và Đài phun nước của Người chết ở đây.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,Huyện phía Bắc của dãy núi Leren.\nHầm mỏ Sao Hỏa và Đài phun nước của Người chết ở đây.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,Hầm mỏ Sao Hỏa
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044,"This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now.","Hầm mỏ này được tìm thấy và phát triển bởi các thương nhân khai thác từ rất lâu trước đây.\n Tuy nhiên, nơi này đang tràn ngập Masquerpets."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence in Ludviehill,Khu dân cư ở Ludviehill
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,Khu dân cư ở Ludviehill
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046,The rich of Flaris live in Ludviehill.,Người giàu của Flaris sống tại Ludviehill
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049,Saint Tree,Cây Saint
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.,Cây Saint đã già rồi\n Cây này là một trong những biểu tượng của Saint Morning.
@@ -151,7 +151,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061,Saint Morning has gained independence fro
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062,Saint Morning\nStation,Saint Morning\nTrạm
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063,This is the biggest station on Madrigal.\nSaint Morning could become the center of commerce for Madrigal by using this station.,Đây là nhà ga lớn nhất trên Madrigal.\nSaint Morning có thể trở thành trung tâm thương mại của Madrigal bằng cách sử dụng nhà ga này.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064,Saint Morning square,Quảng trường Saint Morning
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is local hang out.\nThere is lots of space to open stores.,Quảng trường Saint Morning là nơi người dân địa phương đi chơi.\nCó nhiều không gian để mở cửa hàng.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is a local hang out.\nThere is lots of space to open stores.,Quảng trường Saint Morning là nơi người dân địa phương đi chơi.\nCó nhiều không gian để mở cửa hàng.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066,Saint Morning\nThe Madrigal History Society.,Saint Morning\nHiệp hội Lịch sử Madrigal.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067,Research in the History of Madrigal is being made here.,Nghiên cứu về Lịch sử của Madrigal đang được thực hiện ở đây.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068,Flaris\nAltar of Violet,Flaris\nBàn thờ của Violet
@@ -169,7 +169,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079,Plateau of Silence\nGravity Disorder Area
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080,"It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world.","Không thể bay trong khu vực này của Madrigal. Theo một nhóm nghiên cứu, lực hấp dẫn ở đây mạnh hơn bất kỳ nơi nào khác trên thế giới."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081,Hill of Shade,Ngọn đồi của Shade
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082,"Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye.","Shade, Clown Goddess đã ở đây.\nCô ấy đã tạo ra nơi này trong thời gian chớp mắt."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe area. You are safe from enemies.,Đây là một khu vực an toàn. Bạn được an toàn trước kẻ thù.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,Đây là một khu vực an toàn. Bạn được an toàn trước kẻ thù.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,Thị trấn Pumpkin\nNgôi nhà của Mr. Pumpkin.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.","Thị trấn này được thành lập bởi những người không thích cuộc sống thành phố Saint Morning.\nTuy nhiên, thị trấn này đã bị hủy hoại vì một cuộc xâm lược của Mr. Pumpkins."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,Trung tâm dãy núi Hillid
@@ -229,15 +229,15 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139,Artificial cave.\nThe area surrounding Da
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,Darkon 2\nHang động của Envy
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,Hang động nhân tạo.\nKhu vực xung quanh Darken đã bị phá hoại bởi Masquerpets\nsau cuộc chiến tranh Clockworks.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,Darkon 2\nHang động của Envy
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks war.,Hang động nhân tạo.\nKhu vực xung quanh Darken đã bị phá hoại bởi Masquerpets\nsau cuộc chiến tranh Clockworks.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,Hang động nhân tạo.\nKhu vực xung quanh Darken đã bị phá hoại bởi Masquerpets\nsau cuộc chiến tranh Clockworks.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,Darkon 1\nKhipra
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,Động vật hoang dã xung quanh khu vực này đã bị phá hủy bởi các nhà phát triển\nxây dựng Nhà máy Erons gần đó.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,Động vật hoang dã xung quanh khu vực này đã bị phá hủy bởi các nhà phát triển\nxây dựng Nhà máy Erons gần đó.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,Darkon 1\nDãy núi Gouthan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147,The biggest mountains in Darkon.,Dãy núi lớn nhất ở Darkon
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,Darkon 1\nDãy núi Gouthan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149,The biggest mountains in Darkon.,Dãy núi lớn nhất ở Darkon
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,Darkon 1\nKhipra
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,Động vật hoang dã xung quanh khu vực này đã bị phá hủy bởi các nhà phát triển\nxây dựng Nhà máy Erons gần đó.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,Động vật hoang dã xung quanh khu vực này đã bị phá hủy bởi các nhà phát triển\nxây dựng Nhà máy Erons gần đó.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152,Darkon 2\nThe Cage of Clockworks.,Darkon 2\nCái lồng của Clockworks.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153,Clockworks was sealed here after the Clockworks War.,Clockworks đã được niêm phong tại đây sau Chiến tranh Clockworks.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154,Flaris Observatory,Đài quan sát Flaris
@@ -248,7 +248,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,Darkon 1\nN�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,Bàn thờ của Jester
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,Darkon 3\nLàng Kan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions.","Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,Prototype
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,Unknown Place in Madrigal

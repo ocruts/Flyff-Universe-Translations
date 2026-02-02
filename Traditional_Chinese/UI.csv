@@ -677,8 +677,8 @@ UI_PIERCING_MATERIAL,Power Dice,能量骰子
 UI_PIERCING_PROTECTSCROLL,GProtect,穿洞防爆
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,要進行穿洞精鍊嗎
 UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,在沒有使用穿洞防爆卷的狀況下，失敗時道具將會消失
-UI_PIERCING_REMOVE_TITLE,Remove Set Card,解除屬性卡
-UI_PIERCING_REMOVE_MSG,Do you confirm the card removal and destruction?,您是否確認卡片移除並銷毀？
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,解除屬性卡
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,您是否確認卡片移除並銷毀？
 UI_PIERCING_REMOVE_OK,Remove,移除
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,每次失敗的嘗試都會增加成功率。
 UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,升級嘗試：%d
@@ -698,9 +698,9 @@ UI_UPGRADE_CHANCESCROLL,SFusion,精鍊卷軸
 UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,精煉失敗時精煉等級降低，但物品不會消失
 UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,在沒有使用精煉防爆卷的狀況下，失敗時道具將會消失
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,你想要精煉這件物品嗎?
-UI_ATTRIBUTE_REMOVE_TITLE,Remove Element upgrading,移除屬性精煉
+UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,移除屬性精煉
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,確認刪除
-UI_ATTRIBUTE_REMOVE_MSG,"That weapon will be removed element upgrading. And 1,000,000 Penya will be paid from your inventory.",該武器的屬性升級將被解除，您的背包將支付一百萬金幣。
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,該武器的屬性升級將被解除，您的背包將支付一百萬金幣。
 UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,可以使用付費物品。
 UI_REVIVAL_REVIVAL,Original Place,原地
 UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,你將在死亡地點直接復活
@@ -931,16 +931,16 @@ UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,要進入戰場嗎?
 UI_NETWORK_ERROR_TITLE,Network Error,網路錯誤
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.",發生了網路錯誤，請檢查連接並重新登入
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,復活場地
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st area.,您已入場至1號地區。
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd area.,您已入場至2號地區。
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd area.,您已入場至3號地區。
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th area.,您已入場至4號地區。
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.,You have entered the 5th area.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.,You have entered the 6th area.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.,You have entered the 7th area.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.,You have entered the 8th area.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the area you wish to enter.,請參考小地圖，選擇進入的地區。
-UI_GUILDCOMBAT_JOINWAR_MSG,"After %d, you enter %s.",%d秒後，進入%s
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,您已入場至1號地區。
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,您已入場至2號地區。
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,您已入場至3號地區。
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,您已入場至4號地區。
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,You have entered the 5th zone.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,You have entered the 6th zone.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,You have entered the 7th zone.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,You have entered the 8th zone.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,請參考小地圖，選擇進入的地區。
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.",%d秒後，進入%s
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,隨機
 UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
 UI_GUILDCOMBAT_RATE,Current rank:,☆ 目前排名 ☆：
@@ -1389,7 +1389,7 @@ UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,精神打擊
 UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,HP吸收
 UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,HP條傷害紀錄
 UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s 傷害+%d%%
-UI_LEVELDOWN_CANCEL_TITLE,Cancel Reduction,降等取消
+UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,降等取消
 UI_MSGBOX_CONFIRM,Confirm,確認
 UI_CHANGECHAR_TITLE,Change Character,變更角色
 UI_CHANGECHAR_MSG,Select character and channel:,選擇角色和伺服器：
@@ -2134,7 +2134,7 @@ UI_SESSION_REMOVEALL,Remove All,Remove All
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Client performance is low.\nPlease check for 2 items below.
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) Change in-game video/graphic setting adjusted to your PC.
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your broswer has hardware acceleration turned on.,2) Make sure your broswer has hardware acceleration turned on.
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Make sure your browser has hardware acceleration turned on.
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Go to Game Setting
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,完成彩虹賽道
 UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Unlock through quests, achievements, or an Extra Bag from the Cash Shop."
@@ -2498,9 +2498,9 @@ UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,無
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Set Jewel,Remove Set Jewel
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,移除
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Without jewel tweezers, the jewel may be deleted when you remove it. Do you want to continue?",如果沒有寶石鑷子，移除寶石時可能會將其一同移除。您是否要繼續？
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb",如果沒有寶石鑷子，移除寶石時可能會將其一同移除。您是否要繼續？
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Fuse Ultimate Jewel
 UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Register ultimate jewel material gem.
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.

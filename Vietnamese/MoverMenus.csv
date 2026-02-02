@@ -25,18 +25,18 @@ MMI_25,Mailbox,Hộp thư
 MMI_26,Apply,Áp dụng
 MMI_27,Status,Trạng thái
 MMI_28,Cancel,Hủy
-MMI_29,Join,Tham gia
+MMI_29,Enter,Tham gia
 MMI_30,Ranking,xếp hạng
 MMI_31,Cheer,Cổ vũ
 MMI_32,Remove piercing card,Loại bỏ thẻ xuyên qua
-MMI_33,Entry,Lối vào
-MMI_34,Receipt prize money and application money,Nhận tiền thưởng và tiền ứng tuyển
-MMI_35,The information of prize money,Thông tin tiền thưởng
-MMI_36,Acceptance of prize money for MVP,Nhận tiền thưởng cho MVP
-MMI_37,Information to Participate,Thông tin tham gia
-MMI_38,Basic Rule,Quy tắc cơ bản
-MMI_39,Condition to Win,Điều kiện để chiến thắng
-MMI_40,The information of a commission,Thông tin về hoa hồng
+MMI_33,Lineup Setup,Lối vào
+MMI_34,Claim Guild Penya,Nhận tiền thưởng và tiền ứng tuyển
+MMI_35,Reward Information,Thông tin tiền thưởng
+MMI_36,Claim MVP Penya Reward,Nhận tiền thưởng cho MVP
+MMI_37,Participation Information,Thông tin tham gia
+MMI_38,Basic Rules,Quy tắc cơ bản
+MMI_39,Winning Conditions,Điều kiện để chiến thắng
+MMI_40,Application Fee Information,Thông tin về hoa hồng
 MMI_41,The refund of application fee,Hoàn lại phí đăng ký
 MMI_42,Cosmetic Upgrades,Nâng cấp thẩm mỹ
 MMI_44,Rock-Paper-Scissors,Oẳn tù tì
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,Cosmetic Wardrobe
 MMI_1018,Lv80 GS Apply,Lv80 GS Apply
 MMI_1019,Lv80 GS Status,Lv80 GS Status
 MMI_1020,Lv80 GS Cancel,Lv80 GS Cancel
-MMI_1021,Lv80 GS Join,Lv80 GS Join
-MMI_1022,Lv80 GS Line Up,Lv80 GS Line Up
+MMI_1021,Lv80 GS Enter,Lv80 GS Enter
+MMI_1022,Lv80 GS Lineup Setup,Lv80 GS Lineup Setup
 MMI_1023,Lv80 GS Ranking,Lv80 GS Ranking
 MMI_1024,Lv80 GS Information,Lv80 GS Information
 MMI_1025,Lv60 GS Apply,Lv60 GS Apply
 MMI_1026,Lv60 GS Status,Lv60 GS Status
 MMI_1027,Lv60 GS Cancel,Lv60 GS Cancel
-MMI_1028,Lv60 GS Join,Lv60 GS Join
-MMI_1029,Lv60 GS Line Up,Lv60 GS Line Up
+MMI_1028,Lv60 GS Enter,Lv60 GS Enter
+MMI_1029,Lv60 GS Lineup Setup,Lv60 GS Lineup Setup
 MMI_1030,Lv60 GS Ranking,Lv60 GS Ranking
 MMI_1031,Lv60 GS Information,Lv60 GS Information
 MMI_1032,Blue Chip Shop,Blue Chip Shop

@@ -21,6 +21,11 @@ STATBOARD_TXT_000018,CC's applied,CC aplicado
 STATBOARD_TXT_000019,Damage Amped,Daño Amplificado
 STATBOARD_TXT_000020,Damage Mitigated,Daño Mitigado
 STATBOARD_TXT_000021,Damage Reflected,Daño Reflejado
+STATBOARD_TXT_000022,,
+STATBOARD_TXT_000023,,
+STATBOARD_TXT_000024,,
+STATBOARD_TXT_000025,,
+STATBOARD_TXT_000026,,
 STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,Total de segundos que un jugador estuvo controlado por la multitud.
 STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,Total de segundos en que un jugador aplicó el efecto de control de masas a otros jugadores.
 STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Daño total que un jugador amplificó a través de efectos como Holycross, Swordcross, etc."

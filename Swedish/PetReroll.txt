@@ -1,4 +1,5 @@
 ﻿#b#cff0000ff Pet Rerolling #nb#nc
-You can #bchange the level#nb of a selected tier, resulting in a new random level which could be #bhigher or lower#nb than the current level.
-#cffff0000The number of scrolls displayed when selecting a tier will be consumed.#nc
-Once you select a tier to reroll, #bonly that tier will remain eligible for rerolling, disabling all other tiers from rerolling using a reroll scroll#nb.
+You can #bchange the level#nb of a selected tier, resulting in a new random level that may be #bhigher or lower#nb than the current level.
+#cffff0000 The number of scrolls shown when selecting a tier will be consumed. #nc
+Once rerolling is confirmed, the selected tier is permanently set as the #bonly tier eligible for rerolling with reroll scrolls#nb.
+Rerolling the last tier is still possible through pet sacrificing.

@@ -9,4 +9,4 @@ Aktualna liczba zarejestrowanych graczy : %d
 ※ Nie będzie można wejść po upływie limitu czasu.
 ※ Maksymalnie 200 graczy na instancję (100 vs 100)
 ※ Minimalna liczba graczy do nagrody za ranking to 20 lub więcej, a jeśli jest mniej niż 20 graczy, będzie udzielona tylko nagroda zwycięzcy.
-※ Drużyny będą wybierane losowo. 
+※ Drużyny będą wybierane losowo.

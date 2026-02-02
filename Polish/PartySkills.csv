@@ -1,19 +1,19 @@
 ﻿Key,English,Polish
 PROPTROUPESKILL_TXT_000000,Call,Zwołanie
-PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,Pokazuje pozycję Dowódcy drużyny jej członkom.
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,Pokazuje pozycję Dowódcy drużyny jej członkom.
 PROPTROUPESKILL_TXT_000002,Blitz,Natarcie
-PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,Dowódca oznacza i wskazuje cel ataku.
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,Dowódca oznacza i wskazuje cel ataku.
 PROPTROUPESKILL_TXT_000004,Retreat,Odwrót
-PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Dowódca Drużyny nakazuje wszystkim odwrót.
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,Dowódca Drużyny nakazuje wszystkim odwrót.
 PROPTROUPESKILL_TXT_000008,Precision,Precyzja
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,"Zwiększa szansę krytyczną następnego ataku wszystkich członków drużyny wokół lidera o 0,5% x Liczba członków drużyny."
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,"Zwiększa szansę krytyczną następnego ataku wszystkich członków drużyny wokół lidera o 0,5% x Liczba członków drużyny."
 PROPTROUPESKILL_TXT_000010,Linked Attack,Atak Łączony
-PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Każdy członek w zasięgu lidera dodaje mu bonus 5% do zadawanych obrażeń.
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Każdy członek w zasięgu lidera dodaje mu bonus 5% do zadawanych obrażeń.
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Szczęśliwy Traf
-PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,Zwiększa szansę na otrzymanie rzadkich przedmiotów z Potworów.
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,Zwiększa szansę na otrzymanie rzadkich przedmiotów z Potworów.
 PROPTROUPESKILL_TXT_000014,Resting,Odpoczynek
-PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,Członkowie drużyny regenerują się 50% szybciej. Jeśli Dowódca jest Asystentem to regenerują się 80% szybciej.
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.",Członkowie drużyny regenerują się 50% szybciej. Jeśli Dowódca jest Asystentem to regenerują się 80% szybciej.
 PROPTROUPESKILL_TXT_000016,Gift Box,Skrzynia Skarbów
-PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,Zwiększa ilość przedmiotów upuszczanych przez Potwory.
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,Zwiększa ilość przedmiotów upuszczanych przez Potwory.
 PROPTROUPESKILL_TXT_000018,Global Attack,Atak Globalny
-PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,Każdy członek drużyny otrzymuje 2.5% dodatkowych obrażeń za każdego gracza w zasięgu. Nie dotyczy to lidera jeśli Łączony Atak jest aktywny.
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,Każdy członek drużyny otrzymuje 2.5% dodatkowych obrażeń za każdego gracza w zasięgu. Nie dotyczy to lidera jeśli Łączony Atak jest aktywny.

@@ -1,4 +1,4 @@
-Die Kosten für das Entbinden betragen 100.000 Penya pro Gegenstand.  
+﻿Die Kosten für das Entbinden betragen 100.000 Penya pro Gegenstand.  
 #cffff0000Das Entbinden entfernt #balle Aufwertungen, Boni, Elemente und Piercings#nb.  
 Die Aktion kann nach Durchführung nicht abgebrochen werden.#nc  
 Der Gegenstand wird wieder handelbar. Wenn du alle Verbesserungen behalten möchtest, verwende bitte eine Entbindungs-Schriftrolle statt dieses Menüs.  

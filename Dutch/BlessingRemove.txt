@@ -1,1 +1,2 @@
-﻿Cancel the Blessing of an item here. Once the Blessing is removed it cannot be returned.
+﻿#b#cff0000ffRemove Blessing#nb#nc
+Remove the Blessing from an item. #b#cffff0000This action cannot be undone.#nc#nb

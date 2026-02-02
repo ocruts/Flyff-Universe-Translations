@@ -1,6 +1,6 @@
 ﻿Key,English
 PROPTROUPESKILL_TXT_000000,Call
-PROPTROUPESKILL_TXT_000001,"Informs all party members of the party leader's location."
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.
 PROPTROUPESKILL_TXT_000002,Blitz
 PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.
 PROPTROUPESKILL_TXT_000004,Retreat
@@ -8,7 +8,7 @@ PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.
 PROPTROUPESKILL_TXT_000008,Precision
 PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
 PROPTROUPESKILL_TXT_000010,Linked Attack
-PROPTROUPESKILL_TXT_000011,"Each party member around the leader increases the party leader's damage by 5%."
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.
 PROPTROUPESKILL_TXT_000012,Lucky Drop
 PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.
 PROPTROUPESKILL_TXT_000014,Resting

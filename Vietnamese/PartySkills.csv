@@ -1,19 +1,19 @@
 ﻿Key,English,Vietnamese
 PROPTROUPESKILL_TXT_000000,Call,Cuộc gọi
-PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,Thông báo cho tất cả các thành viên trong nhóm biết vị trí của trưởng nhóm
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,Thông báo cho tất cả các thành viên trong nhóm biết vị trí của trưởng nhóm
 PROPTROUPESKILL_TXT_000002,Blitz,Chớp nhoáng
-PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,Trưởng nhóm ra lệnh cho các thành viên tấn công một mục tiêu.
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,Trưởng nhóm ra lệnh cho các thành viên tấn công một mục tiêu.
 PROPTROUPESKILL_TXT_000004,Retreat,Lui quân
-PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Trưởng nhóm ra lệnh cho tất cả các thành viên rút lui.
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,Trưởng nhóm ra lệnh cho tất cả các thành viên rút lui.
 PROPTROUPESKILL_TXT_000008,Precision,Độ chính xác
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
 PROPTROUPESKILL_TXT_000010,Linked Attack,Phối hợp tấn công
-PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Mỗi thành viên trong nhóm xung quanh trưởng nhóm được cộng thêm 5% tiền thưởng cho sát thương của trưởng nhóm
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Mỗi thành viên trong nhóm xung quanh trưởng nhóm được cộng thêm 5% tiền thưởng cho sát thương của trưởng nhóm
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Vật phẩm may mắn rơi ra
-PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,Tăng cơ hội khi đánh quái Masquerpets rơi ra các vật phẩm độc đáo.
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,Tăng cơ hội khi đánh quái Masquerpets rơi ra các vật phẩm độc đáo.
 PROPTROUPESKILL_TXT_000014,Resting,Nghỉ ngơi
-PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,"Thành viên nhóm phục hồi nhanh hơn 1,5 lần. Nếu trưởng nhóm là một Assit, thành viên trong nhóm sẽ phục hồi nhanh hơn 1,8 lần."
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.","Thành viên nhóm phục hồi nhanh hơn 1,5 lần. Nếu trưởng nhóm là một Assit, thành viên trong nhóm sẽ phục hồi nhanh hơn 1,8 lần."
 PROPTROUPESKILL_TXT_000016,Gift Box,Hộp quà
-PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,Tăng số lượng vật phẩm rơi ra khi đánh quái Masquerpets.
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,Tăng số lượng vật phẩm rơi ra khi đánh quái Masquerpets.
 PROPTROUPESKILL_TXT_000018,Global Attack,Tấn công toàn cầu
-PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,"Mỗi thành viên trong nhóm nhận được 2,5% tiền thưởng sát thương cho mỗi thành viên xung quanh họ. Không áp dụng cho trưởng nhóm nếu đang sử dụng Phối hợp tấn công"
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,"Mỗi thành viên trong nhóm nhận được 2,5% tiền thưởng sát thương cho mỗi thành viên xung quanh họ. Không áp dụng cho trưởng nhóm nếu đang sử dụng Phối hợp tấn công"

@@ -1,4 +1,4 @@
-Le coût du désenchaînement est de 100 000 Penya par objet.
+﻿Le coût du désenchaînement est de 100 000 Penya par objet.
 #cffff0000Le désenchaînement supprimera les #améliorations, les bonus, l'élément et les piercings#nb.
 L'opération est irréversible.#nc
 L'objet sera de nouveau échangeable. Si vous souhaitez conserver toutes les améliorations, veuillez utiliser un Parchemin de Désenchaînement plutôt que cette option.

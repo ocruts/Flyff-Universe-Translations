@@ -1,4 +1,4 @@
-#b#cff0000ff* Teilnahme#nb#nc
+﻿#b#cff0000ff* Teilnahme#nb#nc
 * Anmeldezeit: Außerhalb der Gildenkampf Zeit
 * Kampfplatz: Server-Kanal 1
 * Bedingungen:

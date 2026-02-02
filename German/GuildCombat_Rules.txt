@@ -1,4 +1,4 @@
-#b#cff0000ff* Grundregeln#nb#nc
+﻿#b#cff0000ff* Grundregeln#nb#nc
 - Nach dem Eintritt werden alle Partys und Buffs aufgehoben.
 - Item-Handel ist ab 5 Minuten vor Kampfbeginn verboten.
 - Zuerst treten 6 Mitglieder der Vorhut an.

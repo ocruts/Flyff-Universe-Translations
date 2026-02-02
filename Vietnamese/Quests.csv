@@ -1565,6 +1565,10 @@ PROPQUEST_INC_110253,"I have misjudged you! I’ll look for another person, now 
 PROPQUEST_INC_110254,I've heard Private Leo has been successfully rescued! Please accept this reward!,Tôi nghe nói Binh nhì Leo đã được bạn giải cứu thành công! Xin hãy chấp nhận phần thưởng này! 
 PROPQUEST_INC_110255,Has Private Leo been rescued yet?,Binh nhì Leo đã được giải cứu chưa nhỉ?
 PROPQUEST_INC_110256,Visit dungeon NPC to learn all about Event,Hãy tìm gặp NPC của ngục tối để biết thêm thông tin về Sự kiện 
+PROPQUEST_INC_110257,,
+PROPQUEST_INC_110258,,
+PROPQUEST_INC_110259,,
+PROPQUEST_INC_110260,,
 PROPQUEST_INC_110261,Rescue the missing childrens,Giải cứu những đứa trẻ bị mất tích
 PROPQUEST_INC_110262,The children from the town have gone missing... Please rescue them from the monsters!,Những đứa trẻ trong thị trấn đang dần bị mất tích 1 cách kỳ lạ... Xin hãy cứu lấy bọn trẻ khỏi lũ quái vật!
 PROPQUEST_INC_110263,"I need you to save $QUEST_END_TRIGGERCTRL_COUNT$ childrens in any dungeon, before midnight.","Trước nửa đêm, tôi cần bạn cứu lấy $QUEST_END_TRIGGERCTRL_COUNT$ đứa trẻ trong bất kỳ ngục tối nào."

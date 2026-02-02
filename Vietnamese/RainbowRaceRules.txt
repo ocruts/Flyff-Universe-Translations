@@ -1,17 +1,9 @@
-﻿#b Race Rules #nb
-1. Only players who have applied to enter the
-Rainbow Race can participate.
+﻿#b Rainbow Race Rules #nb
+1. Only players who have registered for the Rainbow Race can participate.
 
-2. The goal of the race is to follow a designated
-path and go through Point Circles to obtain
-points and finish as fast as possible.
+2. The objective of the race is to follow a designated course, pass through Point Circles to earn points, and finish as quickly as possible.
 
-3. During the Rainbow Race, if you go through
-the Point Circle that has item boxes, you can
-obtain items that can attack others or protect
-yourself.
-(All items in your inventory are unavailable for
-use during the race)
+3. During the Rainbow Race, passing through Point Circles containing item boxes grants items that can be used to attack other players or protect yourself.
+  - Items in your inventory cannot be used during the race.
 
-4. Only characters that are online at the start of
-the Rainbow Race can participate in the race.
+4. Only players who are online at the start of the Rainbow Race may participate.

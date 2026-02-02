@@ -1,1 +1,1 @@
-Rimuovi qui la Benedizione di un oggetto. Una volta rimossa, la Benedizione non può essere ripristinata.
+﻿Rimuovi qui la Benedizione di un oggetto. Una volta rimossa, la Benedizione non può essere ripristinata.

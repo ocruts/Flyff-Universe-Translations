@@ -25,18 +25,18 @@ MMI_25,Mailbox,ตู้จดหมาย
 MMI_26,Apply,Apply
 MMI_27,Status,Status
 MMI_28,Cancel,ยกเลิก
-MMI_29,Join,เข้าร่วม
+MMI_29,Enter,เข้าร่วม
 MMI_30,Ranking,จัดอันดับ
 MMI_31,Cheer,เชียร์
 MMI_32,Remove piercing card,ถอดการ์ดที่เจาะ
-MMI_33,Entry,เข้าสู่
-MMI_34,Receipt prize money and application money,การรับเงินรางวัลและการสมัคร
-MMI_35,The information of prize money,ข้อมูลเกี่ยวกับเงินรางวัล
-MMI_36,Acceptance of prize money for MVP,รับรางวัล MVP
-MMI_37,Information to Participate,ข้อมูลที่จะเข้าร่วม
-MMI_38,Basic Rule,กฏพื้นฐาน
-MMI_39,Condition to Win,เงื่อนไขที่จะชนะ
-MMI_40,The information of a commission,ข้อมูลค่าธรรมเนียม
+MMI_33,Lineup Setup,เข้าสู่
+MMI_34,Claim Guild Penya,การรับเงินรางวัลและการสมัคร
+MMI_35,Reward Information,ข้อมูลเกี่ยวกับเงินรางวัล
+MMI_36,Claim MVP Penya Reward,รับรางวัล MVP
+MMI_37,Participation Information,ข้อมูลที่จะเข้าร่วม
+MMI_38,Basic Rules,กฏพื้นฐาน
+MMI_39,Winning Conditions,เงื่อนไขที่จะชนะ
+MMI_40,Application Fee Information,ข้อมูลค่าธรรมเนียม
 MMI_41,The refund of application fee,การคืนค่าธรรมเนียมการสมัคร
 MMI_42,Cosmetic Upgrades,Cosmetic Upgrades
 MMI_44,Rock-Paper-Scissors,เกมค้อน กระดาษ กรรไกร
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,ตู้เสื้อผ้าและเคร�
 MMI_1018,Lv80 GS Apply,Lv80 GS สมัคร
 MMI_1019,Lv80 GS Status,Lv80 GS สถานะ
 MMI_1020,Lv80 GS Cancel,Lv80 GS ยกเลิก
-MMI_1021,Lv80 GS Join,Lv80 GS เข้าร่วม
-MMI_1022,Lv80 GS Line Up,Lv80 GS เข้าแถว
+MMI_1021,Lv80 GS Enter,Lv80 GS เข้าร่วม
+MMI_1022,Lv80 GS Lineup Setup,Lv80 GS เข้าแถว
 MMI_1023,Lv80 GS Ranking,Lv80 GS จัดอันดับ
 MMI_1024,Lv80 GS Information,Lv80 GS ข้อมูล
 MMI_1025,Lv60 GS Apply,Lv60 GS สมัคร
 MMI_1026,Lv60 GS Status,Lv60 GS สถานะ
 MMI_1027,Lv60 GS Cancel,Lv60 GS ยกเลิก
-MMI_1028,Lv60 GS Join,Lv60 GS เข้าร่วม
-MMI_1029,Lv60 GS Line Up,Lv60 GS เข้าแถว 
+MMI_1028,Lv60 GS Enter,Lv60 GS เข้าร่วม
+MMI_1029,Lv60 GS Lineup Setup,Lv60 GS เข้าแถว 
 MMI_1030,Lv60 GS Ranking,Lv60 GS จัดอันดับ
 MMI_1031,Lv60 GS Information,Lv60 GS ข้อมูล
 MMI_1032,Blue Chip Shop,ร้านค้า Blue Chip 

@@ -1,4 +1,4 @@
 ﻿#b#cff0000ff Pet Sacrificing #nb#nc
-You can #bchange the level#nb of your current pet's tier by sacrificing another pet with the #bsame tier or higher#nb.
-#cffff0000The pet that you input below will be permanently destroyed.#nc
-The higher the tier of the pet you destroy, the better the chance to get a good level.
+You can #bchange the level#nb of your #bcurrently summoned pet's tier#nb by sacrificing another pet of the #bsame tier or higher#nb.
+#cffff0000The pet you select below will be permanently destroyed.#nc
+Sacrificing a higher-tier pet increases the chance of obtaining a higher level.

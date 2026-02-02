@@ -677,8 +677,8 @@ UI_PIERCING_MATERIAL,Power Dice,Power Dice
 UI_PIERCING_PROTECTSCROLL,GProtect,GProtect
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,Do you want to pierce this item?
 UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,Without Scroll of GProtect you will lose the item in case of failure.
-UI_PIERCING_REMOVE_TITLE,Remove Set Card,Remove Set Card
-UI_PIERCING_REMOVE_MSG,Do you confirm the card removal and destruction?,Do you confirm the card removal and destruction?
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Remove Piercing Card
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb
 UI_PIERCING_REMOVE_OK,Remove,Remove
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,The success rate increases with each failed attempt.
 UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Upgrade attempts: %d
@@ -698,9 +698,9 @@ UI_UPGRADE_CHANCESCROLL,SFusion,SFusion
 UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Attribute level will decrease in case of failure. You will not lose the item.
 UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Without Scroll of SProtect you will lose the item in case of failure.
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Do you want to upgrade this item?
-UI_ATTRIBUTE_REMOVE_TITLE,Remove Element upgrading,Tangalin ang Elemento
+UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Tangalin ang Elemento
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Confirm Removal
-UI_ATTRIBUTE_REMOVE_MSG,"That weapon will be removed element upgrading. And 1,000,000 Penya will be paid from your inventory.","That weapon will be removed element upgrading. And 1,000,000 Penya will be paid from your inventory."
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb
 UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,You can use a Premium item.
 UI_REVIVAL_REVIVAL,Original Place,Original Place
 UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,You will be revived where you died.
@@ -931,16 +931,16 @@ UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Do you join the Guild Siege
 UI_NETWORK_ERROR_TITLE,Network Error,Network Error
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.","A network error happened, please check your connection and login again."
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Resurrection Location
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st area.,You have entered the 1st area.
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd area.,You have entered the 2nd area.
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd area.,You have entered the 3rd area.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th area.,You have entered the 4th area.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.,You have entered the 5th area.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.,You have entered the 6th area.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.,You have entered the 7th area.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.,You have entered the 8th area.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the area you wish to enter.,Select the area you wish to enter.
-UI_GUILDCOMBAT_JOINWAR_MSG,"After %d, you enter %s.","After %d, you enter %s."
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,You have entered the 1st zone.
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,You have entered the 2nd zone.
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,You have entered the 3rd zone.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,You have entered the 4th zone.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,You have entered the 5th zone.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,You have entered the 6th zone.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,You have entered the 7th zone.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,You have entered the 8th zone.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Select the zone you wish to enter.
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","In %d seconds, you will enter zone %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Random
 UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
 UI_GUILDCOMBAT_RATE,Current rank:,Current rank:
@@ -1389,7 +1389,7 @@ UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Spirit Strike
 UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,Steal FP
 UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,HP Bar Damage History
 UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Damage+%d%%
-UI_LEVELDOWN_CANCEL_TITLE,Cancel Reduction,Cancel Reduction
+UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Remove Level Reduction
 UI_MSGBOX_CONFIRM,Confirm,Confirm
 UI_CHANGECHAR_TITLE,Change Character,Change Character
 UI_CHANGECHAR_MSG,Select character and channel:,Select character and channel:
@@ -2134,7 +2134,7 @@ UI_SESSION_REMOVEALL,Remove All,Remove All
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Caution
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Client performance is low.\nPlease check for 2 items below.
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,1) Change in-game video/graphic setting adjusted to your PC.
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your broswer has hardware acceleration turned on.,2) Make sure your broswer has hardware acceleration turned on.
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,2) Make sure your browser has hardware acceleration turned on.
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Go to Game Setting
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Finish Rainbow Race
 UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Unlock through quests, achievements, or an Extra Bag from the Cash Shop."
@@ -2498,9 +2498,9 @@ UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,Wala
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Set Jewel,Remove Set Jewel
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Remove
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Without jewel tweezers, the jewel may be deleted when you remove it. Do you want to continue?","Without jewel tweezers, the jewel may be deleted when you remove it. Do you want to continue?"
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Fuse Ultimate Jewel
 UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Register ultimate jewel material gem.
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.

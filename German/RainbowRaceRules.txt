@@ -1,4 +1,4 @@
-#b Rennregeln #nb
+﻿#b Rennregeln #nb
 1. Nur Spieler, die sich für das Rainbow Race 
 angemeldet haben, können teilnehmen.
 

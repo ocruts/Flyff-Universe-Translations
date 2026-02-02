@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPSKILL_TXT_000309,,
 PROPSKILL_TXT_000000,Clean Hit,Frappe pure
 PROPSKILL_TXT_000001,"A powerful, downward strike.",Inflige une frappe puissante à l'ennemi.
@@ -352,7 +352,7 @@ PROPSKILL_TXT_100027,Redirect damage taken from a target player to yourself.,Red
 PROPSKILL_TXT_000392,Rending Entry,Entrée Fracassante
 PROPSKILL_TXT_000393,"Teleport to your cursor click position, dealing damage to nearby enemies. Chance to slow the enemy. If an enemy dies to this attack, Rending Entry's cooldown is reset.","Vous téléporte à la position de votre curseur, et inflige des dégâts aux ennemis alentour avec une chance de les ralentir. Si un ennemi meurt par l'effet de cette compétence, elle se recharge immédiatement."
 PROPSKILL_TXT_000394,Barrier of Life,Bouclier de Vie
-PROPSKILL_TXT_000395,The target blocks the next incoming hit(s) for the duration of the buff.,"La cible bloque le(s) prochain(s) coup(s) reçu(s), pendant la durée du buff."
+PROPSKILL_TXT_000395,The target will block the next incoming hit no matter what.,"La cible bloque le(s) prochain(s) coup(s) reçu(s), pendant la durée du buff."
 PROPSKILL_TXT_000430,Gravity Well,Puits Gravitationnel
 PROPSKILL_TXT_000431,Creates a gravity well at your cursor position that considerably slows enemies in the area.,"Crée un puits gravitationnel à la position de votre curseur, qui ralentit considérablement les ennemis aux alentours."
 PROPSKILL_TXT_000440,Eye of the Storm,Œil du Cyclone
@@ -558,7 +558,7 @@ PROPSKILL_TXT_150056,Your action speed increases when using non-magical skills.,
 PROPSKILL_TXT_150057,Eagle Eye,Oeil d'aigle
 PROPSKILL_TXT_150058,Call upon your inherent eagle to increase bow range.,Invoque ton aigle inné pour augmenter la portée de l'arc.
 PROPSKILL_TXT_150059,Arcane Enchantment,Enchantement Arcanique
-PROPSKILL_TXT_150060,Provide Elemental status to the skills.,Applique un statut élémentaire aux compétences.
+PROPSKILL_TXT_150060,Provide Elemental status to the skills..,Applique un statut élémentaire aux compétences.
 PROPSKILL_TXT_150061,Increased Element,Élément augmenté
 PROPSKILL_TXT_150062,Decreased Element,Élément réduit
 PROPSKILL_TXT_150063,Elemental Debuff,Affaiblissement élémentaire
@@ -665,31 +665,31 @@ PROPSKILL_TXT_140025,The Asylum grants unnatural harmony. Your base stats increa
 PROPSKILL_TXT_140026,Asylum All Stats High Bless,Bénédiction stats élevées de l'Asile
 PROPSKILL_TXT_140027,"The Asylum bestows a 10% all boost, filling you with eerie strength.","L'Asile confère un bonus global de 10 %, te remplissant d'une force étrange."
 PROPSKILL_TXT_140028,Asylum Boss Incoming Bless,Bénédiction réduction dégâts Boss entrant de l'Asile
-PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%,L'Asile te voile dans l'ombre. Les dégâts reçus des Boss sont réduits de 5 %.
+PROPSKILL_TXT_140029,The Asylum veils you in shadow. Damage taken from bosses is reduced by 5%.,L'Asile te voile dans l'ombre. Les dégâts reçus des Boss sont réduits de 5 %.
 PROPSKILL_TXT_140030,Asylum Boss Incoming Bless,Bénédiction réduction dégâts Boss entrant de l'Asile
 PROPSKILL_TXT_140031,A protective force from the Asylum dampens the fury of bosses. You receive 10% less damage from them.,Une force protectrice de l'Asile tempère la fureur des Boss. Tu subis 10 % de dégâts en moins venant d'eux.
 PROPSKILL_TXT_140032,Asylum HP Low Curse,Malediction PV faibles de l'Asile
-PROPSKILL_TXT_140033,A curse from the Asylum weakens your vitality. Your max HP is reduced by 5%,Une malédiction de l'Asile affaiblit ta vitalité. Tes PV max sont réduits de 5 %.
+PROPSKILL_TXT_140033,A curse from the Asylum weakens your vitality. Your max HP is reduced by 5%.,Une malédiction de l'Asile affaiblit ta vitalité. Tes PV max sont réduits de 5 %.
 PROPSKILL_TXT_140034,Asylum HP High Curse,Malediction PV élevés de l'Asile
 PROPSKILL_TXT_140035,The Asylum drains your life force. You suffer a 10% reduction in max HP.,L'Asile drène ta force vitale. Tu subis une réduction de 10 % de tes PV max.
 PROPSKILL_TXT_140036,Asylum DEF Low Curse,Malediction DEF faibles de l'Asile
-PROPSKILL_TXT_140037,Your defense falters under the weight of the Asylum's curse. It is reduced by 2%,Ta défense faiblit sous le poids de la malédiction de l'Asile. Elle est réduite de 2 %.
+PROPSKILL_TXT_140037,Your defense falters under the weight of the Asylum's curse. It is reduced by 2%.,Ta défense faiblit sous le poids de la malédiction de l'Asile. Elle est réduite de 2 %.
 PROPSKILL_TXT_140038,Asylum DEF High Curse,Malediction DEF élevés de l'Asile
-PROPSKILL_TXT_140039,The Asylum strips away your protection. Your defense drops by 5%,L'Asile te dépouille de ta protection. Ta défense chute de 5 %.
+PROPSKILL_TXT_140039,The Asylum strips away your protection. Your defense drops by 5%.,L'Asile te dépouille de ta protection. Ta défense chute de 5 %.
 PROPSKILL_TXT_140040,Asylum Elemental Low Curse,Malediction élémentaire faible de l'Asile
-PROPSKILL_TXT_140041,Elemental energy slips from your grasp. All elemental damage is reduced by 5%,L'énergie élémentaire t'échappe. Tous les dégâts élémentaires sont réduits de 5 %.
+PROPSKILL_TXT_140041,Elemental energy slips from your grasp. All elemental damage is reduced by 5%.,L'énergie élémentaire t'échappe. Tous les dégâts élémentaires sont réduits de 5 %.
 PROPSKILL_TXT_140042,Asylum Elemental High Curse,Malediction élémentaire élevée de l'Asile
-PROPSKILL_TXT_140043,The Asylum disrupts your connection to the elements. Your elemental power drops by 10%,L'Asile perturbe ta connexion aux éléments. Ta puissance élémentaire chute de 10 %.
+PROPSKILL_TXT_140043,The Asylum disrupts your connection to the elements. Your elemental power drops by 10%.,L'Asile perturbe ta connexion aux éléments. Ta puissance élémentaire chute de 10 %.
 PROPSKILL_TXT_140044,Asylum Speed Low Curse,Malediction vitesse faible de l'Asile
-PROPSKILL_TXT_140045,A subtle curse slows your movements. Your speed decreases by 5%,Une malédiction subtile ralentit tes mouvements. Ta vitesse diminue de 5 %.
+PROPSKILL_TXT_140045,A subtle curse slows your movements. Your speed decreases by 5%.,Une malédiction subtile ralentit tes mouvements. Ta vitesse diminue de 5 %.
 PROPSKILL_TXT_140046,Asylum Speed High Curse,Malediction vitesse élevée de l'Asile
-PROPSKILL_TXT_140047,The Asylum binds your limbs in dread. Speed is reduced by 10%,L'Asile entrave tes membres dans la crainte. La vitesse est réduite de 10 %.
+PROPSKILL_TXT_140047,The Asylum binds your limbs in dread. Speed is reduced by 10%.,L'Asile entrave tes membres dans la crainte. La vitesse est réduite de 10 %.
 PROPSKILL_TXT_140048,Asylum Attack Low Curse,Malediction attaque faible de l'Asile
 PROPSKILL_TXT_140049,The curse dulls your strength. Attack power reduced by 5% under the Asylum's shadow.,La malédiction émousse ta force. La puissance d'attaque est réduite de 5 % sous l'ombre de l'Asile.
 PROPSKILL_TXT_140050,Asylum Attack High Curse,Malediction attaque élevée de l'Asile
-PROPSKILL_TXT_140051,The Asylum saps your aggression. Attack power falls by 10%,L'Asile épuise ton agressivité. La puissance d'attaque chute de 10 %.
+PROPSKILL_TXT_140051,The Asylum saps your aggression. Attack power falls by 10%.,L'Asile épuise ton agressivité. La puissance d'attaque chute de 10 %.
 PROPSKILL_TXT_140052,Asylum Boss DMG Low Curse,Malediction dégâts Boss faible de l'Asile
-PROPSKILL_TXT_140053,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%,L'Asile déforme tes frappes. Les dégâts infligés aux Boss sont réduits de 5 %.
+PROPSKILL_TXT_140053,The Asylum twists your strikes. Damage dealt to bosses is reduced by 5%.,L'Asile déforme tes frappes. Les dégâts infligés aux Boss sont réduits de 5 %.
 PROPSKILL_TXT_140054,Asylum Boss DMG High Curse,Malediction dégâts Boss élevée de l'Asile
 PROPSKILL_TXT_140055,Your blows grow weaker against the mighty. Boss damage drops by 10% under the curse.,Tes coups deviennent plus faibles contre les puissants. Les dégâts infligés aux Boss chutent de 10 % sous la malédiction.
 PROPSKILL_TXT_140056,Asylum All Stats Low Curse,Malediction stats faibles de l'Asile
@@ -697,7 +697,7 @@ PROPSKILL_TXT_140057,The curse fractures your inner balance. All base stats fall
 PROPSKILL_TXT_140058,Asylum All Stats High Curse,Malediction stats élevées de l'Asile
 PROPSKILL_TXT_140059,The Asylum crushes your essence. All base stats are reduced by 10.,L'Asile écrase ton essence. Toutes les statistiques de base sont réduites de 10.
 PROPSKILL_TXT_140060,Asylum Boss Incoming Curse,Malediction réduction dégâts Boss entrant de l'Asile
-PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%,L'Asile expose tes faiblesses. Les dégâts reçus des Boss augmentent de 5 %.
+PROPSKILL_TXT_140061,The Asylum exposes your weaknesses. Damage received from bosses is increased by 5%.,L'Asile expose tes faiblesses. Les dégâts reçus des Boss augmentent de 5 %.
 PROPSKILL_TXT_140062,Asylum Boss Incoming Curse,Malediction réduction dégâts Boss entrant de l'Asile
 PROPSKILL_TXT_140063,Your defenses falter under the Asylum's curse. Bosses deal 10% more damage to you.,Tes défenses flanchent sous la malédiction de l'Asile. Les Boss infligent 10 % de dégâts supplémentaires.
 PROPSKILL_TXT_140064,Trap: Debuff,Piège : Débuff
@@ -765,7 +765,7 @@ PROPSKILL_TXT_150181,"Charge your blood and stomp on the ground, hurting and ble
 PROPSKILL_TXT_150183,Berserk,Furie
 PROPSKILL_TXT_150184,Knockback,Repousser
 PROPSKILL_TXT_150185,Bloody Thorn,Épine sanglante
-PROPSKILL_TXT_150186,"Knocks back and causes bleeding with an explosion. Charging increases range.","Repousse et fait saigner avec une explosion. La charge augmente la portée."
+PROPSKILL_TXT_150186,Knocks back and causes bleeding with an explosion. Charging increases range.,Repousse et fait saigner avec une explosion. La charge augmente la portée.
 PROPSKILL_TXT_150187,Critical Hit,Coup critique
 PROPSKILL_TXT_150189,Blood Penetration,Pénétration sanguine
 PROPSKILL_TXT_150190,Storm Slash,Fente de tempête
@@ -779,7 +779,7 @@ PROPSKILL_TXT_150197,Fatal Strike,Frappe fatale
 PROPSKILL_TXT_150198,Fall Over,Tomber
 PROPSKILL_TXT_150199,Speed Decrease,Réduction de vitesse
 PROPSKILL_TXT_150200,Tempest Barrage,Salve de tempête
-PROPSKILL_TXT_150201,"Creates a sword aura that damages nearby enemies and increases defense.","Crée une aura d'épée qui inflige des dégâts aux ennemis proches et augmente la défense."
+PROPSKILL_TXT_150201,Creates a sword aura that damages nearby enemies and increases defense.,Crée une aura d'épée qui inflige des dégâts aux ennemis proches et augmente la défense.
 PROPSKILL_TXT_150202,Speed Increase,Augmentation de vitesse
 PROPSKILL_TXT_150203,Bleeding,Saignement
 PROPSKILL_TXT_150205,First Blood,Premier sang
@@ -791,28 +791,28 @@ PROPSKILL_TXT_150210,You become more comfortable using both of your hands simult
 PROPSKILL_TXT_150211,Blood Armor,Armure de sang
 PROPSKILL_TXT_150212,Damage reduction increases as HP decreases.,La réduction des dégâts augmente lorsque les PV diminuent.
 PROPSKILL_TXT_150213,Master of Sword,Maître de l’épée
-PROPSKILL_TXT_150214,"Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.","Réduit le temps de recharge des compétences Slayer et augmente la chance de critique. Les effets augmentent avec le nombre d’épées équipées."
+PROPSKILL_TXT_150214,Reduces Slayer skill cooldowns and increases critical chance. Scales with number of swords equipped.,Réduit le temps de recharge des compétences Slayer et augmente la chance de critique. Les effets augmentent avec le nombre d’épées équipées.
 PROPSKILL_TXT_150215,Master of Axe,Maître de la hache
-PROPSKILL_TXT_150216,"Increases attack power. Scaled with number of axes equipped.","Augmente la puissance d’attaque. Les effets augmentent avec le nombre de haches équipées."
+PROPSKILL_TXT_150216,Increases attack power. Scaled with number of axes equipped.,Augmente la puissance d’attaque. Les effets augmentent avec le nombre de haches équipées.
 PROPSKILL_TXT_150217,Survival Stance,Posture de survie
-PROPSKILL_TXT_150218,"Enhance your defense shortly after being affected by a disable or immobility type debuff.","Renforce ta défense peu après avoir été affecté par un débuff de type désactivation ou immobilisation."
+PROPSKILL_TXT_150218,Enhance your defense shortly after being affected by a disable or immobility type debuff.,Renforce ta défense peu après avoir été affecté par un débuff de type désactivation ou immobilisation.
 PROPSKILL_TXT_150219,Blessing of the Wise,Bénédiction des sages
-PROPSKILL_TXT_150220,Perform a blessing to remove « disable » type debuffs on nearby allies.,Lancez une bénédiction pour dissiper les malus de type « désactivation » affectant les alliés proches.
+PROPSKILL_TXT_150220,"Perform a blessing to remove ""disable"" type debuffs on nearby allies.",Lancez une bénédiction pour dissiper les malus de type « désactivation » affectant les alliés proches.
 PROPSKILL_TXT_150221,Stun Resistance,Résistance à l’étourdissement
 PROPSKILL_TXT_150222,DoT Resistance,Résistance aux dégâts sur la durée
 PROPSKILL_TXT_150223,Area Increase,Augmentation de zone
 PROPSKILL_TXT_150224,Soul of Rhisis,Âme de Rhisis
-PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui accorde à toi et tes alliés proches une réduction des dégâts. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui accorde à toi et tes alliés proches une réduction des dégâts. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150226,Effect Increase,Augmentation de l’effet
 PROPSKILL_TXT_150228,Duration Increase,Augmentation de la durée
 PROPSKILL_TXT_150229,Celestial Barrier,Barrière céleste
-PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui accorde à toi et tes alliés proches une résistance élémentaire. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui accorde à toi et tes alliés proches une résistance élémentaire. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150234,Heaven's Step,Pas céleste
-PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui accorde à toi et tes alliés proches une esquive et un blocage accrus. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui accorde à toi et tes alliés proches une esquive et un blocage accrus. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150239,Gloria Patri,Gloria Patri
-PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui soigne périodiquement toi et tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui soigne périodiquement toi et tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150244,Kyrie Eleison,Kyrie Eleison
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","Chante un hymne qui augmente la régénération vitale de toi et de tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter."
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",Chante un hymne qui augmente la régénération vitale de toi et de tes alliés proches. Utiliser d’autres compétences interrompt le chant. L’effet de l’hymne augmente au fur et à mesure que tu continues de chanter.
 PROPSKILL_TXT_150249,Flow of Salvation,Flux de salut
 PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","Insuffle le flux de salut dans ta cible, la guérissant et se propageant aux cibles proches si ce sont des alliés, ou infligeant des dégâts sinon."
 PROPSKILL_TXT_150251,Increased Healing,Soins augmentés
@@ -841,7 +841,7 @@ PROPSKILL_TXT_150276,"Attack your enemy using a strike. If the target is current
 PROPSKILL_TXT_150277,Nen Mastery,Maîtrise du Nen
 PROPSKILL_TXT_150278,Nen Enhancement,Amélioration du Nen
 PROPSKILL_TXT_150280,Staggering Strike,Frappe déstabilisante
-PROPSKILL_TXT_150281,"Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.","Attaque une seule cible avec une chance de la renverser. \n\n[Amélioration Nen] : Augmente ton taux de blocage à l’utilisation."
+PROPSKILL_TXT_150281,Attack a single target with a chance to knock them down. \n\n[Nen Enhancement]: Increase your block rate when used.,Attaque une seule cible avec une chance de la renverser. \n\n[Amélioration Nen] : Augmente ton taux de blocage à l’utilisation.
 PROPSKILL_TXT_150282,Increased Knockdown Chance,Chance de renversement augmentée
 PROPSKILL_TXT_150283,Leg Attack,Frappe de jambe
 PROPSKILL_TXT_150285,Force Grip,Force Grip
@@ -853,7 +853,7 @@ PROPSKILL_TXT_150291,Focus your mind to launch a damaging orb towards your targe
 PROPSKILL_TXT_150292,Continuous Shooting,Tir continu
 PROPSKILL_TXT_150293,Nen Mastery,Maîtrise du Nen
 PROPSKILL_TXT_150295,Aura Bomb,Bombe d’aura
-PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.","Canalise l’énergie de ton environnement pendant une longue période et la cible vers une zone choisie pour infliger de gros dégâts."
+PROPSKILL_TXT_150296,"Channel energy from your surroundings for a long period of time, and target it towards a selected area for great damage.",Canalise l’énergie de ton environnement pendant une longue période et la cible vers une zone choisie pour infliger de gros dégâts.
 PROPSKILL_TXT_150297,Casting Time Reduction,Réduction du temps d’incantation
 PROPSKILL_TXT_150298,Range Enhancement,Augmentation de la portée
 PROPSKILL_TXT_150300,Enlightenment,Illumination
@@ -934,7 +934,7 @@ PROPSKILL_TXT_150388,"Incinerate your target, dealing damage and burning them. I
 PROPSKILL_TXT_150389,Suffocation,Asphyxie
 PROPSKILL_TXT_150390,Sleeping,Endormi
 PROPSKILL_TXT_150391,Paralyzed,Paralysé
-PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.","Vous êtes endormi et vous serez réveillé dès que vous subirez des dégâts."
+PROPSKILL_TXT_150392,"You are sleeping, and will be awaken once you take damage.",Vous êtes endormi et vous serez réveillé dès que vous subirez des dégâts.
 PROPSKILL_TXT_150393,"You are paralyzed, physical damage is increased and magical damage is decreased.","Vous êtes paralysé, les dégâts physiques sont augmentés et les dégâts magiques réduits."
 PROPSKILL_TXT_150394,Shocked,Choqué
 PROPSKILL_TXT_150395,You are shocked and receive extra electric damage.,Vous êtes choqué et subissez des dégâts électriques supplémentaires.
@@ -1027,7 +1027,7 @@ PROPSKILL_TXT_150490,Damage increases.,Les dégâts augmentent.
 PROPSKILL_TXT_150491,Give additional bleeding damage to all enemies hit by the skill.,Inflige des dégâts de saignement supplémentaires à tous les ennemis touchés par la compétence.
 PROPSKILL_TXT_150492,Create one more whirlwind.,Crée un tourbillon supplémentaire.
 PROPSKILL_TXT_150493,Reduce enemy's element resistance.,Réduit la résistance élémentaire de l’ennemi.
-PROPSKILL_TXT_150494,"Whirlwind moves forward, lifting enemies into the air.","Le tourbillon avance en soulevant les ennemis dans les airs."
+PROPSKILL_TXT_150494,"Whirlwind moves forward, lifting enemies into the air.",Le tourbillon avance en soulevant les ennemis dans les airs.
 PROPSKILL_TXT_150495,Successful follow-up hits increased damage is increased further.,Les dégâts des attaques enchaînées réussies augmentent encore davantage.
 PROPSKILL_TXT_150496,Increases the chance to knock down enemies.,Augmente la chance de renverser les ennemis.
 PROPSKILL_TXT_150497,Successful follow up hit reduces the target's movement speed.,Les coups enchaînés réussis réduisent la vitesse de déplacement de la cible.
@@ -1140,7 +1140,7 @@ PROPSKILL_TXT_150603,Improved Scaling,Évolution Améliorée
 PROPSKILL_TXT_150604,"Skill damage scaling is improved, but cooldown is increased.","L’évolution des dégâts de la compétence est améliorée, mais le temps de recharge est augmenté."
 PROPSKILL_TXT_150605,"Base damage is increased, but scaling is reduced.","Les dégâts de base sont augmentés, mais l’évolution est réduite."
 PROPSKILL_TXT_150606,Increased Lifesteal,Vol de Vie Amélioré
-PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%,Les PV volés avec l’effet amélioré sont augmentés de 10 %.
+PROPSKILL_TXT_150607,Health stolen in enhanced effect is increased by 10%.,Les PV volés avec l’effet amélioré sont augmentés de 10 %.
 PROPSKILL_TXT_150608,Chance to gain an extra Stigma stack.,Chance de gagner une pile supplémentaire de Stigmate.
 PROPSKILL_TXT_150609,Nen Release,Libération de Nen
 PROPSKILL_TXT_150610,Remove all your Nen stacks at a cost of power.,Supprime toutes vos piles de Nen au prix de la puissance.

@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPITEM_TXT_000001,,
 PROPITEM_TXT_000002,Hand,Main
 PROPITEM_TXT_000004,Penya,Penya
@@ -2282,7 +2282,7 @@ PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Enchantement d'Eau +1 à +5 (Arme ou
 PROPITEM_TXT_004290,River Card,Carte Glacia
 PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Enchantement d'Eau +6 à +10 (Arme ou Armure)
 PROPITEM_TXT_004292,Voltage Card,Carte Voltage
-PROPITEM_TXT_004293,Electric Uprgrade: +1 to +5,Enchantement de Foudre +1 à +5 (Arme ou Armure)
+PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Enchantement de Foudre +1 à +5 (Arme ou Armure)
 PROPITEM_TXT_004294,Generator Card,Carte Electro
 PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Enchantement de Foudre +6 à +10 (Arme ou Armure)
 PROPITEM_TXT_004296,Stone Card,Carte Terra
@@ -13252,7 +13252,7 @@ PROPITEM_TXT_230213,Coupon to earn additional attendance rewards.,Coupon pour ob
 PROPITEM_TXT_230214,Additional Connection Coupon,Coupon de Connexion Supplémentaire
 PROPITEM_TXT_230215,Coupon to earn additional connection rewards.,Coupon pour obtenir des récompenses de connexion supplémentaires.
 PROPITEM_TXT_230216,Extended January Pass,Pass de Janvier Étendu
-PROPITEM_TXT_230217,"This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!","Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Battle Pass\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !"
+PROPITEM_TXT_230217,This purchase gives you many advantages during the January Pass season:\n-More Battle Pass rewards\n-Common Bank\n-2 days Vendor Shops\n-Unlimited Acceleration Fuel\n-Unlimited Exp Lock\n-Dungeons Map and Navigator\n-Faster Safe Upgrades\n-1 More Free Dungeon Entrance\n-5 Daily Search Shop Teleports\n...and more to come over the game updates!,Cet achat vous offre de nombreux avantages pendant la saison du Pass de Janvier :\n-Plus de récompenses du Battle Pass\n-Banque commune\n-2 jours de boutiques marchandes\n-Carburant d'accélération illimité\n-Verrouillage d'EXP illimité\n-Carte des donjons et navigateur\n-Améliorations sécurisées plus rapides\n-1 entrée de donjon gratuite supplémentaire\n-5 téléportations quotidiennes vers les boutiques (recherche)\n...et encore plus à venir avec les mises à jour du jeu !
 PROPITEM_TXT_230218,PlayPark Launch Gift,Cadeau de Lancement PlayPark
 PROPITEM_TXT_230219,Gift for the Flyff U x PlayPark launch!,Cadeau pour le lancement de Flyff U x PlayPark !
 PROPITEM_TXT_722153,Candy Cane 10% Red Set,Set Candy Cane 10% Rouge
@@ -13346,7 +13346,7 @@ PROPITEM_TXT_722240,Candy Cane Black Hands (F),Gants Noirs Candy Cane (F)
 PROPITEM_TXT_722241,Candy Cane Black Backpack,Sac à dos Noir Candy Cane
 PROPITEM_TXT_722242,Candy Cane Black Glasses,Lunettes Noires Candy Cane
 PROPITEM_TXT_722243,Candy Cane Costume Lucky Box,Lucky Box Costume Candy Cane
-PROPITEM_TXT_722244,"This box contains a Candy Cane Set with Speed Bonus. You can select your gender after opening the Lucky Box.","Cette boîte contient un Set Candy Cane avec bonus de Vitesse. Vous pouvez choisir votre genre après ouverture de la Lucky Box."
+PROPITEM_TXT_722244,This box contains a Candy Cane Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Set Candy Cane avec bonus de Vitesse. Vous pouvez choisir votre genre après ouverture de la Lucky Box.
 PROPITEM_TXT_722245,Red Snowman,Bonhomme de neige rouge
 PROPITEM_TXT_722246,"Frost-enshrouded Snow Comrade, covered in a blanket of frost, pleading for warmth's comfort.","Compagnon de neige enveloppé de givre, recouvert d'un manteau glacé, implorant la chaleur d'un peu de réconfort."
 PROPITEM_TXT_722247,Purple Snowman,Bonhomme de neige violet
@@ -14280,9 +14280,9 @@ PROPITEM_TXT_722670,"A package containing 5x Scroll of Element change, 5x Scroll
 PROPITEM_TXT_722671,2024 Valentine Package,Pack Saint-Valentin 2024
 PROPITEM_TXT_722672,A package containing 20x Scroll of Amplification ES and 1x 15 Days Scroll of Combined Party Effects. All items are also linked.,Un pack contenant 20x Parchemin d'Amplification ES et 1x Parchemin des Effets de Groupe Combinés (15 jours). Tous les objets sont liés.
 PROPITEM_TXT_131423,Kalgas Silver Coin,Pièce d'Argent Kalgas
-PROPITEM_TXT_131424,"Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.","Objet de réapparition instantanée utilisable une seule fois lors de la participation à l'Assaut Kalgas. Réapparaît immédiatement au point de départ sans temps d'attente."
+PROPITEM_TXT_131424,"Instant respawn item that can be used only once when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",Objet de réapparition instantanée utilisable une seule fois lors de la participation à l'Assaut Kalgas. Réapparaît immédiatement au point de départ sans temps d'attente.
 PROPITEM_TXT_131425,Kalgas Gold Coin,Pièce d'Or Kalgas
-PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.","Objet de réapparition instantanée utilisable un nombre illimité de fois lors de la participation à l'Assaut Kalgas. Réapparaît immédiatement au point de départ sans temps d'attente."
+PROPITEM_TXT_131426,"Instant respawn item that can be used unlimited number of times when participating in Kalgas Assault When used, will be immediately respawned at the starting point without wait time.",Objet de réapparition instantanée utilisable un nombre illimité de fois lors de la participation à l'Assaut Kalgas. Réapparaît immédiatement au point de départ sans temps d'attente.
 PROPITEM_TXT_131427,Kalgas Chip,Jeton Kalgas
 PROPITEM_TXT_131428,Exchange this Kalgas chip to Waforu for wonderful rewards!,Échangez ce jeton Kalgas auprès de Waforu pour obtenir de super récompenses !
 PROPITEM_TXT_722673,Valentine 2024 10% Red Set,Set Saint-Valentin 2024 10% Rouge
@@ -14798,7 +14798,7 @@ PROPITEM_TXT_723090,Future Easter Green Hat (M),Chapeau Vert Pâques Futur (M)
 PROPITEM_TXT_723091,Future Easter Green Suit (M),Costume Vert Pâques Futur (M)
 PROPITEM_TXT_723092,Future Easter Green Shoes (M),Chaussures Vertes Pâques Futur (M)
 PROPITEM_TXT_723093,Future Easter Green Hands (M),Gants Verts Pâques Futur (M)
-PROPITEM_TXT_723094,Future Easter 6% Green Set,Set Pâques Futur 6% Vert (F)
+PROPITEM_TXT_723094,Future Easter 6% Green Set (F),Set Pâques Futur 6% Vert (F)
 PROPITEM_TXT_723095,The Future Easter 6% Green Set for female characters.,Set Pâques Futur 6% Vert pour personnages féminins
 PROPITEM_TXT_723096,Future Easter Green Hat (F),Chapeau Vert Pâques Futur (F)
 PROPITEM_TXT_723097,Future Easter Green Suit (F),Costume Vert Pâques Futur (F)
@@ -14988,7 +14988,7 @@ PROPITEM_TXT_723280,Aura Selection Box (7 Days),Boîte de Sélection d'Aura (7 j
 PROPITEM_TXT_723281,Select which aura you want to receive!,Sélectionnez l'aura que vous voulez recevoir !
 PROPITEM_TXT_723282,Aura Selection Box (15 Days),Boîte de Sélection d'Aura (15 jours)
 PROPITEM_TXT_723283,Safari Explorer Grey Pteranodon,Pteranodon Gris Safari Explorer
-PROPITEM_TXT_723284,"An adventurous safari explorer's scene, with a majestic Pteranodon soaring through the skies. Maximum Speed: 64 km/h.","Scène d'un explorateur de safari aventurier avec un majestueux Pteranodon volant dans le ciel. Vitesse maximale : 64 km/h."
+PROPITEM_TXT_723284,"An adventurous safari explorer's scene, with a majestic Pteranodon soaring through the skies. Maximum Speed: 64 km/h.",Scène d'un explorateur de safari aventurier avec un majestueux Pteranodon volant dans le ciel. Vitesse maximale : 64 km/h.
 PROPITEM_TXT_723285,Safari Explorer Black Pteranodon,Pteranodon Noir Safari Explorer
 PROPITEM_TXT_723286,Safari Explorer Brown Pteranodon,Pteranodon Marron Safari Explorer
 PROPITEM_TXT_723287,Safari Explorer 10% Brown Set,Set Safari Explorer 10% Marron
@@ -15983,7 +15983,7 @@ PROPITEM_TXT_725112,Re-entry cooldown for Leren Chasm has been reduced by 5 minu
 PROPITEM_TXT_725113,Magic Clock of Leren Chasm (10 Min),Horloge Magique du Gouffre de Leren (10 Min)
 PROPITEM_TXT_725114,Re-entry cooldown for Leren Chasm has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Leren Chasm magic clocks.,Le temps de recharge pour revenir au Gouffre de Leren est réduit de 10 minutes.\nLe nombre d’utilisations de cet objet aujourd’hui est partagé avec les autres horloges magiques du Gouffre de Leren.
 PROPITEM_TXT_725115,Magic Clock of Rhisis Catacombs (5 Min),Horloge Magique des Catacombes de Rhisis (5 Min)
-PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,Le temps de recharge pour revenir aux Catacombes de Rhisis est réduit de 5 minutes.\nLe nombre d’utilisations de cet objet aujourd’hui est partagé avec les autres horloges magiques des Catacombes de Rhisis.
+PROPITEM_TXT_725116,Re-entry cooldown for Rhisis Catacombs has been reduced by 5 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombsm magic clocks.,Le temps de recharge pour revenir aux Catacombes de Rhisis est réduit de 5 minutes.\nLe nombre d’utilisations de cet objet aujourd’hui est partagé avec les autres horloges magiques des Catacombes de Rhisis.
 PROPITEM_TXT_725117,Magic Clock of Rhisis Catacombs (10 Min),Horloge Magique des Catacombes de Rhisis (10 Min)
 PROPITEM_TXT_725118,Re-entry cooldown for Rhisis Catacombs has been reduced by 10 minutes.\nThis item's number of uses today is shared with other Rhisis Catacombs magic clocks.,Le temps de recharge pour revenir aux Catacombes de Rhisis est réduit de 10 minutes.\nLe nombre d’utilisations de cet objet aujourd’hui est partagé avec les autres horloges magiques des Catacombes de Rhisis.
 PROPITEM_TXT_725119,Magic Clock of Envy Depths (5 Min),Horloge Magique des Profondeurs de l’Envie (5 Min)
@@ -16677,7 +16677,7 @@ PROPITEM_TXT_725787,Banana Hero White Glasses,Lunettes Héros Banane Blanc
 PROPITEM_TXT_725788,Banana Hero Costume Lucky Box,Boîte Chance Héros Banane
 PROPITEM_TXT_725789,This box contains a Banana Hero Set with Speed Bonus. You can select your gender after opening the Lucky Box.,Cette boîte contient un Ensemble Héros Banane avec bonus de vitesse. Vous pouvez choisir votre genre après ouverture.
 PROPITEM_TXT_725790,Yellow Junior Banana Hero,Jeune Héros Banane Jaune
-PROPITEM_TXT_725791,"A young, brave banana with a cape who flies around saving fruit from evil fruit thieves!","Une jeune banane courageuse avec cape qui vole pour sauver les fruits des voleurs malfaisants !"
+PROPITEM_TXT_725791,"A young, brave banana with a cape who flies around saving fruit from evil fruit thieves!",Une jeune banane courageuse avec cape qui vole pour sauver les fruits des voleurs malfaisants !
 PROPITEM_TXT_725792,Purple Junior Banana Hero,Jeune Héros Banane Violet
 PROPITEM_TXT_725793,Orange Junior Banana Hero,Jeune Héros Banane Orange
 PROPITEM_TXT_725794,Blue Junior Banana Hero,Jeune Héros Banane Bleu
@@ -17304,7 +17304,7 @@ PROPITEM_TXT_801001,Using this scroll will increase your maximum character house
 PROPITEM_TXT_801002,Scroll of Pet Inventory (Guild House),Parchemin d’Inventaire de Compagnon (Maison de Guilde)
 PROPITEM_TXT_801003,Using this scroll will increase your maximum guild house pet inventory slots by 1! (Warning: this will be linked to the guild),L’utilisation de ce parchemin augmentera de 1 le nombre maximum de slots pour les compagnons de la maison de guilde ! (Attention : ceci sera lié à la guilde)
 PROPITEM_TXT_140000,Cubic Ring,Bague Cubique
-PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.","Cette bague est utilisée pour faire une demande en mariage à un autre joueur et est supprimée lorsque le couple est rompu."
+PROPITEM_TXT_140001,"This ring is used to propose to another player, and is deleted when the couple is broken.",Cette bague est utilisée pour faire une demande en mariage à un autre joueur et est supprimée lorsque le couple est rompu.
 PROPITEM_TXT_140002,Fancy Cubic Ring,Bague Cubique Élégante
 PROPITEM_TXT_140003,Silver Ring,Bague en Argent
 PROPITEM_TXT_140004,Gold Ring,Bague en Or
@@ -17418,7 +17418,7 @@ PROPITEM_TXT_133037,It's an OK bait. Can get common~rare fish. Costs 5 durabilit
 PROPITEM_TXT_133038,Upper-class Bait,Appât de Classe Supérieure
 PROPITEM_TXT_133039,A bait made out of fancy material. Can get common~very rare fish. Costs 7 durability.,Un appât fait de matériau raffiné. Peut attraper des poissons communs à très rares. Coût : 7 durabilité
 PROPITEM_TXT_133040,High-class Bait,Appât de Classe Élevée
-PROPITEM_TXT_133041,A bait made with the finest material. Can get uncommon~very rare fish. Costs 10 durability.,Un appât fait avec le meilleur matériau. Peut attraper des poissons peu communs à très rares. Coût : 10 durabilité
+PROPITEM_TXT_133041,A bait made with the fineset material. Can get uncommon~very rare fish. Costs 10 durability.,Un appât fait avec le meilleur matériau. Peut attraper des poissons peu communs à très rares. Coût : 10 durabilité
 PROPITEM_TXT_133042,Repair Hammer,Marteau de Réparation
 PROPITEM_TXT_133043,Hammer that repairs gathering tools. Recover %d of gathering item's durability.,Marteau qui répare les outils de récolte. Restaure %d de la durabilité de l’objet
 PROPITEM_TXT_133044,Premium Repair Hammer,Marteau de Réparation Premium
@@ -17440,13 +17440,13 @@ PROPITEM_TXT_133059,The remaining production time decreases by 1 hour when used.
 PROPITEM_TXT_133060,Wandering Merchant Refresh Ticket,Billet de Rafraîchissement du Marchand Errant
 PROPITEM_TXT_133061,Refresh the item list of the Wandering Merchant upon use.,Rafraîchit la liste d’objets du Marchand Errant à l’utilisation
 PROPITEM_TXT_133062,Salt,Sel
-PROPITEM_TXT_133063,A necessary ingredient to make savoury dishes.,Ingrédient nécessaire pour préparer des plats salés
+PROPITEM_TXT_133063,A neccessary ingredient to make savoury dishes.,Ingrédient nécessaire pour préparer des plats salés
 PROPITEM_TXT_133064,Sugar,Sucre
-PROPITEM_TXT_133065,A necessary ingredient to make sweet dishes.,Ingrédient nécessaire pour préparer des plats sucrés
+PROPITEM_TXT_133065,A neccessary ingredient to make sweet dishes.,Ingrédient nécessaire pour préparer des plats sucrés
 PROPITEM_TXT_133066,Vinegar,Vinaigre
-PROPITEM_TXT_133067,A necessary ingredient to make sour dishes.,Ingrédient nécessaire pour préparer des plats acides
+PROPITEM_TXT_133067,A neccessary ingredient to make sour dishes.,Ingrédient nécessaire pour préparer des plats acides
 PROPITEM_TXT_133068,Chili Powder,Poudre de Chili
-PROPITEM_TXT_133069,A necessary ingredient to make spicy dishes.,Ingrédient nécessaire pour préparer des plats épicés
+PROPITEM_TXT_133069,A neccessary ingredient to make spicy dishes.,Ingrédient nécessaire pour préparer des plats épicés
 PROPITEM_TXT_133070,Flour,Farine
 PROPITEM_TXT_133071,A powder made by grinding wheat.,Une poudre obtenue en broyant du blé
 PROPITEM_TXT_133072,Water,Eau
@@ -17486,9 +17486,9 @@ PROPITEM_TXT_133105,A piece of cloth that is used to block sunlight.,Un morceau 
 PROPITEM_TXT_133106,Weed (D),Mauvaise Herbe (D)
 PROPITEM_TXT_133107,A common weed. There's no real effect but it can be used as an alchemy material.,Une mauvaise herbe commune. Aucun effet réel mais peut être utilisée en alchimie
 PROPITEM_TXT_133108,Damaged Herb (D),Herbe Endommagée (D)
-PROPITEM_TXT_133109,A severely damaged herb that is not recognizable.,Une herbe gravement endommagée, non reconnaissable
+PROPITEM_TXT_133109,A severely damaged herb that is not recognizable.,"Une herbe gravement endommagée, non reconnaissable"
 PROPITEM_TXT_133110,Damaged Herb (C),Herbe Endommagée (C)
-PROPITEM_TXT_133111,A damaged herb that is not recognizable.,Une herbe endommagée, non reconnaissable
+PROPITEM_TXT_133111,A damaged herb that is not recognizable.,"Une herbe endommagée, non reconnaissable"
 PROPITEM_TXT_133112,Damaged Herb (B),Herbe Endommagée (B)
 PROPITEM_TXT_133113,Damaged Herb (A),Herbe Endommagée (A)
 PROPITEM_TXT_133114,Blue Herb (D),Herbe Bleue (D)
@@ -17533,20 +17533,20 @@ PROPITEM_TXT_133152,Stamina Herb (B),Herbe d’Endurance (B)
 PROPITEM_TXT_133153,A herb that is known to increase your stamina when consumed.,Une herbe connue pour augmenter votre endurance lorsqu’elle est consommée
 PROPITEM_TXT_133154,Stamina Herb (A),Herbe d’Endurance (A)
 PROPITEM_TXT_133155,Eternal Herb (A),Herbe Éternelle (A)
-PROPITEM_TXT_133156,A herb that is known to be very potent to even stop you from death.,Une herbe réputée très puissante, pouvant même empêcher la mort
+PROPITEM_TXT_133156,A herb that is known to be very potent to even stop you from death.,"Une herbe réputée très puissante, pouvant même empêcher la mort"
 PROPITEM_TXT_133157,Venom Herb (A),Herbe Vénéneuse (A)
-PROPITEM_TXT_133158,A fatally venomous herb. If you control the dosage it can be used as great medicine.,Une herbe mortellement vénéneuse. Si le dosage est contrôlé, elle peut servir de grand remède
+PROPITEM_TXT_133158,A fatally venomous herb. If you control the dosage it can be used as great medicine.,"Une herbe mortellement vénéneuse. Si le dosage est contrôlé, elle peut servir de grand remède"
 PROPITEM_TXT_133159,Tree Branch (D),Branche d’Arbre (D)
 PROPITEM_TXT_133160,A common tree branch.,Une branche d’arbre commune
 PROPITEM_TXT_133161,Tree Bark (D),Écorce d’Arbre (D)
 PROPITEM_TXT_133162,A tree bark that has fallen off a tree.,Une écorce tombée d’un arbre
 PROPITEM_TXT_133163,Tree Bark (C),Écorce d’Arbre (C)
 PROPITEM_TXT_133164,Damaged Tree (D),Arbre Endommagé (D)
-PROPITEM_TXT_133165,A severely damaged piece of wood that is not recognizable.,Un morceau de bois gravement endommagé, non reconnaissable
+PROPITEM_TXT_133165,A severely damaged piece of wood that is not recognizable.,"Un morceau de bois gravement endommagé, non reconnaissable"
 PROPITEM_TXT_133166,Damaged Tree (C),Arbre Endommagé (C)
-PROPITEM_TXT_133167,A damaged piece of wood that is not recognizable.,Un morceau de bois endommagé, non reconnaissable
+PROPITEM_TXT_133167,A damaged piece of wood that is not recognizable.,"Un morceau de bois endommagé, non reconnaissable"
 PROPITEM_TXT_133168,Damaged Tree (B),Arbre Endommagé (B)
-PROPITEM_TXT_133169,A damaged piece of wood that is not recognizable but is quite hard.,Un morceau de bois endommagé, non reconnaissable mais assez dur
+PROPITEM_TXT_133169,A damaged piece of wood that is not recognizable but is quite hard.,"Un morceau de bois endommagé, non reconnaissable mais assez dur"
 PROPITEM_TXT_133170,Damaged Tree (A),Arbre Endommagé (A)
 PROPITEM_TXT_133171,Cedar Log (D),Bûche de Cèdre (D)
 PROPITEM_TXT_133172,A piece of cedar log that is slightly warped.,Un morceau de bûche de cèdre légèrement tordu
@@ -17594,9 +17594,9 @@ PROPITEM_TXT_133213,A piece of sturdy and colorful mahogany log.,Un morceau de b
 PROPITEM_TXT_133214,Pebble (D),Galets (D)
 PROPITEM_TXT_133215,A common pebble. There's no real effect but it can be used as a smithing material.,Un galet commun. Aucun effet réel mais peut être utilisé comme matériau de forge
 PROPITEM_TXT_133216,Fragmented Jewel (D),Bijou Fragmenté (D)
-PROPITEM_TXT_133217,A severely fractured jewel that is not recognizable.,Un bijou sévèrement fracturé, non reconnaissable
+PROPITEM_TXT_133217,A severely fractured jewel that is not recognizable.,"Un bijou sévèrement fracturé, non reconnaissable"
 PROPITEM_TXT_133218,Fragmented Jewel (C),Bijou Fragmenté (C)
-PROPITEM_TXT_133219,A fractured jewel that is not recognizable.,Un bijou fracturé, non reconnaissable
+PROPITEM_TXT_133219,A fractured jewel that is not recognizable.,"Un bijou fracturé, non reconnaissable"
 PROPITEM_TXT_133220,Fragmented Jewel (B),Bijou Fragmenté (B)
 PROPITEM_TXT_133221,Fragmented Jewel (A),Bijou Fragmenté (A)
 PROPITEM_TXT_133222,Quartz (D),Quartz (D)
@@ -17656,7 +17656,7 @@ PROPITEM_TXT_133275,Large Nameless Fish (D),Grand Poisson Sans Nom (D)
 PROPITEM_TXT_133276,Large Nameless Fish (C),Grand Poisson Sans Nom (C)
 PROPITEM_TXT_133277,Large Nameless Fish (B),Grand Poisson Sans Nom (B)
 PROPITEM_TXT_133278,Large Nameless Fish (A),Grand Poisson Sans Nom (A)
-PROPITEM_TXT_133279,A common nameless fish. It's larger than a regular nameless fish.,Un poisson sans nom commun, plus grand qu’un poisson sans nom normal
+PROPITEM_TXT_133279,A common nameless fish. It's larger than a regular nameless fish.,"Un poisson sans nom commun, plus grand qu’un poisson sans nom normal"
 PROPITEM_TXT_133280,Shrimp (D),Crevette (D)
 PROPITEM_TXT_133281,Shrimp (C),Crevette (C)
 PROPITEM_TXT_133282,Shrimp (B),Crevette (B)
@@ -17666,7 +17666,7 @@ PROPITEM_TXT_133285,Large Shrimp (D),Grande Crevette (D)
 PROPITEM_TXT_133286,Large Shrimp (C),Grande Crevette (C)
 PROPITEM_TXT_133287,Large Shrimp (B),Grande Crevette (B)
 PROPITEM_TXT_133288,Large Shrimp (A),Grande Crevette (A)
-PROPITEM_TXT_133289,A crustacean used in many cuisines. It's larger than a regular shrimp.,Un crustacé utilisé dans de nombreuses cuisines, plus grand qu’une crevette normale
+PROPITEM_TXT_133289,A crustacean used in many cuisines. It's larger than a regular shrimp.,"Un crustacé utilisé dans de nombreuses cuisines, plus grand qu’une crevette normale"
 PROPITEM_TXT_133290,Cod (D),Morue (D)
 PROPITEM_TXT_133291,Cod (C),Morue (C)
 PROPITEM_TXT_133292,Cod (B),Morue (B)
@@ -17676,11 +17676,11 @@ PROPITEM_TXT_133295,Large Cod (D),Grande Morue (D)
 PROPITEM_TXT_133296,Large Cod (C),Grande Morue (C)
 PROPITEM_TXT_133297,Large Cod (B),Grande Morue (B)
 PROPITEM_TXT_133298,Large Cod (A),Grande Morue (A)
-PROPITEM_TXT_133299,A fish with a mild taste. It's larger than a regular cod.,Un poisson au goût doux, plus grand qu’une morue normale
+PROPITEM_TXT_133299,A fish with a mild taste. It's larger than a regular cod.,"Un poisson au goût doux, plus grand qu’une morue normale"
 PROPITEM_TXT_133300,Herring (C),Hareng (C)
 PROPITEM_TXT_133301,Herring (B),Hareng (B)
 PROPITEM_TXT_133302,Herring (A),Hareng (A)
-PROPITEM_TXT_133303,"A savory, light fish.","Un poisson savoureux et léger"
+PROPITEM_TXT_133303,"A savory, light fish.",Un poisson savoureux et léger
 PROPITEM_TXT_133304,Large Herring (C),Grand Hareng (C)
 PROPITEM_TXT_133305,Large Herring (B),Grand Hareng (B)
 PROPITEM_TXT_133306,Large Herring (A),Grand Hareng (A)
@@ -17692,11 +17692,11 @@ PROPITEM_TXT_133311,A mollusk with 10 legs.,Un mollusque à 10 tentacules
 PROPITEM_TXT_133312,Large Squid (C),Grand Calmar (C)
 PROPITEM_TXT_133313,Large Squid (B),Grand Calmar (B)
 PROPITEM_TXT_133314,Large Squid (A),Grand Calmar (A)
-PROPITEM_TXT_133315,A mollusk with 10 legs. It's larger than a regular squid.,Un mollusque à 10 tentacules, plus grand qu’un calmar normal
+PROPITEM_TXT_133315,A mollusk with 10 legs. It's larger than a regular squid.,"Un mollusque à 10 tentacules, plus grand qu’un calmar normal"
 PROPITEM_TXT_133316,Mackerel (C),Maquereau (C)
 PROPITEM_TXT_133317,Mackerel (B),Maquereau (B)
 PROPITEM_TXT_133318,Mackerel (A),Maquereau (A)
-PROPITEM_TXT_133319,"A meaty, oily white fish.","Un poisson blanc charnu et gras"
+PROPITEM_TXT_133319,"A meaty, oily white fish.",Un poisson blanc charnu et gras
 PROPITEM_TXT_133320,Large Mackerel (C),Grand Maquereau (C)
 PROPITEM_TXT_133321,Large Mackerel (B),Grand Maquereau (B)
 PROPITEM_TXT_133322,Large Mackerel (A),Grand Maquereau (A)
@@ -17706,13 +17706,13 @@ PROPITEM_TXT_133325,Eel (A),Anguille (A)
 PROPITEM_TXT_133326,A fish with a long and thin body.,Un poisson au corps long et fin
 PROPITEM_TXT_133327,Large Eel (B),Grande Anguille (B)
 PROPITEM_TXT_133328,Large Eel (A),Grande Anguille (A)
-PROPITEM_TXT_133329,A fish with a long and thin body. It's larger than a regular eel.,Un poisson au corps long et fin, plus grand qu’une anguille normale
+PROPITEM_TXT_133329,A fish with a long and thin body. It's larger than a regular eel.,"Un poisson au corps long et fin, plus grand qu’une anguille normale"
 PROPITEM_TXT_133330,Salmon (B),Saumon (B)
 PROPITEM_TXT_133331,Salmon (A),Saumon (A)
 PROPITEM_TXT_133332,A meaty and rich red fish.,Un poisson rouge charnu et riche
 PROPITEM_TXT_133333,Large Salmon (B),Grand Saumon (B)
 PROPITEM_TXT_133334,Large Salmon (A),Grand Saumon (A)
-PROPITEM_TXT_133335,A meaty and rich red fish. It's larger than a regular salmon.,Un poisson rouge charnu et riche, plus grand qu’un saumon normal
+PROPITEM_TXT_133335,A meaty and rich red fish. It's larger than a regular salmon.,"Un poisson rouge charnu et riche, plus grand qu’un saumon normal"
 PROPITEM_TXT_133336,Tuna (A),Thon (A)
 PROPITEM_TXT_133337,"A large, meaty and very oily red fish.","Un poisson rouge charnu, très gras et de grande taille"
 PROPITEM_TXT_133338,Large Tuna (A),Grand Thon (A)
@@ -17793,7 +17793,7 @@ PROPITEM_TXT_133412,Recovers 84 HP,Redonne 84 PV
 PROPITEM_TXT_133413,Meat Skewer (C),Brochette de Viande (C)
 PROPITEM_TXT_133414,Recovers 144 HP,Redonne 144 PV
 PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
-PROPITEM_TXT_133416,Recvoers 144 HP,Redonne 144 PV
+PROPITEM_TXT_133416,Recovers 144 HP,Redonne 144 PV
 PROPITEM_TXT_133417,Fish Ball (D),Boule de Poisson (D)
 PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,Plat à base de poisson haché en boulettes
 PROPITEM_TXT_133419,Fish Ball (C),Boule de Poisson (C)
@@ -17991,37 +17991,37 @@ PROPITEM_TXT_133609,White Reagent (D),Réactif Blanc (D)
 PROPITEM_TXT_133610,White Reagent (C),Réactif Blanc (C)
 PROPITEM_TXT_133611,White Reagent (B),Réactif Blanc (B)
 PROPITEM_TXT_133612,White Reagent (A),Réactif Blanc (A)
-PROPITEM_TXT_133613,A reagent of white color. It can be used for many purposes.,Un réactif de couleur blanche, utilisable pour plusieurs usages
+PROPITEM_TXT_133613,A reagent of white color. It can be used for many purposes.,"Un réactif de couleur blanche, utilisable pour plusieurs usages"
 PROPITEM_TXT_133614,Blue Reagent (D),Réactif Bleu (D)
 PROPITEM_TXT_133615,Blue Reagent (C),Réactif Bleu (C)
 PROPITEM_TXT_133616,Blue Reagent (B),Réactif Bleu (B)
 PROPITEM_TXT_133617,Blue Reagent (A),Réactif Bleu (A)
-PROPITEM_TXT_133618,A reagent of blue color. It can be used for many purposes.,Un réactif de couleur bleue, utilisable pour plusieurs usages
+PROPITEM_TXT_133618,A reagent of blue color. It can be used for many purposes.,"Un réactif de couleur bleue, utilisable pour plusieurs usages"
 PROPITEM_TXT_133619,Red Reagent (D),Réactif Rouge (D)
 PROPITEM_TXT_133620,Red Reagent (C),Réactif Rouge (C)
 PROPITEM_TXT_133621,Red Reagent (B),Réactif Rouge (B)
 PROPITEM_TXT_133622,Red Reagent (A),Réactif Rouge (A)
-PROPITEM_TXT_133623,A reagent of red color. It can be used for many purposes.,Un réactif de couleur rouge, utilisable pour plusieurs usages
+PROPITEM_TXT_133623,A reagent of red color. It can be used for many purposes.,"Un réactif de couleur rouge, utilisable pour plusieurs usages"
 PROPITEM_TXT_133624,Green Reagent (D),Réactif Vert (D)
 PROPITEM_TXT_133625,Green Reagent (C),Réactif Vert (C)
 PROPITEM_TXT_133626,Green Reagent (B),Réactif Vert (B)
 PROPITEM_TXT_133627,Green Reagent (A),Réactif Vert (A)
-PROPITEM_TXT_133628,A reagent of green color. It can be used for many purposes.,Un réactif de couleur verte, utilisable pour plusieurs usages
+PROPITEM_TXT_133628,A reagent of green color. It can be used for many purposes.,"Un réactif de couleur verte, utilisable pour plusieurs usages"
 PROPITEM_TXT_133629,Yellow Reagent (D),Réactif Jaune (D)
 PROPITEM_TXT_133630,Yellow Reagent (C),Réactif Jaune (C)
 PROPITEM_TXT_133631,Yellow Reagent (B),Réactif Jaune (B)
 PROPITEM_TXT_133632,Yellow Reagent (A),Réactif Jaune (A)
-PROPITEM_TXT_133633,A reagent of yellow color. It can be used for many purposes.,Un réactif de couleur jaune, utilisable pour plusieurs usages
+PROPITEM_TXT_133633,A reagent of yellow color. It can be used for many purposes.,"Un réactif de couleur jaune, utilisable pour plusieurs usages"
 PROPITEM_TXT_133634,Gold Reagent (D),Réactif Doré (D)
 PROPITEM_TXT_133635,Gold Reagent (C),Réactif Doré (C)
 PROPITEM_TXT_133636,Gold Reagent (B),Réactif Doré (B)
 PROPITEM_TXT_133637,Gold Reagent (A),Réactif Doré (A)
-PROPITEM_TXT_133638,A reagent of gold color. It can be used for many purposes.,Un réactif de couleur dorée, utilisable pour plusieurs usages
+PROPITEM_TXT_133638,A reagent of gold color. It can be used for many purposes.,"Un réactif de couleur dorée, utilisable pour plusieurs usages"
 PROPITEM_TXT_133639,Pine Oil (D),Huile de Pin (D)
 PROPITEM_TXT_133640,Pine Oil (C),Huile de Pin (C)
 PROPITEM_TXT_133641,Pine Oil (B),Huile de Pin (B)
 PROPITEM_TXT_133642,Pine Oil (A),Huile de Pin (A)
-PROPITEM_TXT_133643,This oil is harvested from pine trees. It has many uses.,Huile extraite des pins, avec de nombreuses utilisations
+PROPITEM_TXT_133643,This oil is harvested from pine trees. It has many uses.,"Huile extraite des pins, avec de nombreuses utilisations"
 PROPITEM_TXT_133644,VitalDrink 100 (C),Boisson Vitale 100 (C)
 PROPITEM_TXT_133645,FP 72 Recovery,Récupère 72 FP
 PROPITEM_TXT_133646,VitalDrink 200 (C),Boisson Vitale 200 (C)
@@ -19599,31 +19599,31 @@ PROPITEM_TXT_144043,Look Around Motion,Mouvement Regarder Autour
 PROPITEM_TXT_201001,5th grade Jewel Selection Box,Boîte de Sélection de Bijoux 5ᵉ grade
 PROPITEM_TXT_201002,You can select 1 out of total 7 5th grade ultimate weapon jewels.,Vous pouvez sélectionner 1 parmi les 7 bijoux d’arme ultime de 5ᵉ grade.
 PROPITEM_TXT_201003,Tier A Piercing Card Lucky Box,Boîte Chanceuse de Carte Perforante de Rang A
-PROPITEM_TXT_201004,You can get 1 random grade A piercing card,Vous pouvez obtenir 1 carte perforante de rang A au hasard
+PROPITEM_TXT_201004,You can get 1 random grade A piercing card.,Vous pouvez obtenir 1 carte perforante de rang A au hasard
 PROPITEM_TXT_201005,Fishball Select Box,Boîte de Sélection de Boule de Poisson
 PROPITEM_TXT_201006,There are various types of Fishballs.\nYou can select and obtain 1 type of Fishball box.,Il existe différents types de Boules de Poisson.\nVous pouvez sélectionner et obtenir 1 type de boîte de Boule de Poisson.
 PROPITEM_TXT_201007,Red Fishball Box,Boîte de Boule de Poisson Rouge
-PROPITEM_TXT_201008,You can obtain 1 type of D to A+ grade Red colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rouge de grade D à A+.
+PROPITEM_TXT_201008,You can obtain 1 type of D to A+ grade Red colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rouge de grade D à A+.
 PROPITEM_TXT_201009,Blue Fishball Box,Boîte de Boule de Poisson Bleue
-PROPITEM_TXT_201010,You can obtain 1 type of D to A+ grade Blue colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleue de grade D à A+.
+PROPITEM_TXT_201010,You can obtain 1 type of D to A+ grade Blue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleue de grade D à A+.
 PROPITEM_TXT_201011,Green Fishball Box,Boîte de Boule de Poisson Verte
-PROPITEM_TXT_201012,You can obtain 1 type of D to A+ grade Green colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson verte de grade D à A+.
+PROPITEM_TXT_201012,You can obtain 1 type of D to A+ grade Green colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson verte de grade D à A+.
 PROPITEM_TXT_201013,Purple Fishball Box,Boîte de Boule de Poisson Violette
-PROPITEM_TXT_201014,You can obtain 1 type of D to A+ grade Purple colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson violette de grade D à A+.
+PROPITEM_TXT_201014,You can obtain 1 type of D to A+ grade Purple colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson violette de grade D à A+.
 PROPITEM_TXT_201015,Rainbow Fishball Box,Boîte de Boule de Poisson Arc-en-ciel
-PROPITEM_TXT_201016,You can obtain 1 type of D to A+ grade Rainbow colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson arc-en-ciel de grade D à A+.
+PROPITEM_TXT_201016,You can obtain 1 type of D to A+ grade Rainbow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson arc-en-ciel de grade D à A+.
 PROPITEM_TXT_201017,Orange Fishball Box,Boîte de Boule de Poisson Orange
-PROPITEM_TXT_201018,You can obtain 1 type of D to A+ grade Orange colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson orange de grade D à A+.
+PROPITEM_TXT_201018,You can obtain 1 type of D to A+ grade Orange colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson orange de grade D à A+.
 PROPITEM_TXT_201019,Skyblue Fishball Box,Boîte de Boule de Poisson Bleu Ciel
-PROPITEM_TXT_201020,You can obtain 1 type of D to A+ grade Skyblue colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleu ciel de grade D à A+.
+PROPITEM_TXT_201020,You can obtain 1 type of D to A+ grade Skyblue colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson bleu ciel de grade D à A+.
 PROPITEM_TXT_201021,Yellow Fishball Box,Boîte de Boule de Poisson Jaune
-PROPITEM_TXT_201022,You can obtain 1 type of D to A+ grade Yellow colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson jaune de grade D à A+.
+PROPITEM_TXT_201022,You can obtain 1 type of D to A+ grade Yellow colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson jaune de grade D à A+.
 PROPITEM_TXT_201023,Pink Fishball Box,Boîte de Boule de Poisson Rose
-PROPITEM_TXT_201024,You can obtain 1 type of D to A+ grade Pink colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rose de grade D à A+.
+PROPITEM_TXT_201024,You can obtain 1 type of D to A+ grade Pink colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson rose de grade D à A+.
 PROPITEM_TXT_201025,Grey Fishball Box,Boîte de Boule de Poisson Grise
-PROPITEM_TXT_201026,You can obtain 1 type of D to A+ grade Grey colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson grise de grade D à A+.
+PROPITEM_TXT_201026,You can obtain 1 type of D to A+ grade Grey colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson grise de grade D à A+.
 PROPITEM_TXT_201027,White Fishball Box,Boîte de Boule de Poisson Blanche
-PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random,Vous pouvez obtenir au hasard 1 type de Boule de Poisson blanche de grade D à A+.
+PROPITEM_TXT_201028,You can obtain 1 type of D to A+ grade White colored Fishball by random.,Vous pouvez obtenir au hasard 1 type de Boule de Poisson blanche de grade D à A+.
 PROPITEM_TXT_201029,Nightmare Set,Set Cauchemar
 PROPITEM_TXT_201030,Nightmare Set (M),Set Cauchemar (H)
 PROPITEM_TXT_201031,The Nightmare Set for male character.,Le Set Cauchemar pour personnage masculin
@@ -19797,7 +19797,7 @@ PROPITEM_TXT_144046,[Event] Christmas Invasion Box 1,[Événement] Boîte Invasi
 PROPITEM_TXT_144047,First reward for the Christams Invasion!\nYou can earn 5 2024 Santa's Present and 5 Christmas Cookie.,Première récompense pour l’Invasion de Noël !\nVous pouvez obtenir 5 Cadeaux du Père Noël 2024 et 5 Cookies de Noël.
 PROPITEM_TXT_144054,Silverwork (A) Select Box,Boîte de Sélection Argent (A)
 PROPITEM_TXT_144055,A box containing a silverwork buff item. You can choose 1 item to receive.,Une boîte contenant un objet de buff argenté. Vous pouvez choisir 1 objet à recevoir.
-PROPITEM_TXT_144056,Power Vital drink or Refresher(A,Boisson Power Vital ou Rafraîchissante (A)
+PROPITEM_TXT_144056,Power Vital drink or Refresher(A),Boisson Power Vital ou Rafraîchissante (A)
 PROPITEM_TXT_144057,You can choose between a Power Vital Drink and a Power Refresher,Vous pouvez choisir entre une Boisson Power Vital et un Rafraîchisseur Power
 PROPITEM_TXT_144058,Potion (A) Select Box,Boîte de Sélection Potion (A)
 PROPITEM_TXT_144059,A box containing various buff items. You can choose 1 item to receive.,Une boîte contenant divers objets de buff. Vous pouvez en choisir 1 à recevoir.
@@ -21291,7 +21291,7 @@ PROPITEM_TXT_827788,Ghost of the Forgotten Shield,Fantôme du Bouclier Oublié
 PROPITEM_TXT_827789,Ghost of the Forgotten Weapon Set,Set d'Armes du Fantôme Oublié
 PROPITEM_TXT_827790,Select which Ghost of the Forgotten Weapon you want to receive!,Sélectionnez l'Arme du Fantôme Oublié que vous souhaitez recevoir !
 PROPITEM_TXT_827791,Veduque Hair,Cheveux Veduque
-PROPITEM_TXT_827792,A dark crown infused with the terrifying aura of the Veduque. Wearing it means embracing the shadows.,Une couronne sombre imprégnée de l'aura terrifiante du Veduque. La porter, c'est embrasser les ténèbres.
+PROPITEM_TXT_827792,A dark crown infused with the terrifying aura of the Veduque. Wearing it means embracing the shadows.,"Une couronne sombre imprégnée de l'aura terrifiante du Veduque. La porter, c'est embrasser les ténèbres."
 PROPITEM_TXT_827793,Veduque Mask,Masque Veduque
 PROPITEM_TXT_827794,A menacing mask inspired by the dreadful guardian of the Mas Dungeon. Its hollow gaze seems to pierce through your soul.,Un masque menaçant inspiré par le redoutable gardien du donjon Mas. Son regard vide semble transpercer votre âme.
 PROPITEM_TXT_827795,Veduque Cloak,Cape Veduque
@@ -21898,7 +21898,7 @@ PROPITEM_TXT_134744,Candle Weapon Selection Box,Coffre de sélection Arme Bougie
 PROPITEM_TXT_134745,A box containing a Candle Weapon item. You can choose 1 item to receive.,Un coffre contenant un objet Arme Bougie. Vous pouvez choisir 1 objet à recevoir.
 PROPITEM_TXT_134746,3rd Anniversary Egg Upgrade Ticket,Ticket d’amélioration d’Œuf du 3e anniversaire
 PROPITEM_TXT_134747,3rd Anniversary Random Box Package,Pack Coffre aléatoire du 3e anniversaire
-PROPITEM_TXT_134748,"A package containing 1X 3rd Anniversary Roulette Ticket, 1X 3rd Anniversary Random Box.\nAll items are Soul-Linked.","Un pack contenant 1x Ticket de roulette du 3e anniversaire et 1x Coffre aléatoire du 3e anniversaire.\nTous les objets sont liés à l’âme."
+PROPITEM_TXT_134748,"A package containing 1X 3rd Anniversary Roulette Ticket, 1X 3rd Anniversary Random Box.\nAll items are Soul-Linked.",Un pack contenant 1x Ticket de roulette du 3e anniversaire et 1x Coffre aléatoire du 3e anniversaire.\nTous les objets sont liés à l’âme.
 PROPITEM_TXT_134749,3rd Anniversary Infinite Skill Package,Pack Compétence infinie du 3e anniversaire
 PROPITEM_TXT_134750,"A package containing 2X 3rd Anniversary Roulette Ticket, 3X 3rd Anniversary Egg I, 10X Vital Drink X or Refresher Hold, 10X Activition.\nAll items are Soul-Linked.","Un pack contenant 2x Ticket de roulette du 3e anniversaire, 3x Œuf du 3e anniversaire I, 10x Boisson Vital X ou Refresher Hold et 10x Activation.\nTous les objets sont liés à l’âme."
 PROPITEM_TXT_134751,3rd Anniversary Upgrade Package,Pack d’amélioration du 3e anniversaire
@@ -21920,7 +21920,7 @@ PROPITEM_TXT_134767,I am PANG! Shoes (F),Chaussures Je suis PANG ! (F)
 PROPITEM_TXT_134768,I am PANG! Hands (F),Gants Je suis PANG ! (F)
 PROPITEM_TXT_134769,"Item needed to upgrade 3rd Anniversary Egg.\nIf you fail, you can drop or destroy it, so be careful.","Objet nécessaire pour améliorer l’Œuf du 3e anniversaire.\nEn cas d’échec, vous pouvez le faire tomber ou le détruire, soyez prudent."
 PROPITEM_TXT_134770,"To upgrade to the next level, you will need a 3rd Anniversary Egg Upgrade Ticket.\nIf you don't want to upgrade anymore, open it.","Pour améliorer au niveau suivant, vous aurez besoin d’un Ticket d’amélioration d’Œuf du 3e anniversaire.\nSi vous ne souhaitez plus l’améliorer, ouvrez-le."
-PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,Félicitations, vous avez atteint le niveau maximum. Cassez les œufs et récupérez vos récompenses.
+PROPITEM_TXT_134771,Congratulations You've reached the highest level. Break the eggs and get your rewards.,"Félicitations, vous avez atteint le niveau maximum. Cassez les œufs et récupérez vos récompenses."
 PROPITEM_TXT_900010,Easter Bunny 2025 10% Pink Set,Set Lapin de Pâques 2025 10% Rose
 PROPITEM_TXT_900011,Easter Bunny 2025 Pink Backpack,Sac à dos Lapin de Pâques 2025 Rose
 PROPITEM_TXT_900012,Easter Bunny 2025 Pink Band-aid,Pansement Lapin de Pâques 2025 Rose
@@ -23367,17 +23367,17 @@ PROPITEM_TXT_134830,Recovers 9999 MP,Aliment rechargeant instantanément 9999 PM
 PROPITEM_TXT_134831,FWC Special combo,Combo spécial FWC
 PROPITEM_TXT_134832,20% HP recovered upon use,Récupère 20% des PV à l'utilisation
 PROPITEM_TXT_134833,2025 FWC Red PopCorn,PopCorn Rouge FWC 2025
-PROPITEM_TXT_134834,This 2025 FWC Red PopCorn will grant you +25 STR for 30 minutes,Cet PopCorn Rouge FWC 2025 vous donnera +25 STR pendant 30 minutes
+PROPITEM_TXT_134834,This 2025 FWC Red PopCorn will grant you +25 STR for 30 minutes.,Cet PopCorn Rouge FWC 2025 vous donnera +25 STR pendant 30 minutes
 PROPITEM_TXT_134835,2025 FWC Green PopCorn,PopCorn Vert FWC 2025
-PROPITEM_TXT_134836,This 2025 FWC Green PopCorn will grant you +25 DEX for 30 minutes,Cet PopCorn Vert FWC 2025 vous donnera +25 DEX pendant 30 minutes
+PROPITEM_TXT_134836,This 2025 FWC Green PopCorn will grant you +25 DEX for 30 minutes.,Cet PopCorn Vert FWC 2025 vous donnera +25 DEX pendant 30 minutes
 PROPITEM_TXT_134837,2025 FWC Blue PopCorn,PopCorn Bleu FWC 2025
-PROPITEM_TXT_134838,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 minutes,Cet PopCorn Bleu FWC 2025 vous donnera +25 INT pendant 30 minutes
+PROPITEM_TXT_134838,This 2025 FWC Blue PopCorn will grant you +25 INT for 30 minutes.,Cet PopCorn Bleu FWC 2025 vous donnera +25 INT pendant 30 minutes
 PROPITEM_TXT_134839,2025 FWC Yellow PopCorn,PopCorn Jaune FWC 2025
-PROPITEM_TXT_134840,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes,Cet PopCorn Jaune FWC 2025 vous donnera +25 STA pendant 30 minutes
+PROPITEM_TXT_134840,This 2025 FWC Yellow PopCorn will grant you +25 STA for 30 minutes.,Cet PopCorn Jaune FWC 2025 vous donnera +25 STA pendant 30 minutes
 PROPITEM_TXT_134841,Fortune Pang,Pang Fortune
 PROPITEM_TXT_134842,Pick up pet,Animal de compagnie à récupérer
 PROPITEM_TXT_134843,Obsidian Flame Weapon Skin Select Box,Boîte de Sélection Apparence Arme Obsidian Flame
-PROPITEM_TXT_134844,Pick your favorite colour from the Obsidian Flame weapon collection,Sélectionnez votre couleur préférée dans la collection Obsidian Flame
+PROPITEM_TXT_134844,Pick your favorite colour from the Obsidian Flame weapon collection.,Sélectionnez votre couleur préférée dans la collection Obsidian Flame
 PROPITEM_TXT_134845,Autumn Upgrade Package A,Pack d'Amélioration Automne A
 PROPITEM_TXT_134846,"A package containing 20x Scroll of SProtect, 20x Power Dice 10 and 20x Power Dice 12. All items are also linked.","Un pack contenant 20x Parchemin SProtect, 20x Power Dice 10 et 20x Power Dice 12. Tous les objets sont également liés."
 PROPITEM_TXT_134847,Champion Coin,Pièce Champion
@@ -23628,29 +23628,29 @@ PROPITEM_TXT_901752,The Special Casual Set for male characters.,Ensemble Special
 PROPITEM_TXT_901753,Special Casual Set,Ensemble Special Casual
 PROPITEM_TXT_901754,FWC Consumable SET (Finalist),Pack Consommables FWC (Finaliste)
 PROPITEM_TXT_901755,"May the odds be ever in your favor, young adventurer.","Que la chance soit toujours avec toi, jeune aventurier."
-PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1,Bon FWC Grand Final 2025 1
+PROPITEM_TXT_901756,2025 FWC Grand Final Coupon 1 ,Bon FWC Grand Final 2025 1
 PROPITEM_TXT_901757,"A package containing 1x Card Disc (7days), 3x Vital Drink X or Refresher Hold, 3x Upcut Stone and 3x Activition. All items are Soul-Linked.","Un paquet contenant 1x Disque de Carte (7 jours), 3x Boisson Vital X ou Rafraîchisseur, 3x Pierre Upcut et 3x Activation. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2,Bon FWC Grand Final 2025 2
-PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked.","Un paquet contenant 2x Boîte de Sélection Sac Lifestyle (15 jours), 3x Parchemin de Résurrection, 3x Pierre Def-Upcut et 2x Sac Supplémentaire (15 jours). Tous les objets sont liés à l’âme."
-PROPITEM_TXT_901760,2025 FWC Grand Final Coupon 3,Bon FWC Grand Final 2025 3
-PROPITEM_TXT_901761,"A package containing 1x Feed Bag (7 day), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel. All items are Soul-Linked.","Un paquet contenant 1x Sac de Nourriture (7 jours), 3x Parchemin d’Amplification ES, 3x Parchemin de Pouvoir et 3x Anguille Grillée. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_901762,2025 FWC Grand Final Online Coupon 1,Bon FWC Grand Final Online 2025 1
-PROPITEM_TXT_901763,"A package containing 2x Vital Drink X or Refresher Hold, 2x Scroll of Amplification ES, 4x Amplification Potion Box and 4x Flask Box. All items are Soul-Linked.","Un paquet contenant 2x Boisson Vital X ou Rafraîchisseur, 2x Parchemin d’Amplification ES, 4x Boîte de Potion d’Amplification et 4x Boîte de Flacons. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_901764,2025 FWC Grand Final Online Coupon 2,Bon FWC Grand Final Online 2025 2
-PROPITEM_TXT_901765,"A package containing 1x Extra Bag (30 days), 2x Blinkwing of Madrigal, 1x Activition and 1x Scroll of Resurrection. All items are Soul-Linked.","Un paquet contenant 1x Sac Supplémentaire (30 jours), 2x Ailes Clignotantes de Madrigal, 1x Activation et 1x Parchemin de Résurrection. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901758,2025 FWC Grand Final Coupon 2 ,Bon FWC Grand Final 2025 2
+PROPITEM_TXT_901759,"A package containing 2x Lifestyle Bag Select Box (15 Days), 3x Scroll of Resurrection, 3x Def-Upcut Stone and 2x Extra Bag (15 days). All items are Soul-Linked. ","Un paquet contenant 2x Boîte de Sélection Sac Lifestyle (15 jours), 3x Parchemin de Résurrection, 3x Pierre Def-Upcut et 2x Sac Supplémentaire (15 jours). Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901760,2025 FWC Grand Final Coupon 3 ,Bon FWC Grand Final 2025 3
+PROPITEM_TXT_901761,"A package containing 1x Feed Bag (7 day), 3x Scroll of Amplification ES, 3x Power Scroll and 3x Grilled Eel. All items are Soul-Linked. ","Un paquet contenant 1x Sac de Nourriture (7 jours), 3x Parchemin d’Amplification ES, 3x Parchemin de Pouvoir et 3x Anguille Grillée. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901762,2025 FWC Grand Final Online Coupon 1 ,Bon FWC Grand Final Online 2025 1
+PROPITEM_TXT_901763,"A package containing 2x Vital Drink X or Refresher Hold, 2x Scroll of Amplification ES, 4x Amplification Potion Box and 4x Flask Box. All items are Soul-Linked. ","Un paquet contenant 2x Boisson Vital X ou Rafraîchisseur, 2x Parchemin d’Amplification ES, 4x Boîte de Potion d’Amplification et 4x Boîte de Flacons. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901764,2025 FWC Grand Final Online Coupon 2 ,Bon FWC Grand Final Online 2025 2
+PROPITEM_TXT_901765,"A package containing 1x Extra Bag (30 days), 2x Blinkwing of Madrigal, 1x Activition and 1x Scroll of Resurrection. All items are Soul-Linked. ","Un paquet contenant 1x Sac Supplémentaire (30 jours), 2x Ailes Clignotantes de Madrigal, 1x Activation et 1x Parchemin de Résurrection. Tous les objets sont liés à l’âme."
 PROPITEM_TXT_901766,2025 FWC Grand Final Online Coupon 3,Bon FWC Grand Final Online 2025 3
-PROPITEM_TXT_901767,"A package containing 2x Scroll of SProtect, 2x Scroll of AProtect, 1x Scroll of GProtect and 1x Scroll of EProtect. All items are Soul-Linked.","Un paquet contenant 2x Parchemin de SProtect, 2x Parchemin de AProtect, 1x Parchemin de GProtect et 1x Parchemin de EProtect. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901767,"A package containing 2x Scroll of SProtect, 2x Scroll of AProtect, 1x Scroll of GProtect and 1x Scroll of EProtect. All items are Soul-Linked. ","Un paquet contenant 2x Parchemin de SProtect, 2x Parchemin de AProtect, 1x Parchemin de GProtect et 1x Parchemin de EProtect. Tous les objets sont liés à l’âme."
 PROPITEM_TXT_901768,2025 FWC VIP Premium Box,Boîte VIP Premium FWC 2025
-PROPITEM_TXT_901769,"A package containing 40x FWC Special combo, 1x 2025 Premium Costume Select Box 1 and 2025 Premium Costume Select Box 2. All items are Soul-Linked.","Un paquet contenant 40x Combo Spécial FWC, 1x Boîte de Sélection Costume Premium 2025 1 et 1x Boîte de Sélection Costume Premium 2025 2. Tous les objets sont liés à l’âme."
-PROPITEM_TXT_901770,2025 Premium Costume Select Box 1,Boîte de Sélection Costume Premium 2025 1
-PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Spy Set et Dark Scions Set. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901769,"A package containing 40x FWC Special combo, 1x 2025 Premium Costume Select Box 1 and 2025 Premium Costume Select Box 2. All items are Soul-Linked. ","Un paquet contenant 40x Combo Spécial FWC, 1x Boîte de Sélection Costume Premium 2025 1 et 1x Boîte de Sélection Costume Premium 2025 2. Tous les objets sont liés à l’âme."
+PROPITEM_TXT_901770,2025 Premium Costume Select Box 1 ,Boîte de Sélection Costume Premium 2025 1
+PROPITEM_TXT_901771,Select your favorite costume between Spy Set and Dark Scions Set. All items are Soul-Linked. ,Choisissez votre costume préféré entre Spy Set et Dark Scions Set. Tous les objets sont liés à l’âme.
 PROPITEM_TXT_901772,2025 FWC VIP Gold Box,Boîte VIP Gold FWC 2025
 PROPITEM_TXT_901773,A package containing 20x FWC Special combo and 1x 2025 Gold Costume Select Box. All items are Soul-Linked.,Un paquet contenant 20x Combo Spécial FWC et 1x Boîte de Sélection Costume Gold 2025. Tous les objets sont liés à l’âme.
-PROPITEM_TXT_901774,2025 Gold Costume Select Box,Boîte de Sélection Costume Gold 2025
-PROPITEM_TXT_901775,Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Spy Set, Dark Scions Set, Warlord Set et Black Wedding Set. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901774,2025 Gold Costume Select Box ,Boîte de Sélection Costume Gold 2025
+PROPITEM_TXT_901775,"Select your favorite costume between Spy Set, Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked. ","Dark Scions Set, Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Spy Set, Dark Scions Set, Warlord Set et Black Wedding Set. Tous les objets sont liés à l’âme."
 PROPITEM_TXT_901776,2025 FWC Welcome Box,Boîte de Bienvenue FWC 2025
-PROPITEM_TXT_901777,A package containing 10x FWC Special combo and 3x Box of Lucky. All items are Soul-Linked.,Un paquet contenant 10x Combo Spécial FWC et 3x Boîte de Chance. Tous les objets sont liés à l’âme.
-PROPITEM_TXT_901778,2025 Premium Costume Select Box 2,Boîte de Sélection Costume Premium 2025 2
+PROPITEM_TXT_901777,A package containing 10x FWC Special combo and 3x Box of Lucky. All items are Soul-Linked. ,Un paquet contenant 10x Combo Spécial FWC et 3x Boîte de Chance. Tous les objets sont liés à l’âme.
+PROPITEM_TXT_901778,2025 Premium Costume Select Box 2 ,Boîte de Sélection Costume Premium 2025 2
 PROPITEM_TXT_901779,Select your favorite costume between Warlord Set and Black Wedding Set. All items are Soul-Linked.,Choisissez votre costume préféré entre Warlord Set et Black Wedding Set. Tous les objets sont liés à l’âme.
 PROPITEM_TXT_901780,Dark Prince Set (M),Ensemble Dark Prince (H)
 PROPITEM_TXT_901781,Dark Prince set for Male characters,Ensemble Dark Prince pour personnages masculins
@@ -24050,7 +24050,7 @@ PROPITEM_TXT_155001,Teleport to Eillun,Téléportation vers Eillun
 PROPITEM_TXT_155002,Fragment of ???,Fragment de ???
 PROPITEM_TXT_155003,An unknown fragment was found on the ground. Bring it to the Mayor of Flarine; maybe he can figure out what it is.,Un fragment inconnu a été trouvé au sol. Apportez-le au Maire de Flarine ; peut-être pourra-t-il découvrir de quoi il s’agit.
 PROPITEM_TXT_155004,Fragment of a Fallen Ship,Fragment d’un navire tombé
-PROPITEM_TXT_155005,A remnant from a long-lost vessel that once soared the skies.,Un vestige d’un vaisseau disparu depuis longtemps, qui autrefois parcourait les cieux.
+PROPITEM_TXT_155005,A remnant from a long-lost vessel that once soared the skies.,"Un vestige d’un vaisseau disparu depuis longtemps, qui autrefois parcourait les cieux."
 PROPITEM_TXT_155006,Logbook,Journal de bord
 PROPITEM_TXT_155007,A strange book filled with codes.,Un livre étrange rempli de codes.
 PROPITEM_TXT_155008,Trace of the New Continent,Trace du Nouveau Continent
@@ -24072,15 +24072,15 @@ PROPITEM_TXT_155023,A confidential message sealed with care. Its contents could 
 PROPITEM_TXT_155024,All about Muran!,Tout sur Muran !
 PROPITEM_TXT_155025,A detailed manuscript containing insights into the mysterious Muran.,Un manuscrit détaillé contenant des informations sur le mystérieux Muran.
 PROPITEM_TXT_155026,Fragment of Scroll,Fragment de parchemin
-PROPITEM_TXT_155027,"A torn piece of an ancient scroll with faded, cryptic markings. Its meaning remains unknown.","Un morceau déchiré d’un ancien parchemin avec des inscriptions effacées et cryptiques. Sa signification reste inconnue."
+PROPITEM_TXT_155027,"A torn piece of an ancient scroll with faded, cryptic markings. Its meaning remains unknown.",Un morceau déchiré d’un ancien parchemin avec des inscriptions effacées et cryptiques. Sa signification reste inconnue.
 PROPITEM_TXT_155028,Lycan Orders,Ordres des Lycans
 PROPITEM_TXT_155029,A sealed document containing directives from the Lycan leadership. Its contents could be crucial.,Un document scellé contenant des directives des dirigeants Lycans. Son contenu pourrait être crucial.
 PROPITEM_TXT_155030,Pitch-black Sphere,Sphère noir de jais
-PROPITEM_TXT_155031,"A mysterious, dark orb that seems to absorb all light. Its purpose is unknown.","Une mystérieuse orbe sombre qui semble absorber toute la lumière. Son utilité est inconnue."
+PROPITEM_TXT_155031,"A mysterious, dark orb that seems to absorb all light. Its purpose is unknown.",Une mystérieuse orbe sombre qui semble absorber toute la lumière. Son utilité est inconnue.
 PROPITEM_TXT_155032,Worn-out serial chain,Chaîne de numéros de série usée
 PROPITEM_TXT_155033,"A rusted chain with faded serial numbers, hinting at a forgotten past.","Une chaîne rouillée avec des numéros de série effacés, évoquant un passé oublié."
 PROPITEM_TXT_155034,Worn-out Diary,Journal usé
-PROPITEM_TXT_155035,"A tattered diary with faded, barely legible entries. Its story remains a mystery.","Un journal en lambeaux aux écritures effacées et à peine lisibles. Son histoire reste un mystère."
+PROPITEM_TXT_155035,"A tattered diary with faded, barely legible entries. Its story remains a mystery.",Un journal en lambeaux aux écritures effacées et à peine lisibles. Son histoire reste un mystère.
 PROPITEM_TXT_155036,Chief Keokuk's notebook,Carnet du Chef Keokuk
 PROPITEM_TXT_155037,"A worn notebook, its pages filled with the fragmented musings of a long-gone leader. Each entry reveals glimpses of a forgotten era, shrouded in mystery.","Un carnet usé, dont les pages sont remplies des pensées fragmentées d’un dirigeant disparu depuis longtemps. Chaque note révèle des bribes d’une époque oubliée, enveloppée de mystère."
 PROPITEM_TXT_155038,Jarl's Will,Testament du Jarl
@@ -24919,7 +24919,7 @@ PROPITEM_TXT_155723,Purple Mecha Rabbit,Lapin Méca Violet
 PROPITEM_TXT_155724,Blue Mecha Rabbit,Lapin Méca Bleu
 PROPITEM_TXT_155725,Black Mecha Rabbit,Lapin Méca Noir
 PROPITEM_TXT_155726,White Mecha Rabbit,Lapin Méca Blanc
-PROPITEM_TXT_155727,"A little robot rabbit hopping everywhere, collecting everything... beep beep!","Un petit lapin robot qui saute partout en collectant tout… bip bip !"
+PROPITEM_TXT_155727,"A little robot rabbit hopping everywhere, collecting everything... beep beep!",Un petit lapin robot qui saute partout en collectant tout… bip bip !
 PROPITEM_TXT_155728,Mecha Rabbit Select box,Boîte de sélection Lapin Méca
 PROPITEM_TXT_155729,Select your favorite color for your sparkly robot rabbit!,Sélectionnez la couleur préférée de votre lapin robot scintillant !
 PROPITEM_TXT_155800,Scroll of Level & Class Change,Rouleau de Changement de Niveau & Classe
@@ -24944,11 +24944,11 @@ PROPITEM_TXT_155818,"This powerful scroll randomly changes the % value of your w
 PROPITEM_TXT_155819,Scroll of Shield Bonus Augmentation,Rouleau d'Augmentation Bonus Bouclier
 PROPITEM_TXT_155820,"This powerful scroll randomly changes the % value of your shield's s bonus while keeping the same skill. The new % value can be higher, same or lower than the current value.","Ce rouleau puissant change aléatoirement le pourcentage du bonus de votre bouclier tout en conservant la même compétence. La nouvelle valeur peut être plus haute, identique ou plus basse que la valeur actuelle."
 PROPITEM_TXT_155821,Scroll of Weapon Bonus (1st Jobs),Rouleau Bonus Arme (1er Métier)
-PROPITEM_TXT_155822,This scroll gives a random skill bonus from 1st jobs to your weapon. If the weapon already has a bonus it will be overwritten.,Ce rouleau ajoute un bonus de compétence aléatoire provenant des 1ers métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé.
+PROPITEM_TXT_155822,This scroll gives a random skill bonus from 1st jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce rouleau ajoute un bonus de compétence aléatoire provenant des 1ers métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
 PROPITEM_TXT_155823,Scroll of Weapon Bonus (2nd Jobs),Rouleau Bonus Arme (2e Métier)
-PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,Ce rouleau ajoute un bonus de compétence aléatoire provenant des 2e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé.
+PROPITEM_TXT_155824,This scroll gives a random skill bonus from 2nd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce rouleau ajoute un bonus de compétence aléatoire provenant des 2e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
 PROPITEM_TXT_155825,Scroll of Weapon Bonus (3rd Jobs),Rouleau Bonus Arme (3e Métier)
-PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,Ce rouleau ajoute un bonus de compétence aléatoire provenant des 3e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé.
+PROPITEM_TXT_155826,This scroll gives a random skill bonus from 3rd jobs to your weapon. If the weapon already has a bonus it will be overwritten.,"Ce rouleau ajoute un bonus de compétence aléatoire provenant des 3e métiers à votre arme. Si l'arme a déjà un bonus, il sera remplacé."
 PROPITEM_TXT_135002,1.5 Update Pass,Pass Mise à jour 1.5
 PROPITEM_TXT_135003,This purchase will give you access to many advantages until the end of the 1.5 Update Pass season,Cet achat vous donnera accès à de nombreux avantages jusqu'à la fin de la saison du Pass Mise à jour 1.5
 PROPITEM_TXT_135004,Hellhound,Chien Infernal
@@ -24985,7 +24985,7 @@ PROPITEM_TXT_902190,Select which Muran Weapon you want to receive!,Sélectionnez
 PROPITEM_TXT_902191,Muran Guardian Lion,Lion Gardien Muran
 PROPITEM_TXT_902192,"Muran Guardian Lion was born to rule the skies. With wings as proud as its roar, this imperial lion carries its rider with unmatched majesty. Maximum Speed: 64 km/h.","Le Lion Gardien Muran est né pour régner sur les cieux. Avec des ailes aussi fières que son rugissement, ce lion impérial transporte son cavalier avec une majesté inégalée. Vitesse maximale : 64 km/h."
 PROPITEM_TXT_902193,A cursed bulwark forged from the asylum's iron doors. It weighs heavy with the souls it has denied.,Un rempart maudit forgé à partir des portes de fer de l'asile. Il pèse lourd des âmes qu'il a refusées.
-PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.,Des pages anciennes murmurent des secrets interdits de la mort elle-même. Les lire, c'est apercevoir le vide.
+PROPITEM_TXT_902194,Ancient pages whisper forbidden secrets of death itself. To read it is to glimpse the void.,"Des pages anciennes murmurent des secrets interdits de la mort elle-même. Les lire, c'est apercevoir le vide."
 PROPITEM_TXT_902195,A crystallized fragment of the death god's essence. It pulses with stolen life.,Un fragment cristallisé de l'essence du dieu de la mort. Il pulse avec la vie volée.
 PROPITEM_TXT_135020,"Increase the rate at which Party Exp is gained by 50% and enhances Party Skills, negating their distance limitations. Allows Party Skills to be stacked, combining their duration, but not effect. Your party will get twice the number of points when reaching a new level. Works when the party leader has it activated. (Lasts 3 days from activation, even if logged off)","Augmente de 50 % le gain d'Exp de groupe et améliore les Compétences de Groupe, annulant leurs limitations de distance. Permet d'empiler les Compétences de Groupe, combinant leur durée mais pas leur effet. Votre groupe recevra le double de points lors d'un nouveau niveau. Fonctionne si le chef de groupe l'a activé. (Durée de 3 jours à partir de l'activation, même si déconnecté)"
 PROPITEM_TXT_135021,Pet's pickup range is increased by 100% for 3 days,La portée de ramassage du familier est augmentée de 100 % pendant 3 jours
@@ -25083,7 +25083,7 @@ PROPITEM_TXT_902283,Thanksgiving 2025 White Hands (F),Gants Blancs Thanksgiving 
 PROPITEM_TXT_902284,Thanksgiving 2025 2% White Set (F),Ensemble Blanc 2 % Thanksgiving 2025 (F)
 PROPITEM_TXT_902285,The Thanksgiving 2025 2% White Set for female characters.,L'ensemble Blanc 2 % Thanksgiving 2025 pour personnages féminins.
 PROPITEM_TXT_902286,Blue 2025 Thanksgiving Turkey,Dinde Bleue Thanksgiving 2025
-PROPITEM_TXT_902287,"The dignified roast. Gently collecting the table's joy with a silent, comforting presence.","Le rôti distingué. Ramasse doucement la joie de la table avec une présence silencieuse et réconfortante."
+PROPITEM_TXT_902287,"The dignified roast. Gently collecting the table's joy with a silent, comforting presence.",Le rôti distingué. Ramasse doucement la joie de la table avec une présence silencieuse et réconfortante.
 PROPITEM_TXT_902288,Red 2025 Thanksgiving Turkey,Dinde Rouge Thanksgiving 2025
 PROPITEM_TXT_902289,Green 2025 Thanksgiving Turkey,Dinde Verte Thanksgiving 2025
 PROPITEM_TXT_902290,Pink 2025 Thanksgiving Turkey,Dinde Rose Thanksgiving 2025

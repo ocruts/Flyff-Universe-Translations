@@ -1,4 +1,4 @@
 ﻿#bItem Piercing#nb
 
-Piercing an item will unlock slots for piercing cards that can greatly enhance the item's capabilities and power.
-#cffff0000Using a G-Protect scroll guarantees that your item cannot be destroyed in the process.#nc
+Piercing an item unlocks slots for piercing cards, which can greatly enhance the item's capabilities and power.
+#cffff0000Using a Scroll of GProtect prevents the item from being destroyed on failure.#nc

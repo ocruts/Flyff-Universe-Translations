@@ -1,4 +1,4 @@
-#cffff0000Bienvenue sur la Roue de la Loterie Flyff Universe !#nc
+﻿#cffff0000Bienvenue sur la Roue de la Loterie Flyff Universe !#nc
 
 Rassemblez suffisamment d’objets d’événement pour tenter votre chance en faisant tourner la roue ! Vous pouvez remporter des récompenses incroyables !
 

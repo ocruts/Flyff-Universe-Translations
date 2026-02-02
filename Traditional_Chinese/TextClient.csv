@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,試衣間
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Web協助語
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,信息龐
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,你不能在公會大戰競技場中組劇團。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,你不能在公會大戰競技場中組劇團。
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,進行劇團PvP時，無法招募劇團成員
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,決鬥對戰時不能加入劇團。
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,決鬥對戰時不能加入公會。
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,為了防止地面上�
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,交易時，無法將物品丟棄到地上
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,當你墜落時只有翅膀能救你
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,不允許使用此商店名稱。
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,活動期間不能交易。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,活動期間不能交易。
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,無法架設個人商店的地區
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,NPC 附近無法開啟個人商店
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,個人商店的所有物品都賣光了。
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),現在正在接受禁止發言的處罰(剩餘時間:%d分%d秒)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,大喊在60秒內只允許使用5次。
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,只允許每 2 分鐘使用大聲公一次
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,沒有公會或不是公會會長喔
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,沒有公會或不是公會會長喔
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,申請公會對戰的時間已結束
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,公會等級%d以上，才可以申請對戰
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,公會等級%d以上，才可以申請對戰
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,基本金幣%d以上，才可以申請對戰
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,申請公會大戰將花費你 %d 金幣。
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,手中要擁有金幣才可以申請對戰
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,使用原來的%d金幣，增加了%d金幣後，申請
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,"您成功了申請參加公會大戰。若公會的申請金排名前8名，將擁有參加公會戰的資格。每週星期六、下午5點可以開始進行""組織參加公會戰的對戰者"
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,申請公會戰囉
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,使用原來的%d金幣，增加了%d金幣後，申請
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,"您成功了申請參加公會大戰。若公會的申請金排名前8名，將擁有參加公會戰的資格。每週星期六、下午5點可以開始進行""組織參加公會戰的對戰者"
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,申請公會戰囉
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,目前無法使用
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,目前沒申請公會戰喔
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,您失敗了申請參加公會大戰。沒有取得參加公會戰時，公會戰結束後可以領回申請金
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,取消所申請的公會戰了！
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,因取消公會對戰而退回的金額
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,大家好~我是公會對戰的主辦人多拿里斯。\n申請公會戰需要扣20%的手續費，其他金額請您取回。\n祝您幸福~
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,目前沒申請公會戰喔
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,您失敗了申請參加公會大戰。沒有取得參加公會戰時，公會戰結束後可以領回申請金
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,取消所申請的公會戰了！
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,因取消公會對戰而退回的金額
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",大家好~我是公會對戰的主辦人多拿里斯。\n申請公會戰需要扣20%的手續費，其他金額請您取回。\n祝您幸福~
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,祝您有個快樂的時光
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.",你有資格進入公會戰的資格了! 請立即完成布拉里斯中的“公會戰排隊”。
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.",您沒有取得參加公會對戰的資格，請下週再次挑戰。完成公會戰後獲得布拉里斯的入場費。
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,你有資格進入公會戰的資格了! 請立即完成布拉里斯中的“公會戰排隊”。
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",您沒有取得參加公會對戰的資格，請下週再次挑戰。完成公會戰後獲得布拉里斯的入場費。
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,稍後會進行公會戰，%d秒後即將移動至布拉里斯喔
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.",現在開始要進入公會對戰場，請多加利用布拉里斯芙蘭基。
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.","現在開始可以進行 ""組織參加公會戰的對戰者"""
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,公會對戰的參加者組織與準備時間
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,公會攻城戰即將開始，剩餘時間：
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,戰鬥結束
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,移動至布拉里斯
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,公會戰開始囉～請入場！
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",現在無法組織公會對戰參加者
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",沒有申請公會對戰或沒有取得對戰資格
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,現在開始要進入公會對戰場，請多加利用布拉里斯芙蘭基。
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,"現在開始可以進行 ""組織參加公會戰的對戰者"""
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,公會對戰的參加者組織與準備時間
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,公會攻城戰即將開始，剩餘時間：
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,戰鬥結束
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,移動至布拉里斯
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,公會戰開始囉～請入場！
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,現在無法組織公會對戰參加者
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,沒有申請公會對戰或沒有取得對戰資格
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,超過了最多人數的 %d
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,您必須超過 %d 級才能進入。
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,已經登錄好了，請重新登錄
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,公會會長無法成為關鍵人物
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,參加公會對戰者中，沒有公會會長或副會長
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,尚未決定關鍵人物，請選擇關鍵人物
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,沒有出戰者，請選擇出戰者
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,本週的公會對戰即將開始
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,公會會長無法成為關鍵人物
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,參加公會對戰者中，沒有公會會長或副會長
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,尚未決定關鍵人物，請選擇關鍵人物
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,沒有出戰者，請選擇出戰者
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,本週的公會對戰即將開始
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,目前無法進入
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,準備中
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,見習生無法進入，請轉職後再進入場地
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,見習生無法進入，請轉職後再進入場地
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,歡迎來到公會戰
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,按Scroll Lock時，攝影機會變大
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.",您是公會會長！被敵對獵殺時，要給予敵對分數，請注意這一點之後，進行對戰！
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.",您是關鍵人物！被敵對獵殺時，要給予敵對分數，請注意這一點之後，進行對戰！
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.",爲了公會的名譽衝啊！獵殺關鍵人物可以得到讚賞分數！
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!",恭喜！得到公會地區了！
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,稍後馬上進行戰鬥
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,按Scroll Lock時，攝影機會變大
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,您是公會會長！被敵對獵殺時，要給予敵對分數，請注意這一點之後，進行對戰！
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.",您是關鍵人物！被敵對獵殺時，要給予敵對分數，請注意這一點之後，進行對戰！
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,爲了公會的名譽衝啊！獵殺關鍵人物可以得到讚賞分數！
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,恭喜！得到公會地區了！
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,稍後馬上進行戰鬥
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,戰鬥開始
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,公會會長 %d 得分！
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,你的公會得分 %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,敵對的關鍵人物死亡！ %s公會得分！
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,公會會長 %d 得分！
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,你的公會得分 %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,敵對的關鍵人物死亡！ %s公會得分！
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,您必須連接到分流 1 才能進入公會大戰。
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,您必須連接到分流 1 才能進入公會大戰。
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,公會戰結束了
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,本週獲勝隊伍是%s
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVP是%s
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,本週獲勝隊伍是%s
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,MVP是%s
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,恭喜喔
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,限制入場時間
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,限制入場時間
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,申請公會戰的人，對戰中無法加入新公會人員
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,申請公會戰的人，無法解散公會
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,申請公會戰的人，對戰中無法退出公會
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,在公會大戰期間無法更改公會旗幟。
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,公會大戰期間無法更改公會名稱。
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,公會大戰期間無法提出宣戰。
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,在活動期間無法使用這物品。
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,活動期間無法使用這技能。
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,活動期間無法使用虛寶。
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,活動期間無法喊叫
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,在公會大戰中無法使用
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,在辜會對戰落選後的退回金額
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,大家好~我是公會對戰的主辦人多拿里斯。\n因銀的公會未進入前8名，所以扣除申請對戰的20%手續費，請取回其他剩下的金額。\n希望下次可以參加公會對戰喔~\n感謝您的支持
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",已經領取MVP獎金，或您不是公會戰的MVP
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.",公會對戰的申請金額超過物品欄裡可以保管的金額限度，請至遊戲網頁申請1：1出示賞金。
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,領取了 %d 的MVP金幣，再次恭喜你！
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",已經收回獎金或不是收獎金的對象
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,領取了 %d 金幣作為公會大戰的獎金。恭喜！
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,您收到 %d 金幣減去申請支付的金額
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,在活動期間無法使用這物品。
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,活動期間無法使用這技能。
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,活動期間無法使用虛寶。
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,活動期間無法喊叫
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,在公會大戰中無法使用
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,在辜會對戰落選後的退回金額
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",大家好~我是公會對戰的主辦人多拿里斯。\n因銀的公會未進入前8名，所以扣除申請對戰的20%手續費，請取回其他剩下的金額。\n希望下次可以參加公會對戰喔~\n感謝您的支持
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",已經領取MVP獎金，或您不是公會戰的MVP
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,公會對戰的申請金額超過物品欄裡可以保管的金額限度，請至遊戲網頁申請1：1出示賞金。
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,領取了 %d 的MVP金幣，再次恭喜你！
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",已經收回獎金或不是收獎金的對象
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,領取了 %d 金幣作為公會大戰的獎金。恭喜！
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,您收到 %d 金幣減去申請支付的金額
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,變身中無法使用。
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,此帳號被凍結或需至官網重新認證
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,你不能走這條路

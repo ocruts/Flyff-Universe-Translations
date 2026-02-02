@@ -45,9 +45,9 @@ WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the 
 WDKEBARAS_WLD_000000,Lodelight,生命光塔
 WDKEBARAS_WLD_000001,This is a safe place.,這裡是安全地區
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,卡巴拉斯
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,Welcome to the town Kebaras!\nThis place was a prison for criminals a long time ago...,歡迎來到卡巴拉斯城鎮!\n這個地方很久以前是關押罪犯的監獄……
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",歡迎來到卡巴拉斯城鎮!\n這個地方很久以前是關押罪犯的監獄……
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘的城堡
-WDMADRIGAL_WLD_000001,This place is not referenced on the map. No one knows how to enter inside...,地圖上沒有出現這個地方，沒人知道如何進入裡面。
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,地圖上沒有出現這個地方，沒人知道如何進入裡面。
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,萊樂安山脈中部的隱藏處
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,航線 布拉里斯↔聖音特市
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,航線 布拉里斯↔得肯1
@@ -60,14 +60,14 @@ WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,航線 亞利安斯↔迦樂迪�
 WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,航線 艾里安斯↔丹德瓦內斯
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,阿雷那\n被廢棄的艾磷斯工廠
 WDMADRIGAL_WLD_000013,Azria\nVillage,阿雷那\n村莊
-WDMADRIGAL_WLD_000014,Line Deadwalderness ↔ Azria,死胡同線 ↔ 阿雷那
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,死胡同線 ↔ 阿雷那
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,風暴峰入口
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,嫉妒深淵入口
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,守護者聖域入口
 WDMADRIGAL_WLD_000021,Leren Chasm Entrance,勒倫峽谷入口
 WDMADRIGAL_WLD_000022,Wilds Entrance,樂斯堤亞入口
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,黎席斯地下墓穴
-WDMADRIGAL_WLD_000024,This is a safe space.,這裡是安全地區。
+WDMADRIGAL_WLD_000024,This is a safe place.,這裡是安全地區。
 WDMADRIGAL_WLD_000025,The Wilds Entrance,樂斯堤亞入口
 WDMADRIGAL_WLD_000026,Coral Village,珊瑚村
 WDMADRIGAL_WLD_000028,Coral Island,珊瑚島
@@ -76,20 +76,20 @@ WDMADRIGAL_WLD_000030,Red Sea,紅海
 WDMADRIGAL_WLD_000032,Deep Sea,深海之境
 WDMADRIGAL_WLD_000034,Swamp,沼澤之地
 WDMADRIGAL_WLD_000035,Saint City Arena,聖音特市格鬥場
-WDMADRIGAL_WLD_000036,This place used to be famous a long time ago...,這個地方很久以前就很有名了…
+WDMADRIGAL_WLD_000036,This place was famous long ago...,這個地方很久以前就很有名了…
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
-WDMADRIGAL_WLD_000040,This is a safe space.,這裡是安全地區。
+WDMADRIGAL_WLD_000040,This is a safe place.,這裡是安全地區。
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
 WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
-WDMADRIGAL_WLD_000047,This is a safe space.,這裡是安全地區。
+WDMADRIGAL_WLD_000047,This is a safe place.,這裡是安全地區。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,得肯第1區\n艾磷斯第2工廠
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used for producing Erons.,生產艾磷斯的第2工廠。專門生產艾磷斯的地方。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,生產艾磷斯的第2工廠。專門生產艾磷斯的地方。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,萊樂安山脈中部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,萊樂安山脈的中部地區\n海倚杜爾沛與波布爾的居住地。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,布拉里斯\n中央廣場
@@ -103,12 +103,12 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,波布爾的平原
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,傳說是小丑之神波布爾所創造的區域。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,萊樂安山脈南部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,萊樂安山脈的南部地區
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat..,公會歸還公所
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,公會歸還公所
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,管理公會戰的所有事項。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,萊樂安山脈的南部\n德萊德魔獸的祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,德萊德魔獸居住於此。\n牠的主人能夠操縱著神秘力量。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,得肯第1區\n艾磷斯第1工廠
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The 1st Erons Factory.\nThis factory produces 80% of all Erons.,生產艾磷斯的第一個工廠\n80%的艾磷斯都在此地生產。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,生產艾磷斯的第一個工廠\n80%的艾磷斯都在此地生產。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,得肯\n紫羅蘭的祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,這裡留存著一個重大事件的證據。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,萊樂安山脈中部
@@ -122,7 +122,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to ha
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,生命光柱
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,這裡是安全地區
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,莫德琳鎮
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast off Demian live in this town.,丹丹所建立的小鎮。\n被家人遺棄的小孩，成為丹丹之後居住在這裡。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,丹丹所建立的小鎮。\n被家人遺棄的小孩，成為丹丹之後居住在這裡。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,哭泣之河中部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.,因過去下了一場大雨而形成的河。\n高階杜爾沛偶爾會來此沐浴。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037,Madren Town\nAltar of Dreadpet,莫德琳鎮\n德萊德魔獸的祭壇
@@ -130,10 +130,10 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpe
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039,Fountain of Dead Person,亡者之泉
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040,"It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life.",傳說亡者的靈魂會聚集在這裡。\n根據傳說，泉水使此地的萬物生生不息。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041,Northern Leren Mountains,萊樂安山脈北部
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and Fountain of Dead Person is here.,萊樂安山脈的北部地區\n邁爾斯礦山與亡者之泉坐落與此。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,萊樂安山脈的北部地區\n邁爾斯礦山與亡者之泉坐落與此。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,邁爾斯礦山
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044,"This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now.",很久以前被採礦人發現的地方，是一個已開發的礦山\n現在已被氾濫的魔物們佔領。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence in Ludviehill,蘿特泰斯的豪宅
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,蘿特泰斯的豪宅
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046,The rich of Flaris live in Ludviehill.,布拉里斯的富豪-蘿特泰斯居住於此地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049,Saint Tree,聖音特神木
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.,守護聖音特的象徵\n不知道生存了多久的時間，是一個很老久的古木。
@@ -151,7 +151,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061,Saint Morning has gained independence fro
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062,Saint Morning\nStation,聖音特\n航空站
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063,This is the biggest station on Madrigal.\nSaint Morning could become the center of commerce for Madrigal by using this station.,瑪德利賈中最大的航空站。\n因為此地讓聖音特變成瑪德利賈的貿易中心。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064,Saint Morning square,聖音特廣場
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is local hang out.\nThere is lots of space to open stores.,聖音特廣場，人民的聚會場所。\n空曠的場地能夠自由開店。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is a local hang out.\nThere is lots of space to open stores.,聖音特廣場，人民的聚會場所。\n空曠的場地能夠自由開店。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066,Saint Morning\nThe Madrigal History Society.,聖音特\n瑪德利賈歷史協會
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067,Research in the History of Madrigal is being made here.,這裡是研究與管理著瑪德利賈所有歷史的機關。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068,Flaris\nAltar of Violet,布拉里斯\n紫羅蘭的祭壇
@@ -169,7 +169,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079,Plateau of Silence\nGravity Disorder Area
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080,"It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world.",唯一在瑪德利賈中不能飛行的區域，根據研究團隊研究，這裡的重力比起世界上任何地方都還要強大。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081,Hill of Shade,謝德丘嶺
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082,"Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye.",小丑之神謝德曾到過這裡。\n她一眨眼就創造出了這個地方。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe area. You are safe from enemies.,這裡是安全地區，您在這裡可以得到保護！
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,這裡是安全地區，您在這裡可以得到保護！
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,南瓜村\n南瓜先生居住地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.",不喜歡居住在聖音特城鎮的人類，搬到此地開發的一個小村莊\n但是村莊在被南瓜先生襲擊後，遭到了破壞。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,矽立得山脈中部
@@ -229,15 +229,15 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139,Artificial cave.\nThe area surrounding Da
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,得肯第2區\n艾恩布爾洞穴
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,人工挖掘而成的洞穴\n在時空毀滅者戰爭後，\n此區域逐漸變成變異魔物的棲地。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,得肯第2區\n艾恩布爾洞穴
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks war.,人工挖掘而成的洞穴\n在時空毀滅者戰爭後，\n此區域逐漸變成變異魔物的棲地。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,人工挖掘而成的洞穴\n在時空毀滅者戰爭後，\n此區域逐漸變成變異魔物的棲地。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,得肯第1區\n克拉
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,周遭的自然環境因過渡採集艾磷斯礦石\n而遭受到破壞。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,周遭的自然環境因過渡採集艾磷斯礦石\n而遭受到破壞。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,得肯第1區\n槁瑜潭山脈
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147,The biggest mountains in Darkon.,得肯最陡峭的山脈
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,得肯第1區\n槁瑜潭山脈
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149,The biggest mountains in Darkon.,得肯最陡峭的山脈
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,得肯第1區\n克拉
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,周遭的自然環境因過渡採集艾磷斯礦石\n而遭受到破壞。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,周遭的自然環境因過渡採集艾磷斯礦石\n而遭受到破壞。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152,Darkon 2\nThe Cage of Clockworks.,得肯第2區\n時空毀滅者牢籠
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153,Clockworks was sealed here after the Clockworks War.,在時空毀滅者戰爭過後，將時空毀滅者囚禁於此處。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154,Flaris Observatory,布拉里斯天文台
@@ -248,7 +248,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,得肯第1�
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,操偶師的祭壇 
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,得肯第3區\n坎恩村
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,埃爾內奧斯
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions.",赫尼奧斯是一座美麗的水下天堂，擁有宏偉的建築。\n 然而，陰影之手卻造成了混亂。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.",赫尼奧斯是一座美麗的水下天堂，擁有宏偉的建築。\n 然而，陰影之手卻造成了混亂。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,原型
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,瑪德利賈大陸未知地區

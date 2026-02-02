@@ -1565,6 +1565,10 @@ PROPQUEST_INC_110253,"I have misjudged you! I’ll look for another person, now 
 PROPQUEST_INC_110254,I've heard Private Leo has been successfully rescued! Please accept this reward!,レオ二等兵が無事救出されたと聞きました!!この報酬を受け取ってください!!
 PROPQUEST_INC_110255,Has Private Leo been rescued yet?,プライベートレオはもう救出されましたか?
 PROPQUEST_INC_110256,Visit dungeon NPC to learn all about Event,ダンジョンNPCにアクセスしてイベントのすべてを学ぶ
+PROPQUEST_INC_110257,,
+PROPQUEST_INC_110258,,
+PROPQUEST_INC_110259,,
+PROPQUEST_INC_110260,,
 PROPQUEST_INC_110261,Rescue the missing childrens,行方不明の子供たちを救出する
 PROPQUEST_INC_110262,The children from the town have gone missing... Please rescue them from the monsters!,町の子供たちが行方不明になった..モンスターから彼らを救出してください!
 PROPQUEST_INC_110263,"I need you to save $QUEST_END_TRIGGERCTRL_COUNT$ childrens in any dungeon, before midnight.",真夜中までに、$QUEST_END_TRIGGERCTRL_COUNT$の子供をダンジョンに保存する必要があります。

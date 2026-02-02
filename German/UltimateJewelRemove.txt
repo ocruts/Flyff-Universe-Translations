@@ -1,3 +1,3 @@
-#b#cff0000ffUltimatives Juwel entfernen#nb#nc
+﻿#b#cff0000ffUltimatives Juwel entfernen#nb#nc
 Entferne ein eingefügtes Ultimatives Juwel. Ein Klick auf „Entfernen“ bestätigt die Entfernung und zerstört das Juwel.  
 Die Kosten betragen 5.000.000 Penya pro Entfernung.

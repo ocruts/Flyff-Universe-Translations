@@ -1,19 +1,19 @@
 ﻿Key,English,Spanish
 PROPTROUPESKILL_TXT_000000,Call,Llamar
-PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,Informa a todos los miembros de la party la localización del líder de la party.
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,Informa a todos los miembros de la party la localización del líder de la party.
 PROPTROUPESKILL_TXT_000002,Blitz,Al Ataque
-PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,El líder ordena a los miembros de la party atacar a un objetivo.
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,El líder ordena a los miembros de la party atacar a un objetivo.
 PROPTROUPESKILL_TXT_000004,Retreat,Retirada
-PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,El líder ordena a todos los miembros de la party retirarse.
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,El líder ordena a todos los miembros de la party retirarse.
 PROPTROUPESKILL_TXT_000008,Precision,Exactitud
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
 PROPTROUPESKILL_TXT_000010,Linked Attack,Ataque Vinculado
-PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Cada miembro de la party cercano al líder añade un 5% de bonus al daño del líder de la party.
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Cada miembro de la party cercano al líder añade un 5% de bonus al daño del líder de la party.
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Botín de la Suerte
-PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,Incrementa la probabilidad de que los Masquerpets suelten objetos únicos.
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,Incrementa la probabilidad de que los Masquerpets suelten objetos únicos.
 PROPTROUPESKILL_TXT_000014,Resting,Descanso
-PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,"Los miembros de la party se recuperan 1.5 veces más rápido. Si el líder de la party es un Assist, los miembros de la party se recuperan 1.8 veces más rápido."
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.","Los miembros de la party se recuperan 1.5 veces más rápido. Si el líder de la party es un Assist, los miembros de la party se recuperan 1.8 veces más rápido."
 PROPTROUPESKILL_TXT_000016,Gift Box,Regalo
-PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,Incrementa la cantidad de items soltados por Masquerpets.
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,Incrementa la cantidad de items soltados por Masquerpets.
 PROPTROUPESKILL_TXT_000018,Global Attack,Ataque Global
-PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,Los miembros de la party reciben un 2.5% de bonus al daño por cada miembro cercano a ellos. Este efecto no se aplica al líder si Ataque Vinculado está activo.
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,Los miembros de la party reciben un 2.5% de bonus al daño por cada miembro cercano a ellos. Este efecto no se aplica al líder si Ataque Vinculado está activo.

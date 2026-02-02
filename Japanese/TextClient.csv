@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,試着室
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Webのヘルプ
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,インフォ・ファン
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,ギルドコンバットエリアでは、パーティを作成できません。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,ギルドコンバットエリアでは、パーティを作成できません。
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,パーティーデュエル中に他のキャラクターをパーティーに招待することはできません。
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,デュエル中はパーティーに参加できません。
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,デュエル中はギルドに参加できません。
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,空中に飛んでい�
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,取引中はアイテムをドロップすることはできません。
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,あぁ..落ちていく...。翼を授ける飲み物があれば助かるのに。
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,このショップ名は使用できません。
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,イベント中は取引できません。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,イベント中は取引できません。
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,個人商店の開設ができない地域です。
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,NPCの周りでは個人商店を開くことができません。
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,この個人商店は完売しています。
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),現在、チャット禁止ペナルティーを受けています。(残り時間:%d分 %d秒)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,シャウト（叫ぶ）は60秒間に5回だけできます。
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,フルシャウトでの叫びは2分に1回だけ許可されています。
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,ギルドが存在していないか、ギルドマスターではありません。
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,ギルドが存在していないか、ギルドマスターではありません。
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,ギルドコンバットの受付は終了しました。
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,レベルが%d以上のギルドが、ギルドコンバットに申請することができます。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,レベルが%d以上のギルドが、ギルドコンバットに申請することができます。
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,%dペニャ以上所持しているギルドが、ギルドコンバットに申請することができます。
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,ギルドコンバットへ適用するには%dペニャが必要です。
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,入札額を所持していないと、ギルドコンバットへ申請できません。
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,現在の入札額%dペニャから、追加で%dペニャを入札しました。
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,ギルドコンバットの申請が受理されました。
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,参加確定ギルドは、毎週土曜日17：00から参加メンバーの構成ができます。
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,現在の入札額%dペニャから、追加で%dペニャを入札しました。
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,ギルドコンバットの申請が受理されました。
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,参加確定ギルドは、毎週土曜日17：00から参加メンバーの構成ができます。
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,ただ今、使用できません。
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,ギルドコンバットへ申請していません。
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,ギルドコンバットに参加できなかった場合、ギルドコンバット終了後、入札金の一部が払い戻されます。
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,ギルドコンバット申請をキャンセルしました。
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,[GCC]キャンセルによる払戻し
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,こんにちは。私はドナリスというギルドマネージャーです。\nキャンセルされたので返却させていただきますが、手数料として20％を差し引いています。\n良い一日を！
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,ギルドコンバットへ申請していません。
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,ギルドコンバットに参加できなかった場合、ギルドコンバット終了後、入札金の一部が払い戻されます。
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,ギルドコンバット申請をキャンセルしました。
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,[GCC]キャンセルによる払戻し
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",こんにちは。私はドナリスというギルドマネージャーです。\nキャンセルされたので返却させていただきますが、手数料として20％を差し引いています。\n良い一日を！
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,よい空の旅を！
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.",ギルドコンバットの参加資格を得ました。フラリスで「ギルド攻城戦への布陣」を今すぐ終わらせてください。
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.",ギルドコンバットの参加資格を得られませんでした。またチャレンジしてください。払戻し金は、ファン・ギフトにてお送りします。
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,ギルドコンバットの参加資格を得ました。フラリスで「ギルド攻城戦への布陣」を今すぐ終わらせてください。
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.",ギルドコンバットの参加資格を得られませんでした。またチャレンジしてください。払戻し金は、ファン・ギフトにてお送りします。
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,この後、ギルドコンバット開催予定です。%d秒後に自動でフラリスに移動します。
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.",今後、フラリスのフランキーからギルドコンバットのアリーナへ入ることができます。
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.",ただいまより、ギルドコンバットの参加メンバー構成ができます。
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,参加メンバーの構成・準備時間
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,ギルドコンバット開始
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,コンバット終了まで
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,フラリスに移動します。
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,ギルドコンバットが利用可能になりました。
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",現在、ギルドコンバットの参加メンバー構成はできません。
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",ギルドコンバットに申請していないか、参加可能な順位に入ることができませんでした。
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,今後、フラリスのフランキーからギルドコンバットのアリーナへ入ることができます。
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,ただいまより、ギルドコンバットの参加メンバー構成ができます。
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,参加メンバーの構成・準備時間
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,ギルドコンバット開始
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,コンバット終了まで
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,フラリスに移動します。
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,ギルドコンバットが利用可能になりました。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,現在、ギルドコンバットの参加メンバー構成はできません。
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,ギルドコンバットに申請していないか、参加可能な順位に入ることができませんでした。
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,%d人を超えました。
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,参加メンバーの条件は、レベル%d以上です。
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,既に登録されています。再登録してください。
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,ギルドマスターはディフェンダーになれません。
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,ギルドコンバットへの参加メンバーにギルドマスターやロイヤルが存在していません。
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,ディフェンダーが指定されていません。ディフェンダーを指定してください。
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,参加メンバーがいません。参加メンバーを選択してください。
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,今週のギルドコンバットが開催されました。
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,ギルドマスターはディフェンダーになれません。
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,ギルドコンバットへの参加メンバーにギルドマスターやロイヤルが存在していません。
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,ディフェンダーが指定されていません。ディフェンダーを指定してください。
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,参加メンバーがいません。参加メンバーを選択してください。
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,今週のギルドコンバットが開催されました。
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,入場開始まで少々お待ちください。
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,準備中です。
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,放浪者は入場できません。1次転職をしていることが条件です。
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,放浪者は入場できません。1次転職をしていることが条件です。
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,ギルドコンバットにようこそ！
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,[Scroll Lock]キーを押すと、段階別のカメラ拡大になります。
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.",あなたはギルドマスターです！ディフェンダーを倒すとボーナスがもらえます。
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.",あなたはディフェンダーです！あなたが倒されると、敵にボーナスポイントを与えてしまいます！慎重にプレイしてください！
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.",ギルドの大いなる栄光のため、敵を倒すのです！ディフェンダーを倒すと、ボーナスポイントがもらえます！
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!",ギルドマップの獲得、おめでとうございます！
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,準備時間後すぐにコンバットがスタートします。
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,[Scroll Lock]キーを押すと、段階別のカメラ拡大になります。
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,あなたはギルドマスターです！ディフェンダーを倒すとボーナスがもらえます。
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.",あなたはディフェンダーです！あなたが倒されると、敵にボーナスポイントを与えてしまいます！慎重にプレイしてください！
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,ギルドの大いなる栄光のため、敵を倒すのです！ディフェンダーを倒すと、ボーナスポイントがもらえます！
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,ギルドマップの獲得、おめでとうございます！
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,準備時間後すぐにコンバットがスタートします。
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,コンバットスタート
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,ギルドマスターは%dを獲得しました！
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,あなたのギルドが%dポイントを獲得！
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,味方のディフェンダーが死亡！「%s」ギルドがポイントを獲得！！
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,ギルドマスターは%dを獲得しました！
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,あなたのギルドが%dポイントを獲得！
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,味方のディフェンダーが死亡！「%s」ギルドがポイントを獲得！！
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,ギルドコンバットへ入場するにはチャンネル1に接続している必要があります。
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,ギルドコンバットへ入場するにはチャンネル1に接続している必要があります。
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,ギルドコンバットが終了しました。
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,今週最強の王者は、ギルド%s！！おめでとう！
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,MVPは %s です！！
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,今週最強の王者は、ギルド%s！！おめでとう！
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,MVPは %s です！！
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,おめでとうございます！
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,入場制限時間
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,入場制限時間
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドメンバーを招待することはできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,ギルドコンバットに申請したギルドは、ギルドの解散はできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,ギルドコンバットに申請したギルドは、ギルドコンバット中にギルドからの脱退はできません。
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,ギルドシージ中にギルドのロゴを変更することはできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,ギルドシージ中にギルド名を変更することはできません。
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,ギルドシージ中に戦争宣言はできません。
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,イベント期間中はご利用いただけません。
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,イベント中はスキルを使用できません。
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,イベント中は適用できません。
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,イベント中は叫びを使用できません。
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,ギルド対戦中には使用できません。
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,[GCC]参加対象外の払い戻し
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,こんにちはっ。ギルドコンバットマネジャーのドナリスだよっ。\n入札額が上位8ギルドに入れなかったから、手数料2%を差引いた金額を払い戻すね。\n残念だったけど、次の参加を待ってるからね～。\nこれからも、ギルドコンバットを盛り上げてねっ！！
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",既にMVP褒賞金をもらったか、ギルドコンバットのMVPではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.",ギルドシージの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,MVPとして%dペニャを受け取りました。おめでとう！
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",既に褒賞金を受取ったか、受け取り対象ではありません。
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,ギルドシージの賞金として%dペニャを受け取りました。おめでとう！
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,申請時の金額から、%dペニャを差し引いた額を受け取りました。
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,イベント期間中はご利用いただけません。
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,イベント中はスキルを使用できません。
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,イベント中は適用できません。
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,イベント中は叫びを使用できません。
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,ギルド対戦中には使用できません。
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,[GCC]参加対象外の払い戻し
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",こんにちはっ。ギルドコンバットマネジャーのドナリスだよっ。\n入札額が上位8ギルドに入れなかったから、手数料2%を差引いた金額を払い戻すね。\n残念だったけど、次の参加を待ってるからね～。\nこれからも、ギルドコンバットを盛り上げてねっ！！
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",既にMVP褒賞金をもらったか、ギルドコンバットのMVPではありません。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,ギルドシージの賞金を獲得した場合、ペニャ上限をこえてしまうため、ご迷惑をおかけいたしますがお問い合わせより賞金をもらうように依頼をしてください。
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,MVPとして%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",既に褒賞金を受取ったか、受け取り対象ではありません。
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,ギルドシージの賞金として%dペニャを受け取りました。おめでとう！
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,申請時の金額から、%dペニャを差し引いた額を受け取りました。
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,変身中には使用できません。
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,このアカウントはBANされています。カスタマーサービスへお問い合わせください。
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,この先には行けません。

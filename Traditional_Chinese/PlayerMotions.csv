@@ -4,7 +4,7 @@ PROPMOTION_TXT_000001,Combat Stance,戰鬥姿勢
 PROPMOTION_TXT_000002,,
 PROPMOTION_TXT_000003,Sit Down,坐下休息
 PROPMOTION_TXT_000004,,
-PROPMOTION_TXT_000005,Pickup Nearby Item,撿取附近的物品
+PROPMOTION_TXT_000005,Pick Up Nearby Item,撿取附近的物品
 PROPMOTION_TXT_000006,,
 PROPMOTION_TXT_000007,Shake Hands,握手
 PROPMOTION_TXT_000008,,
@@ -14,7 +14,7 @@ PROPMOTION_TXT_000011,Nod Head,表示肯定
 PROPMOTION_TXT_000012,,
 PROPMOTION_TXT_000013,Shake Head,表示否定
 PROPMOTION_TXT_000014,,
-PROPMOTION_TXT_000015,Run in place,原地踏步!!
+PROPMOTION_TXT_000015,Run in Place,原地踏步!!
 PROPMOTION_TXT_000016,,
 PROPMOTION_TXT_000017,Parade Rest,稍息!!
 PROPMOTION_TXT_000018,,
@@ -38,28 +38,28 @@ PROPMOTION_TXT_000035,Kneel,單腳跪地
 PROPMOTION_TXT_000036,,
 PROPMOTION_TXT_000037,Push-Ups,伏地挺身
 PROPMOTION_TXT_000038,,
-PROPMOTION_TXT_000039,Shake butt,搖屁屁捉弄人
+PROPMOTION_TXT_000039,Shake Butt,搖屁屁捉弄人
 PROPMOTION_TXT_000040,Pow!,喝呀!
 PROPMOTION_TXT_000041,Punch,不停的打跆拳道基本動作
 PROPMOTION_TXT_000042,,
-PROPMOTION_TXT_000043,Put head on ground,頭碰地屁股翹起來的懲罰姿勢
+PROPMOTION_TXT_000043,Put Head to the Ground,頭碰地屁股翹起來的懲罰姿勢
 PROPMOTION_TXT_000044,,
-PROPMOTION_TXT_000045,Raise weapon,舉起手精神喊話
+PROPMOTION_TXT_000045,Raise Weapon,舉起手精神喊話
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,採集資源
 PROPMOTION_TXT_000048,,
 PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),往和自己最近的村莊移動。(5分鐘內施展)
 PROPMOTION_TXT_000050,,
-PROPMOTION_TXT_000051,Cheer up another character,替其他玩家加油。
+PROPMOTION_TXT_000051,Cheer Up Another Player,替其他玩家加油。
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the selected target,攻擊選擇的目標。
+PROPMOTION_TXT_000053,Attack the Selected Target,攻擊選擇的目標。
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected character.,向選擇的對象告白
+PROPMOTION_TXT_000055,You propose to the selected player.,向選擇的對象告白
 PROPMOTION_TXT_000057,Toggle Weapons,拿起/收起 武器
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,使用你召喚寵物的恩寵
-PROPMOTION_TXT_000059,Follow the selected target,跟隨選定的目標
-PROPMOTION_TXT_000060,Swap your current stat page,交換您當前的數值頁面
-PROPMOTION_TXT_000061,Play dead,假死
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,使用你召喚寵物的恩寵
+PROPMOTION_TXT_000059,Follow the Selected Target,跟隨選定的目標
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,交換您當前的數值頁面
+PROPMOTION_TXT_000061,Play Dead,假死
 PROPMOTION_TXT_000062,Propose,提出
 PROPMOTION_TXT_000063,High Five (Couple),擊掌（情侶）
 PROPMOTION_TXT_000064,Hug (Couple),擁抱（情侶）
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,挑釁
 PROPMOTION_TXT_000108,Surprised,驚訝
 PROPMOTION_TXT_000109,Look Around,環顧四周
 PROPMOTION_TXT_000110,Arm Heart,Arm Heart
-PROPMOTION_TXT_000111,Swap your current skill page,Swap your current skill page
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Switch Your Current Skill Page
 PROPMOTION_TXT_000112,Surrender,投降
 PROPMOTION_TXT_000113,Begging,Begging

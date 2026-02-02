@@ -21,6 +21,11 @@ STATBOARD_TXT_000018,CC's applied,Restriction appliquées
 STATBOARD_TXT_000019,Damage Amped,Dégâts Démultipliés
 STATBOARD_TXT_000020,Damage Mitigated,Dégâts Mitigés
 STATBOARD_TXT_000021,Damage Reflected,Dégâts Renvoyés
+STATBOARD_TXT_000022,,
+STATBOARD_TXT_000023,,
+STATBOARD_TXT_000024,,
+STATBOARD_TXT_000025,,
+STATBOARD_TXT_000026,,
 STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,Temps total en secondes passé sous restriction de mouvement.
 STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,Temps total en secondes des restrictions de mouvement infligées aux autre joueurs.
 STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Dégâts totaux que le joueur a démultiplié au travers d'effets comme Croix du Templier, Crucifix, etc."

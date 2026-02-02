@@ -677,8 +677,8 @@ UI_PIERCING_MATERIAL,Power Dice,Power Dice
 UI_PIERCING_PROTECTSCROLL,GProtect,GProtect
 UI_PIERCING_CONFIRMATION,Do you want to pierce this item?,Möchtest du diesen Gegenstand sockeln?
 UI_PIERCING_UNSAFE,Without Scroll of GProtect you will lose the item in case of failure.,Ohne die Schriftrolle GProtect wird dein Item bei einem Fehlschlag zerstört.
-UI_PIERCING_REMOVE_TITLE,Remove Set Card,Sockel entfernen
-UI_PIERCING_REMOVE_MSG,Do you confirm the card removal and destruction?,Bestätigst du die Entfernung der Karte?
+UI_PIERCING_REMOVE_TITLE,Remove Piercing Card,Sockel entfernen
+UI_PIERCING_REMOVE_MSG,Remove the selected piercing card from this item? #b#cffff0000The removed card will be destroyed.#nc#nb,Bestätigst du die Entfernung der Karte?
 UI_PIERCING_REMOVE_OK,Remove,Entfernen
 UI_UPGRADE_PROBTOOLTIP,The success rate increases with each failed attempt.,Die Erfolgsquote steigt mit jedem Fehlversuch.
 UI_UPGRADE_ATTEMPTS,Upgrade attempts: %d,Upgrade Versuche: %d
@@ -698,9 +698,9 @@ UI_UPGRADE_CHANCESCROLL,SFusion,SFusion
 UI_UPGRADE_DEGRADE,Attribute level will decrease in case of failure. You will not lose the item.,Dein Attributlevel wird sich im Falle eines Fehlschlags verringern. Dein Item geht nicht verloren.
 UI_UPGRADE_UNSAFE,Without Scroll of SProtect you will lose the item in case of failure.,Ohne die Schriftrolle SProtect wird dein Item bei einem Fehlschlag zerstört.
 UI_UPGRADE_CONFIRMATION,Do you want to upgrade this item?,Möchtest du diesen Gegenstand verbessern?
-UI_ATTRIBUTE_REMOVE_TITLE,Remove Element upgrading,Elementbonus entfernen
+UI_ATTRIBUTE_REMOVE_TITLE,Remove Element Upgrade,Elementbonus entfernen
 UI_ATTRIBUTE_REMOVE_MSG_TITLE,Confirm Removal,Entfernung bestätigen
-UI_ATTRIBUTE_REMOVE_MSG,"That weapon will be removed element upgrading. And 1,000,000 Penya will be paid from your inventory.",Das Element-Upgrade wird von der Waffe entfernt. Dieser Vorgang kostet 1.000.000 Penya.
+UI_ATTRIBUTE_REMOVE_MSG,Remove the element upgrade from this item? #b#cffff0000This action cannot be undone.#nc#nb,Das Element-Upgrade wird von der Waffe entfernt. Dieser Vorgang kostet 1.000.000 Penya.
 UI_REVIVAL_CASH_SHOP_TIP,You can use a Premium item.,Du kannst einen Premium Gegenstand verwenden.
 UI_REVIVAL_REVIVAL,Original Place,Ursprünglicher Ort
 UI_REVIVAL_REVIVAL_TIP,You will be revived where you died.,"Du wirst am gleichen Ort wiederbelebt, wo du gestorben bist."
@@ -931,16 +931,16 @@ UI_GUILDCOMBAT_JOIN_MSG,Do you join the Guild Siege?,Möchtest du dem Gildenkrie
 UI_NETWORK_ERROR_TITLE,Network Error,Netzwerkfehler
 UI_NETWORK_ERROR_MSG,"A network error happened, please check your connection and login again.",Ein Netzwerkfehler ist aufgetreten. Bitte überprüfe deine Internetverbindung und verbinde dich erneut.
 UI_GUILDCOMBAT_JOINWAR_TITLE,Resurrection Location,Wiederbelebungsort
-UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st area.,Du gehst zum ersten Bereich.
-UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd area.,Du gehst zum zweiten Bereich.
-UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd area.,Du gehst zum dritten Bereich.
-UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th area.,Du gehst zum vierten Bereich.
-UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th area.,You have entered the 5th area.
-UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th area.,You have entered the 6th area.
-UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th area.,You have entered the 7th area.
-UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th area.,You have entered the 8th area.
-UI_GUILDCOMBAT_JOINWAR_SELECT,Select the area you wish to enter.,Wähle den Startpunkt mit Hilfe der Landkarte
-UI_GUILDCOMBAT_JOINWAR_MSG,"After %d, you enter %s.","Nach %d, betrittst du %s."
+UI_GUILDCOMBAT_JOINWAR_1_TIP,You have entered the 1st zone.,Du gehst zum ersten Bereich.
+UI_GUILDCOMBAT_JOINWAR_2_TIP,You have entered the 2nd zone.,Du gehst zum zweiten Bereich.
+UI_GUILDCOMBAT_JOINWAR_3_TIP,You have entered the 3rd zone.,Du gehst zum dritten Bereich.
+UI_GUILDCOMBAT_JOINWAR_4_TIP,You have entered the 4th zone.,Du gehst zum vierten Bereich.
+UI_GUILDCOMBAT_JOINWAR_5_TIP,You have entered the 5th zone.,You have entered the 5th zone.
+UI_GUILDCOMBAT_JOINWAR_6_TIP,You have entered the 6th zone.,You have entered the 6th zone.
+UI_GUILDCOMBAT_JOINWAR_7_TIP,You have entered the 7th zone.,You have entered the 7th zone.
+UI_GUILDCOMBAT_JOINWAR_8_TIP,You have entered the 8th zone.,You have entered the 8th zone.
+UI_GUILDCOMBAT_JOINWAR_SELECT,Select the zone you wish to enter.,Wähle den Startpunkt mit Hilfe der Landkarte
+UI_GUILDCOMBAT_JOINWAR_MSG,"In %d seconds, you will enter zone %s.","Nach %d, betrittst du %s."
 UI_GUILDCOMBAT_JOINWAR_RANDOM,Random,Zufällig
 UI_CHAT_ADMIN,[Admin] %s,[Admin] %s
 UI_GUILDCOMBAT_RATE,Current rank:,Gilden Ranking
@@ -1389,7 +1389,7 @@ UI_TOOLTIP_DST_SPIRIT_STRIKE,Spirit Strike,Spirit Strike
 UI_TOOLTIP_DST_STEAL_FP_DMG,Steal FP,FP stehlen
 UI_OPTION_PROVISIONAL_HP,HP Bar Damage History,Schadensverlauf anzeigen
 UI_TOOLTIP_DST_SKILL_AWAKE,%s Damage+%d%%,%s Schaden+%d%%
-UI_LEVELDOWN_CANCEL_TITLE,Cancel Reduction,Level Reduzierung entfernen
+UI_LEVELDOWN_CANCEL_TITLE,Remove Level Reduction,Level Reduzierung entfernen
 UI_MSGBOX_CONFIRM,Confirm,Annehmen
 UI_CHANGECHAR_TITLE,Change Character,Charakter wechseln
 UI_CHANGECHAR_MSG,Select character and channel:,Charakter und Channel auswählen:
@@ -2134,7 +2134,7 @@ UI_SESSION_REMOVEALL,Remove All,Alles entfernen
 UI_LOW_FRAMERATE_GUIDE_TITLE,Caution,Vorsicht
 UI_LOW_FRAMERATE_GUIDE_DESC,Client performance is low.\nPlease check for 2 items below.,Die Client-Leistung ist gering.\nBitte prüfe die beiden folgenden Punkte.
 UI_LOW_FRAMERATE_GUIDE_GUIDE01,1) Change in-game video/graphic setting adjusted to your PC.,"1) Ändere die Video-/Grafikeinstellungen im Spiel, die an deinen PC angepasst sind."
-UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your broswer has hardware acceleration turned on.,"2) Achte darauf, dass die Hardwarebeschleunigung deines Browsers aktiviert ist."
+UI_LOW_FRAMERATE_GUIDE_GUIDE02,2) Make sure your browser has hardware acceleration turned on.,"2) Achte darauf, dass die Hardwarebeschleunigung deines Browsers aktiviert ist."
 UI_LOW_FRAMERATE_GUIDE_BUTTON_SETTING,Go to Game Setting,Zu den Spieleinstellungen gehen
 UI_BATTLEPASS_MISSION_FINISH_RAINBOW_RACE,Finish Rainbow Race,Regenbogenrennen beenden
 UI_LOCKED_SLOT_TIP,"Unlock through quests, achievements, or an Extra Bag from the Cash Shop.","Wird durch Quests, Erfolge oder eine Extra-Bag aus dem Cash Shop freigeschaltet."
@@ -2498,9 +2498,9 @@ UI_MATOURNAMENT_BETTING_DATE,Last Date,Last Date
 UI_MATOURNAMENT_BETTING_WARNING,Are you sure you want to bet on this team?,Are you sure you want to bet on this team?
 UI_MATOURNAMENT_BETTING_BETTINGGOLD,Betting Penya,Betting Penya
 UI_MATOURNAMENT_BETTING_NOREWARD,None,kein
-UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Set Jewel,Remove Set Jewel
+UI_ULTIMATE_JEWEL_REMOVE_TITLE,Remove Ultimate Jewel,Remove Ultimate Jewel
 UI_ULTIMATE_JEWEL_REMOVE_OK,Remove,Entfernen
-UI_ULTIMATE_JEWEL_REMOVE_MSG,"Without jewel tweezers, the jewel may be deleted when you remove it. Do you want to continue?","Without jewel tweezers, the jewel may be deleted when you remove it. Do you want to continue?"
+UI_ULTIMATE_JEWEL_REMOVE_MSG,"Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb","Remove the selected ultimate jewel from this item? #b#cffff0000Without Jewel Tweezers, the jewel will be destroyed.#nc#nb"
 UI_ULTIMATE_JEWEL_COMPOSE_TITLE,Fuse Ultimate Jewel,Fuse Ultimate Jewel
 UI_ULTIMATE_JEWEL_REGISTER,Register ultimate jewel material gem.,Register ultimate jewel material gem.
 UI_ULTIMATE_JEWEL_INFO,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.,Fuse 3 - 6 ultimate jewels to receive 1 higher grade ultimate jewel.
@@ -3159,9 +3159,9 @@ UI_MYBET,My Bet,Meine Wette
 UI_ACTION,Action,Aktion
 UI_BTN_ADDBET,Add Bet,Wette hinzufügen
 UI_TITLE_ADDBET,Add Bet,Wette hinzufügen
-UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ","* Mindesteinsatz: 50 Coins\n* Nach der Bestätigung kann die Wette nicht zurückgezogen oder geändert werden.  "
+UI_DESC_ADDBET,"* Minimum Bet : 50 coins\n* Once confirmed, the bet cannot be withdrawn or modified.  ",* Mindesteinsatz: 50 Coins\n* Nach der Bestätigung kann die Wette nicht zurückgezogen oder geändert werden.  
 UI_LBL_ENTER_BETAMOUNT,Enter Bet Amount:,Wetteinsatz eingeben:
-UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,Bist du sicher, dass du diese Wette platzieren möchtest?\nGildenname: %s\nCoin-Betrag: %s
+UI_FWC_PREDICTION_BET_CONFIRM,Are you sure you want to place this bet?\nGuild Name : %s\nCoin Amount : %s,"Bist du sicher, dass du diese Wette platzieren möchtest?\nGildenname: %s\nCoin-Betrag: %s"
 UI_TITLE_GUILDINFO,Guild Info,Gildeninfo
 UI_BTN_MEMBERS,Members,Mitglieder
 UI_CHARACTERNAME,Name,Name
@@ -3214,13 +3214,13 @@ UI_TOOLTIP_DST_HYMN_WALK_SPEED,Hymn Walking Speed,Hymnen-Laufgeschwindigkeit
 UI_ENCHANT_SAME_JEWEL_TITLE,Equipping the same jewel,Ausrüstung desselben Juwels
 UI_ENCHANT_SAME_JEWEL_MSG,"The same jewel is already equipped. If you try to equip this jewel, there is #cffff0000%d%%#nc chance that you will succeed but the jewel will be destroyed if you fail. Do you want to proceed?","Dasselbe Juwel ist bereits ausgerüstet. Wenn du versuchst, dieses Juwel auszurüsten, besteht eine #cffff0000%d%%#nc Chance auf Erfolg, aber das Juwel wird bei Misserfolg zerstört. Möchtest du fortfahren?"
 UI_JEWELCONVERSION_REGISTER,Register ultimate jewel.,Ultimatives Juwel registrieren.
-UI_JEWELCONVERSION_INFO,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.,Du kannst Juwelen mit der Juwelenumwandlungsrolle umwandeln. Die Stufe bestimmt, welche Rolle für die Umwandlung verwendet wird.
+UI_JEWELCONVERSION_INFO,You can convert jewels using the Scroll of Jewel Conversion. The tier determines which scroll will be used for conversion.,"Du kannst Juwelen mit der Juwelenumwandlungsrolle umwandeln. Die Stufe bestimmt, welche Rolle für die Umwandlung verwendet wird."
 UI_JEWELCONVERSION_JEWEL,Tier %d Jewel,Stufe-%d-Juwel
 UI_JEWELCONVERSION_CONFIRM,The jewel will be randomly converted into the jewel of the same tier. Do you want to continue?,Das Juwel wird zufällig in ein Juwel derselben Stufe umgewandelt. Möchtest du fortfahren?
 UI_JEWELSYNTHESIS_INFO,"Synthesizing 3 jewels of the same tier, regardless of type, has a 100% chance to yield a random higher-tier jewel, with the used jewels being destroyed and the resulting jewel automatically moved to your inventory","Das Synthetisieren von 3 Juwelen derselben Stufe, unabhängig vom Typ, hat eine 100%-Chance, ein zufälliges höherstufiges Juwel zu erzeugen, wobei die verwendeten Juwelen zerstört werden und das resultierende Juwel automatisch in dein Inventar verschoben wird"
 UI_JEWELSYNTHESIS_TIER,Tier %d,Stufe %d
 UI_JEWELSYNTHESIS_SELECT,Select batch synthesis target tier,Ziel-Stufe für Stapelsynthese auswählen
-UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,Als Materialien verwendete Juwelen werden bei der Synthese entfernt. Bist du sicher, dass du die Synthese durchführen möchtest?
+UI_JEWELSYNTHESIS_CONFIRM,Jewels used as materials will be removed when synthesized. Are you sure you want to run the synthesis?,"Als Materialien verwendete Juwelen werden bei der Synthese entfernt. Bist du sicher, dass du die Synthese durchführen möchtest?"
 UI_JEWELSYNTHESIS_BATCH,Here's what you can expect to get from the jewel batch synthesis feature.\n#cff00b0f0%s#nc\n#cffff0000Penya Cost: %s#nc\nDo you want to proceed with batch jewel synthesis?,Das kannst du von der Juwelen-Stapelsynthese-Funktion erwarten.\n#cff00b0f0%s#nc\n#cffff0000Penya-Kosten: %s#nc\nMöchtest du mit der Juwelen-Stapelsynthese fortfahren?
 UI_JEWELSYNTHESIS_JEWEL,Tier %d Jewel: %d,Stufe-%d-Juwel: %d
 UI_TOOLTIP_SWD,Sword,Schwert

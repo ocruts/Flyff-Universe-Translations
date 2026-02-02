@@ -1,3 +1,3 @@
-#b#cff0000ffPiercing entfernen#nb#nc
+﻿#b#cff0000ffPiercing entfernen#nb#nc
 Entferne eine der eingefügten Piercing-Karten aus deinem Gegenstand. Ein Klick auf „Entfernen“ bestätigt die Entfernung.  
 Die Kosten betragen 5.000.000 Penya pro Entfernung.

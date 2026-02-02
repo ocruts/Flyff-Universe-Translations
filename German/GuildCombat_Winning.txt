@@ -1,4 +1,4 @@
-#b#cff0000ff* Sieg#nb#nc
+﻿#b#cff0000ff* Sieg#nb#nc
 #b#cff0000ff* Priorität#nb#nc
 1. Höchste Endpunktzahl
 2. Die meisten verbleibenden Wiederbelebungsmöglichkeiten der überlebenden Charaktere

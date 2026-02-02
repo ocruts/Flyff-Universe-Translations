@@ -2282,7 +2282,7 @@ PROPITEM_TXT_004289,Water Upgrade: +1 to +5,Fortalecimento de Água: +1 a +5
 PROPITEM_TXT_004290,River Card,Carta do Rio
 PROPITEM_TXT_004291,Water Element Upgrade: +6 to +10,Fortalecimento de Água: +6 a +10
 PROPITEM_TXT_004292,Voltage Card,Carta Energizada
-PROPITEM_TXT_004293,Electric Uprgrade: +1 to +5,Fortalecimento Elétrico: +1 a +5
+PROPITEM_TXT_004293,Electric Upgrade: +1 to +5,Fortalecimento Elétrico: +1 a +5
 PROPITEM_TXT_004294,Generator Card,Carta da Eletrificação
 PROPITEM_TXT_004295,Electric Element Upgrade: +6 to +10,Fortalecimento de Eletricidade: +6 a +10
 PROPITEM_TXT_004296,Stone Card,Carta da Pedra
@@ -17789,11 +17789,11 @@ PROPITEM_TXT_133408,Fish Sauce (D),Fish Sauce (D)
 PROPITEM_TXT_133409,Fish Sauce (C),Fish Sauce (C)
 PROPITEM_TXT_133410,Sauce made from fish. You can use it in various dishes.,Sauce made from fish. You can use it in various dishes.
 PROPITEM_TXT_133411,Lollipop (C),Lollipop (C)
-PROPITEM_TXT_133412,Recoers 84 HP,Recoers 84 HP
+PROPITEM_TXT_133412,Recovers 84 HP,Recovers 84 HP
 PROPITEM_TXT_133413,Meat Skewer (C),Meat Skewer (C)
-PROPITEM_TXT_133414,Recoers 144 HP,Recoers 144 HP
+PROPITEM_TXT_133414,Recovers 144 HP,Recovers 144 HP
 PROPITEM_TXT_133415,Biscuit (C),Biscuit (C)
-PROPITEM_TXT_133416,Recoers 144 HP,Recoers 144 HP
+PROPITEM_TXT_133416,Recovers 144 HP,Recovers 144 HP
 PROPITEM_TXT_133417,Fish Ball (D),Fish Ball (D)
 PROPITEM_TXT_133418,A dish made by making minced fish meat into balls.,A dish made by making minced fish meat into balls.
 PROPITEM_TXT_133419,Fish Ball (C),Fish Ball (C)

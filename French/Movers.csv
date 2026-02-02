@@ -1,4 +1,4 @@
-Key,English,French
+﻿Key,English,French
 PROPMOVER_TXT_000002,Male,Garçon
 PROPMOVER_TXT_000004,Female,Fille
 PROPMOVER_TXT_000006,Small Aibatt,Jeune Aibatt
@@ -1507,7 +1507,7 @@ PROPMOVER_TXT_500050,[Tormented Soul] Nergal,[Âme Tourmentée] Nergal
 PROPMOVER_TXT_500051,[Demonic Soul] Hel,[Âme Démoniaque] Hel
 PROPMOVER_TXT_500052,[Perverted Soul] Morrigan,[Âme Pervertie] Morrigan
 PROPMOVER_TXT_500053,[Anguished Soul] Mara,[Âme Angoissée] Mara
-PROPMOVER_TXT_500054,[Violent Soul] Ghed,[Âme Violente] Ghed
+PROPMOVER_TXT_500054,[Violent Soul] Ghed ,[Âme Violente] Ghed
 PROPMOVER_TXT_500055,[God of Death] Ankou,[Dieu de la Mort] Ankou
 PROPMOVER_TXT_500056,[God of Death] Blazing Ankou,[Dieu de la Mort] Ankou en Flammes
 PROPMOVER_TXT_500057,[God of Death] Demonic Ankou,[Dieu de la Mort] Ankou Démoniaque

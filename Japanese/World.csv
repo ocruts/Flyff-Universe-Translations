@@ -45,9 +45,9 @@ WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the 
 WDKEBARAS_WLD_000000,Lodelight,ロードライト
 WDKEBARAS_WLD_000001,This is a safe place.,～安全地帯～
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,ケバラス
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,Welcome to the town Kebaras!\nThis place was a prison for criminals a long time ago...,罪深き島。ケバラスタウン。\nここは昔、犯罪者の刑務所だったそうだ...。
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...",罪深き島。ケバラスタウン。\nここは昔、犯罪者の刑務所だったそうだ...。
 WDMADRIGAL_WLD_000000,Mysterious Castle,神秘的な城
-WDMADRIGAL_WLD_000001,This place is not referenced on the map. No one knows how to enter inside...,地図にもない場所。中に入る方法を知っている人はいないようだ・・・。
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,地図にもない場所。中に入る方法を知っている人はいないようだ・・・。
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,レルエン山脈中部の隠れ家
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,フラリス ⇔ セイントモーニング
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,フラリス ⇔ ダーコン1
@@ -60,14 +60,14 @@ WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,アリアンス ⇔ ガルディ
 WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,アリアンス ⇔ デッドウィルダニス
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,アズリア\nエランスが枯渇した土地
 WDMADRIGAL_WLD_000013,Azria\nVillage,アズリア\n小さな村
-WDMADRIGAL_WLD_000014,Line Deadwalderness ↔ Azria,デッドウィルダニス砂漠 ⇔ アズリア
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,デッドウィルダニス砂漠 ⇔ アズリア
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,ストームピークエントランス
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,エンヴィーデプスエントランス
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,ガーディアンサンクチュアリエントランス
 WDMADRIGAL_WLD_000021,Leren Chasm Entrance,レレン層岩巨淵エントランス
 WDMADRIGAL_WLD_000022,Wilds Entrance,ワイルズエントランス
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,リシスのカタコンベ
-WDMADRIGAL_WLD_000024,This is a safe space.,ここは安全な空間です。
+WDMADRIGAL_WLD_000024,This is a safe place.,ここは安全な空間です。
 WDMADRIGAL_WLD_000025,The Wilds Entrance,ザ・ワイルズエントランス
 WDMADRIGAL_WLD_000026,Coral Village,コーラルビレッジ
 WDMADRIGAL_WLD_000028,Coral Island,コーラル・アイランド
@@ -76,20 +76,20 @@ WDMADRIGAL_WLD_000030,Red Sea,紅海
 WDMADRIGAL_WLD_000032,Deep Sea,深海
 WDMADRIGAL_WLD_000034,Swamp,沼
 WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place used to be famous a long time ago...,This place used to be famous a long time ago...
+WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
-WDMADRIGAL_WLD_000040,This is a safe space.,ここは安全な空間です。
+WDMADRIGAL_WLD_000040,This is a safe place.,ここは安全な空間です。
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
 WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
-WDMADRIGAL_WLD_000047,This is a safe space.,ここは安全な空間です。
+WDMADRIGAL_WLD_000047,This is a safe place.,ここは安全な空間です。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,第2エランパークス\n（ダーコン第1地区）
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used for producing Erons.,生産量第2位のエランス生産工場です。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,生産量第2位のエランス生産工場です。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,レルエン山脈の中部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,フラリスの屋根と呼ばれているレルエン山脈の中部地帯\nハイドワーフの生息地とバブルの平原があります。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,フラリス\n中央広場
@@ -103,12 +103,12 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,バブルの平原
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,バブルなる人物が、3日で創ったと言われている伝説の平原
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,レルエン山脈の南部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,フラリスの屋根と呼ばれているレルエン山脈の南部地帯
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat..,ギルドコンバットセンター
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,ギルドコンバットセンター
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,ギルドコンバットに関する管理しています。通称「GCC」と呼ばれています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,レルエン山脈の南部\nシヴァーモンスターの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,シヴァーモンスターの何かが隠されているという祭壇\n神秘なる不思議な力を持つ伝道師が存在します。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,第1エランパークス\n（ダーコン第1地区）
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The 1st Erons Factory.\nThis factory produces 80% of all Erons.,マドリガル1のエランス生産量を誇る工場です。\n全体の約80％のエランスを生産しています。　
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,マドリガル1のエランス生産量を誇る工場です。\n全体の約80％のエランスを生産しています。　
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,ダーコン\n謎の祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,何の為に創られた祭壇かは謎ですが、ここで採取した岩石は、\nある事件の証拠として使用できるようです。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,レルエン山脈の中部
@@ -122,7 +122,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to ha
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,～ロードライト～\n復活ポイントの登録ができます。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,～安全地帯～
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,マッドランタウン
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast off Demian live in this town.,デミアンたちによって創られた町です。\n親に捨てられた子供たちが、デミアンとなって一緒に暮らしています。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,デミアンたちによって創られた町です。\n親に捨てられた子供たちが、デミアンとなって一緒に暮らしています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,勇気の谷の中部
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.,滝のように流れ落ちた雨で、大地が掘り起こされ創られた川です。\nハイードワーフ達が、たまに洗濯しに来るそうです。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037,Madren Town\nAltar of Dreadpet,マッドランタウン\nシヴァーモンスターの祭壇
@@ -130,10 +130,10 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpe
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039,Fountain of Dead Person,魂の泉
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040,"It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life.",死者の魂が集まると言われています。\nここの水は聖水とされ、不老不死伝説があるそうです。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041,Northern Leren Mountains,レルエン山脈の北部
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and Fountain of Dead Person is here.,フラリスの屋根と呼ばれているレルエン山脈の北部地帯\nフラリスダンジョンと魂の泉があります。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,フラリスの屋根と呼ばれているレルエン山脈の北部地帯\nフラリスダンジョンと魂の泉があります。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,フラリスダンジョン
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044,"This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now.",昔、採鉱商人によって発見され、開発された鉱山でしたが、\n現在は、モンスターの巣窟になっています。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence in Ludviehill,ルードヴィヒの屋敷
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,ルードヴィヒの屋敷
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046,The rich of Flaris live in Ludviehill.,フラリス最高の富豪、ルードヴィヒのお屋敷です。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049,Saint Tree,セイントツリー
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.,遥かいにしえより、幾歳月を経た霊樹です。\nセイントモーニングの守護樹として大切にされています。
@@ -151,7 +151,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061,Saint Morning has gained independence fro
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062,Saint Morning\nStation,セイントモーニング\nステーション
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063,This is the biggest station on Madrigal.\nSaint Morning could become the center of commerce for Madrigal by using this station.,マドリガル最高峰の規模を誇るステーションです。\nセイントモーニングが、マドリガル貿易の中心となる一番の理由は、この港にあります。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064,Saint Morning square,セイントモーニング広場
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is local hang out.\nThere is lots of space to open stores.,セイントモーニングの市立広場です。\n市民達の憩い場であり、集う場所としても知られています。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is a local hang out.\nThere is lots of space to open stores.,セイントモーニングの市立広場です。\n市民達の憩い場であり、集う場所としても知られています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066,Saint Morning\nThe Madrigal History Society.,セイントモーニング\nマドリガル歴史協会
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067,Research in the History of Madrigal is being made here.,マドリガルの歴史全てを管轄している機関で、歴史の研究を主としています。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068,Flaris\nAltar of Violet,フラリス\n謎の祭壇
@@ -169,7 +169,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079,Plateau of Silence\nGravity Disorder Area
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080,"It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world.",セイントモーニングで、唯一飛行ができない地区です。\n調査団によると、とある原因により発生した強力な重力により、\nここを飛ぼうとしたらその重力によって墜落してしまうそうです。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081,Hill of Shade,シェードの丘
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082,"Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye.",シェードなる人物が、1日で創ったと言われている伝説の丘\nセイントモーニングの人々は、彼がいにしえのピエロだろうと言っている。
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe area. You are safe from enemies.,安全領域です。敵から保護されます。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,安全領域です。敵から保護されます。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,カボチャ男爵の居住地
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.",セイントモーニングでの都市生活に飽き、移住して来た人たちが作った町です。\nしかし、奇妙な姿をしたカボチャモンスターの襲撃で、ひどい惨状となってしまいました。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,ヒルリド山脈の中部
@@ -229,15 +229,15 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139,Artificial cave.\nThe area surrounding Da
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,ダーコン第2地区\nエイエンブルケーブ
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,神ならざる人の手によって造られた洞窟\nクロックワーク戦争によって大陸は荒れ果て、\nミュータントモンスターがはびこるようになった。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,ダーコン第2地区\nエイエンブルケーブ
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks war.,神ならざる人の手によって造られた洞窟\nクロックワーク戦争によって大陸は荒れ果て、\nミュータントモンスターがはびこるようになった。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,神ならざる人の手によって造られた洞窟\nクロックワーク戦争によって大陸は荒れ果て、\nミュータントモンスターがはびこるようになった。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,キプラ荒原\n（ダーコン1地区）
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,乱開発で自然環境が大分破壊された。\nエランス生産公団エランペクスがある。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,乱開発で自然環境が大分破壊された。\nエランス生産公団エランペクスがある。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,ゴウダン山脈\n（ダーコン1地区）
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147,The biggest mountains in Darkon.,ダーコン大陸で最も広大な山脈
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,ゴウダン山脈\n（ダーコン1地区）
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149,The biggest mountains in Darkon.,ダーコン大陸で最も広大な山脈
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,キプラ荒原\n（ダーコン1地区）
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,乱開発で自然環境が大分破壊された。\nエランス生産公団エランペクスがある。
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,乱開発で自然環境が大分破壊された。\nエランス生産公団エランペクスがある。
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152,Darkon 2\nThe Cage of Clockworks.,奈落～歯車の永久牢獄\n（ダーコン2地区）
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153,Clockworks was sealed here after the Clockworks War.,クロックワークス戦争で負けたクロックワークスが封印されている牢獄
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154,Flaris Observatory,フラリスの天文台
@@ -248,7 +248,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,ネオ・ロ
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,ジェスターの祭壇
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,ムーの谷\n（ダーコン第3地区）
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions.","Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,プロトタイプ
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,マドリガルの知られざる場所

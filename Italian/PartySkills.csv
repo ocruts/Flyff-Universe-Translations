@@ -1,19 +1,19 @@
 ﻿Key,English,Italian
 PROPTROUPESKILL_TXT_000000,Call,Chiamata
-PROPTROUPESKILL_TXT_000001,Informs all party members of the location of the party leader.,Informa tutti i membri del party sulla posizione del leader.
+PROPTROUPESKILL_TXT_000001,Informs all party members of the party leader's location.,Informa tutti i membri del party sulla posizione del leader.
 PROPTROUPESKILL_TXT_000002,Blitz,Blitz
-PROPTROUPESKILL_TXT_000003,Party leader orders party members to a attack a target.,Il Leader ordina ai membri del party di attaccare l'obiettivo.
+PROPTROUPESKILL_TXT_000003,The party leader orders party members to attack a target.,Il Leader ordina ai membri del party di attaccare l'obiettivo.
 PROPTROUPESKILL_TXT_000004,Retreat,Ritirata
-PROPTROUPESKILL_TXT_000005,Party leader orders all party members to retreat.,Il Leader ordina ai membri del party di ritirarsi.
+PROPTROUPESKILL_TXT_000005,The party leader orders all party members to retreat.,Il Leader ordina ai membri del party di ritirarsi.
 PROPTROUPESKILL_TXT_000008,Precision,Precisione
-PROPTROUPESKILL_TXT_000009,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.,Increases the Critical Chance on the next attack of all party members around the leader by 0.5% x Amount of party members.
+PROPTROUPESKILL_TXT_000009,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.,Increases the Critical Chance of the next attack of all party members around the leader by 0.5% per party member.
 PROPTROUPESKILL_TXT_000010,Linked Attack,Attacco Collegato
-PROPTROUPESKILL_TXT_000011,Each party member around the leader adds a 5% bonus to party leader damage.,Ogni membro del party vicino al leader riceve un bonus del 5% al ​​danno.
+PROPTROUPESKILL_TXT_000011,Each party member around the leader increases the party leader's damage by 5%.,Ogni membro del party vicino al leader riceve un bonus del 5% al ​​danno.
 PROPTROUPESKILL_TXT_000012,Lucky Drop,Drop Fortunato
-PROPTROUPESKILL_TXT_000013,Increases the chance of Masquerpets dropping unique items.,Aumenta la possibilità di far droppare ai mostri oggetti rari.
+PROPTROUPESKILL_TXT_000013,Increases the chance for Masquerpets to drop unique items.,Aumenta la possibilità di far droppare ai mostri oggetti rari.
 PROPTROUPESKILL_TXT_000014,Resting,Riposo
-PROPTROUPESKILL_TXT_000015,Party members recover 1.5 times faster. If the party leader is an Assist party members recover 1.8 times faster.,"I membri del party recuperano 1.5 volte più velocemente. Se il leader del party è un Assist, i membri del party recuperano 1.8 volte più velocemente."
+PROPTROUPESKILL_TXT_000015,"Party members recover 1.5 times faster. If the party leader is an Assist, party members recover 1.8 times faster.","I membri del party recuperano 1.5 volte più velocemente. Se il leader del party è un Assist, i membri del party recuperano 1.8 volte più velocemente."
 PROPTROUPESKILL_TXT_000016,Gift Box,Box Regalo
-PROPTROUPESKILL_TXT_000017,Increases the amount of items dropped by Masquerpets.,Aumenta il numero di drop lasciati dai mostri.
+PROPTROUPESKILL_TXT_000017,Increases the number of items dropped by Masquerpets.,Aumenta il numero di drop lasciati dai mostri.
 PROPTROUPESKILL_TXT_000018,Global Attack,Attacco Globale
-PROPTROUPESKILL_TXT_000019,Each party member receives a 2.5% damage bonus for every party member around them. Does not apply to the leader if Linked Attack is active.,Ogni membro del party riceve un bonus di danno del 2.5% per ogni membro del party che gli è vicino. Non si applica al leader se Attacco Collegato è attivo.
+PROPTROUPESKILL_TXT_000019,Each party member gains a 2.5% damage bonus for every party member nearby. This does not apply to the leader if Linked Attack is active.,Ogni membro del party riceve un bonus di danno del 2.5% per ogni membro del party che gli è vicino. Non si applica al leader se Attacco Collegato è attivo.

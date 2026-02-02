@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,Pytania i Odpowiedzi
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Otwórz Wiki
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Nie możesz stworzyć Drużyny na arenie Oblężenia Gildii.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,Nie możesz stworzyć Drużyny na arenie Oblężenia Gildii.
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Nie możesz zaprosić nikogo do Drużyny podczas walki PVP.
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Nie możesz dołączyć do Drużyny podczas Pojedynku.
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Nie możesz dołączyć do Gildii podczas Pojedynku.
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Nie możesz upuścić 
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Nie możesz upuścić przedmiotu w trakcie handlu.
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Tylko skrzydła Cię uratują w trakcie upadku.
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Ta nazwa sklepu jest niedozwolona.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Nie można handlować na arenie Oblężenia Gildii.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,Nie można handlować na arenie Oblężenia Gildii.
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Sklepy są niedozwolone w tym miejscu.
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Nie możesz otworzyć sklepu obok któregoś z NPC. 
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Sklep już wszystko sprzedał.
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Twój chat jest chwilowo zablokowany. (Pozostały Czas: %d min %d sek)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,Wolno krzyczeć tylko 5 razy w ciągu 60 sekund.
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Krzyczenie za pomocą Pełnego Krzyku jest dozwolone tylko raz na 2 minuty.
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,Nie masz Gildii lub nie jesteś Mistrzem Gildii.
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,Nie masz Gildii lub nie jesteś Mistrzem Gildii.
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Oblężenie Gildii jest zamknięte.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,Twoja Gildia musi mieć co najmniej poziom %d by dołączyć do Oblężenia.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,Twoja Gildia musi mieć co najmniej poziom %d by dołączyć do Oblężenia.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,Wzięcie udziału w oblężeniu wyniesie co najmniej %d Penya.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,Koszt udziału w oblężeniu wynosi %d Penya.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Możesz wziąć udział w Oblężeniu Gildii jeśli posiadasz wymaganą ilość Penya.
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Twoja pierwsza oferta to %d Penya. Stawka została podbita o dodatkowe %d Penya.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Udało Ci się dołączyć do Oblężenia Gildii. Możesz próbować dołączyć swoją Gildią od godziny 17:00 (PST) w każdą Sobotę.
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,Rejestracja na Oblężenie Gildii zakończona.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Twoja pierwsza oferta to %d Penya. Stawka została podbita o dodatkowe %d Penya.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Udało Ci się dołączyć do Oblężenia Gildii. Możesz próbować dołączyć swoją Gildią od godziny 17:00 (PST) w każdą Sobotę.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,Rejestracja na Oblężenie Gildii zakończona.
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Nie możesz teraz tego użyć.
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Nie zarejestrowałeś/aś się do Oblężenia Gildii.
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,Koszt dołączenia zostanie zwrócony jeśli nie uda Ci się dołączyć do Oblężenia Gildii.
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,Oblężenie Gildii do którego dołączyłeś/aś zostało odwołane.
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Zwrot Penya
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,"Witaj. Jestem Donaris, Menedżer Gildii.\nOddam Ci twoją wpłatę za odwołanie udziału, ale odjąłem 20% na koszty prowizji.\nMiłego dnia!"
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,Nie zarejestrowałeś/aś się do Oblężenia Gildii.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,Koszt dołączenia zostanie zwrócony jeśli nie uda Ci się dołączyć do Oblężenia Gildii.
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,Oblężenie Gildii do którego dołączyłeś/aś zostało odwołane.
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,Zwrot Penya
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!","Witaj. Jestem Donaris, Menedżer Gildii.\nOddam Ci twoją wpłatę za odwołanie udziału, ale odjąłem 20% na koszty prowizji.\nMiłego dnia!"
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Miłego Dnia!
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.",Zakwalifikowana Cię do udziału w Oblężeniu Gildii. Pogadaj z Franky we Flaris by stworzyć zespół.
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","Nie udało Ci się zakwalifikować, spróbuj ponownie za tydzień. Po zakończeniu Oblężenia Gildii, porozmawiaj z Donaris we Flaris w sprawie kosztu wstępu."
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,Zakwalifikowana Cię do udziału w Oblężeniu Gildii. Pogadaj z Franky we Flaris by stworzyć zespół.
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","Nie udało Ci się zakwalifikować, spróbuj ponownie za tydzień. Po zakończeniu Oblężenia Gildii, porozmawiaj z Donaris we Flaris w sprawie kosztu wstępu."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Oblężenie Gildii zaraz się zacznie. Będziesz automatycznie przeniesiony/a do Flaris za %d sek.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","Od teraz, Franky pozwoli Ci wejść na arenę Oblężenia Gildii."
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.",Od teraz możesz zarządzać swoim udziałem w Oblężeniu Gildii.
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Czas na przygotowanie zespołu do Oblężenia Gildii.
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Oblężenia Gildii zacznie się za
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,Koniec Walki
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Teleportuję do Flaris
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Tryb Oblężenia Gildii jest teraz dostępny.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",Nie możesz w tym czasie zarejestrować zespołu.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",Nie udało Ci się dołączyć lub nie zaakceptowano Cię do wzięcia udziału w Oblężeniu Gildii.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,"Od teraz, Franky pozwoli Ci wejść na arenę Oblężenia Gildii."
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,Od teraz możesz zarządzać swoim udziałem w Oblężeniu Gildii.
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,Czas na przygotowanie zespołu do Oblężenia Gildii.
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,Oblężenia Gildii zacznie się za
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,Koniec Walki
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,Teleportuję do Flaris
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,Tryb Oblężenia Gildii jest teraz dostępny.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,Nie możesz w tym czasie zarejestrować zespołu.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,Nie udało Ci się dołączyć lub nie zaakceptowano Cię do wzięcia udziału w Oblężeniu Gildii.
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,Liczba %d graczy przekroczona.
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Musisz być powyżej %d poziomu by dołączyć.
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Musisz się zarejestrować.
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Mistrz Gildii nie może być Obrońcą.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Wśród zapisanych nie ma Mistrza Gildii lub Generała.
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Nie ma Obrońcy. Musisz wybrać Obrońcę.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Nie ma uczestników. Wybierz uczestnika.
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,Oblężenie Gildii odbędzie się w tym tygodniu.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,Mistrz Gildii nie może być Obrońcą.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,Wśród zapisanych nie ma Mistrza Gildii lub Generała.
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,Nie ma Obrońcy. Musisz wybrać Obrońcę.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,Nie ma uczestników. Wybierz uczestnika.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,Oblężenie Gildii odbędzie się w tym tygodniu.
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Proszę dołączyć za chwilę.
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Przygotowania w toku.
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Włóczęga nie może brać udziału w Oblężeniu Gildii. Spróbuj ponownie po pierwszej zmianie klasy.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Włóczęga nie może brać udziału w Oblężeniu Gildii. Spróbuj ponownie po pierwszej zmianie klasy.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Witaj na Oblężeniu Gildii.
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,Możesz przybliżyć kamerę za pomocą przycisku [Scroll Lock].
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.",Jako Mistrz Gildi otrzymujesz dodatkowe punkty za pokonanie Obrońcy.
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.",Jesteś Obrońcą! Przeciwnicy otrzymują dodatkowe punkty za zgładzenie Cię.
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.",Pokonaj przeciwników dla chwały swojej Gildii! Zgładzenie Obrońcy daje dodatkowe punkty!
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Gratulacje, otrzymujesz mapę Gildii!"
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Walka rozpocznie się zaraz po konserwacji serwerów. Przygotujcie się do bitwy!
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,Możesz przybliżyć kamerę za pomocą przycisku [Scroll Lock].
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,Jako Mistrz Gildi otrzymujesz dodatkowe punkty za pokonanie Obrońcy.
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.",Jesteś Obrońcą! Przeciwnicy otrzymują dodatkowe punkty za zgładzenie Cię.
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,Pokonaj przeciwników dla chwały swojej Gildii! Zgładzenie Obrońcy daje dodatkowe punkty!
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,"Gratulacje, otrzymujesz mapę Gildii!"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,Walka rozpocznie się zaraz po konserwacji serwerów. Przygotujcie się do bitwy!
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Rozpocząć Bitwę!
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Mistrz Gildii uzyskał %d punkty!
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Twoja Gildia uzyskała %d punkty!
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Twój Obrońca został zgładzony! Gildia %s otrzymała punkty!
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,Mistrz Gildii uzyskał %d punkty!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,Twoja Gildia uzyskała %d punkty!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,Twój Obrońca został zgładzony! Gildia %s otrzymała punkty!
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Musisz być na Kanale 1 by uczestniczyć w Oblężeniu Gildii.
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,Musisz być na Kanale 1 by uczestniczyć w Oblężeniu Gildii.
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Oblężenie Gildii dobiegło końca.
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,W tym tygodniu wygrywa Gildia %s!
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,%s otrzymuje tytuł MVP!
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,W tym tygodniu wygrywa Gildia %s!
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,%s otrzymuje tytuł MVP!
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Gratulacje!
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Limit Czasu
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Limit Czasu
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Nie możesz zaprosić kogoś do Gildii w trakcie Oblężenia Gildii.
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,Możesz rozwiązać Gildię która zgłosiła udział do Oblężenia Gildii.
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Nie możesz porzucić Gildii w trakcie Oblężenia Gildii.
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Nie możesz zmienić logo Gildii w trakcie Oblężenia Gildii.
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Nie możesz zmienić nazwy Gildii w trakcie Oblężenia Gildii.
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Nie można wypowiedzieć wojny w trakcie Oblężenia Gildii.
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Nie możesz używać przedmiotu podczas wydarzenia.
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Nie możesz używać umiejętności podczas wydarzenia.
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Nie możesz ulepszać podczas wydarzenia.
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,"Podczas wydarzenia, nie można krzyczeć."
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,To jest niedozwolone w trakcie Oblężenia Gildii.
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Uzyskujesz zwrot kosztów z przegranej licytacji na Oblężenie Gildii.
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,"Witaj! Jestem Donaris, Menedżer Gildii.\nZwrócę część twojej wpłaty. Potrąciłem 2% kosztów prowizji.\nMam nadzieję, że zobaczę Cię znowu na Oblężeniu Gildii.\nDziękuję za zainteresowanie!"
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.","Już otrzymałeś/aś nagrodę za osiągnięcie MVP, albo nie jesteś MVP."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.",Ilość posiadanego Penya w twoim ekwipunku przekroczyłaby ilość maksymalną po otrzymaniu wygranej z Oblężenia Gildii. Prosimy o kontakt z GM na oficjalnej stronie Flyff by otrzymać nagrodę. Przepraszamy za niedogodności.
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Otrzymujesz %d Penya jako MVP. Gratulacje!
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.","Już otrzymałeś/aś nagrodę, albo nie masz uprawnień by ją otrzymać."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Otrzymujesz %d Penya w nagrodę za udział w Oblężeniu Gildii. Gratulacje!
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Otrzymujesz %d Penya pomniejszone o wpłatę za koszt udziału.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,Nie możesz używać przedmiotu podczas wydarzenia.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,Nie możesz używać umiejętności podczas wydarzenia.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,Nie możesz ulepszać podczas wydarzenia.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,"Podczas wydarzenia, nie można krzyczeć."
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,To jest niedozwolone w trakcie Oblężenia Gildii.
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,Uzyskujesz zwrot kosztów z przegranej licytacji na Oblężenie Gildii.
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!","Witaj! Jestem Donaris, Menedżer Gildii.\nZwrócę część twojej wpłaty. Potrąciłem 2% kosztów prowizji.\nMam nadzieję, że zobaczę Cię znowu na Oblężeniu Gildii.\nDziękuję za zainteresowanie!"
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.","Już otrzymałeś/aś nagrodę za osiągnięcie MVP, albo nie jesteś MVP."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,Ilość posiadanego Penya w twoim ekwipunku przekroczyłaby ilość maksymalną po otrzymaniu wygranej z Oblężenia Gildii. Prosimy o kontakt z GM na oficjalnej stronie Flyff by otrzymać nagrodę. Przepraszamy za niedogodności.
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,Otrzymujesz %d Penya jako MVP. Gratulacje!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.","Już otrzymałeś/aś nagrodę, albo nie masz uprawnień by ją otrzymać."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,Otrzymujesz %d Penya w nagrodę za udział w Oblężeniu Gildii. Gratulacje!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,Otrzymujesz %d Penya pomniejszone o wpłatę za koszt udziału.
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Nie możesz tego użyć gdy Transformacja jest aktywna.
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,To konto jest zablokowane. Skontaktuj się z Pomocą FlyFF po szczegóły.
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Nie możesz się tam udać tą drogą.

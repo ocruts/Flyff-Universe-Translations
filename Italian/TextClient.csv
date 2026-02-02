@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,FAQ
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Aiuto Wiki
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,Info-Pang
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Non puoi fare un Gruppo nell'arena Assedio della Gilda.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,Non puoi fare un Gruppo nell'arena Assedio della Gilda.
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Non puoi invitare un altro personaggio a unirsi al gruppo durante il PvP di gruppo.
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,Non puoi unirti al gruppo durante il duello.
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,Non puoi unirti alla gilda durante il duello.
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,Non puoi rilasciare og
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,Non puoi rilasciare oggetti durante lo scambio.
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Solo le ali possono salvarti quando cadi
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Questo nome per il negozio non è consentito.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Non puoi fare scambi durante l'evento.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,Non puoi fare scambi durante l'evento.
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,I Negozi Privati non sono disponibili in quest'area.
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Non puoi aprire un Negozio Privato vicino a un NPC.
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Tutti gli oggetti del negozio privato sono stati venduti.
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),La tua chat è stata bloccata.(Rimanente: %d minuti %d secondi)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,È consentito urlare solo 5 volte ogni 60 secondi.
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,L'urlo con l'Urlo Assoluto è consentito solo una volta ogni 2 minuti.
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,O non hai una gilda o non sei il leader della gilda.
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,O non hai una gilda o non sei il leader della gilda.
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,L'Assedio alla Gilda è chiuso.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,Il tuo livello di gilda deve essere almeno %d per poterti candidare all'assedio.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,Il tuo livello di gilda deve essere almeno %d per poterti candidare all'assedio.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,L'applicazione all'assedio costerà almeno %d penya
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,L'applicazione all'assedio costerà almeno %d penya
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,Puoi candidarti all'assedio della gilda se hai i Penya richiesti.
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Prima hai chiesto %d penya. E poi ha chiesto altri %d penya.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Avete fatto domanda per l'assedio della gilda. È possibile organizzare l'ingresso della gilda a partire dalle 17:00 (PST) di ogni sabato.
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,La registrazione per l'assedio della gilda è terminata.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Prima hai chiesto %d penya. E poi ha chiesto altri %d penya.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Avete fatto domanda per l'assedio della gilda. È possibile organizzare l'ingresso della gilda a partire dalle 17:00 (PST) di ogni sabato.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,La registrazione per l'assedio della gilda è terminata.
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Non è possibile utilizzarlo in questo momento.
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Non ti sei registrato per l'Assedio della Gilda.
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,La quota di iscrizione viene rimborsata se non si riesce a partecipare all'assedio della gilda.
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,L'assedio della gilda a cui ti sei unito è stato annullato.
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Rimborso Penya
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,Salve. Sono un manager di gilda di nome Donaris.\nLe restituirò il denaro a causa della sua cancellazione. Ho detratto il 20% come commissione.\nBuona giornata!
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,Non ti sei registrato per l'Assedio della Gilda.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,La quota di iscrizione viene rimborsata se non si riesce a partecipare all'assedio della gilda.
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,L'assedio della gilda a cui ti sei unito è stato annullato.
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,Rimborso Penya
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!",Salve. Sono un manager di gilda di nome Donaris.\nLe restituirò il denaro a causa della sua cancellazione. Ho detratto il 20% come commissione.\nBuona giornata!
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Buona giornata!
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now."
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris."
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,L'Assedio della Gilda inizierà presto. Sarete teletrasportati automaticamente a Flaris dopo %d secondi.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","D'ora in poi, Franky a Flarine potrà farvi entrare nell'arena Assedio della Gilda."
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.","D'ora in poi, è possibile organizzare la partecipazione all'assedio della gilda."
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,È tempo di organizzare lo schieramento e di prepararsi all'Assedio della Gilda.
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Guild Siege begins in
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,Termina il combattimento
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Teletrasporto a Flaris
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,La modalità Assedio della Gilda è ora disponibile.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.","Per ora, non è possibile organizzare una partecipazione."
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.","Non ti sei iscritto all'assedio della gilda, oppure non sei stato accettato a partecipare."
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,"D'ora in poi, Franky a Flarine potrà farvi entrare nell'arena Assedio della Gilda."
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,"D'ora in poi, è possibile organizzare la partecipazione all'assedio della gilda."
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,È tempo di organizzare lo schieramento e di prepararsi all'Assedio della Gilda.
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,Combat Starts In
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,Termina il combattimento
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,Teletrasporto a Flaris
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,La modalità Assedio della Gilda è ora disponibile.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,"Per ora, non è possibile organizzare una partecipazione."
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,"Non ti sei iscritto all'assedio della gilda, oppure non sei stato accettato a partecipare."
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,È stato superato il numero %d di persone.
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,Dovresti superare il livello %d per entrare.
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Registrati. Registrarsi di nuovo.
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Il Capo Gilda non può essere un difensore.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,Non c'è un boss o un capo gilda nell'iscrizione.
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Non c'è nessun difensore. Selezionare un difensore.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Non c'è nessun partecipante. Selezionare il partecipante.
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,L'assedio della gilda si tiene per questa settimana.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,Il Capo Gilda non può essere un difensore.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,Non c'è un boss o un capo gilda nell'iscrizione.
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,Non c'è nessun difensore. Selezionare un difensore.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,Non c'è nessun partecipante. Selezionare il partecipante.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,L'assedio della gilda si tiene per questa settimana.
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,Si prega di unirsi fra poco.
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Preparativi in corso.
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Un vagrant non è idoneo per l'assedio della gilda. Riprova dopo il primo cambio di mestiere.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Un vagrant non è idoneo per l'assedio della gilda. Riprova dopo il primo cambio di mestiere.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Benvenuti all'Assedio della Gilda.
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,È possibile zoomare con la telecamera premendo il tasto [Blocco scorrimento].
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","Sei il capo della gilda! Sconfiggendo il difensore, otterrete un bonus."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Sei un difensore! Se il nemico vi sconfigge, otterrà un bonus."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.","Sconfiggi il tuo avversario per la gloria della tua gilda! Sconfiggendo il difensore, otterrete un bonus."
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!","Congratulazioni, hai ottenuto la mappa della gilda!"
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Il combattimento inizia subito dopo la manutenzione del server. Preparati alla guerra!
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,È possibile zoomare con la telecamera premendo il tasto [Blocco scorrimento].
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,"Sei il capo della gilda! Sconfiggendo il difensore, otterrete un bonus."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.","Sei un difensore! Se il nemico vi sconfigge, otterrà un bonus."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,"Sconfiggi il tuo avversario per la gloria della tua gilda! Sconfiggendo il difensore, otterrete un bonus."
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,"Congratulazioni, hai ottenuto la mappa della gilda!"
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,Il combattimento inizia subito dopo la manutenzione del server. Preparati alla guerra!
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Inizio del combattimento
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Il capo gilda ha ottenuto %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,La tua gilda ha ottenuto %d!
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Il tuo difensore è morto! La gilda %s ha guadagnato punti!
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,Il capo gilda ha ottenuto %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,La tua gilda ha ottenuto %d!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,Il tuo difensore è morto! La gilda %s ha guadagnato punti!
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,Per accedere all'Assedio della Gilda è necessario essere collegati al Canale 1.
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,Per accedere all'Assedio della Gilda è necessario essere collegati al Canale 1.
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,L'Assedio della Gilda è terminato.
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,La gilda vincitrice di questa settimana: gilda %s.
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,L'MVP è %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,La gilda vincitrice di questa settimana: gilda %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,L'MVP è %s.
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Congratulazioni!
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Limite di tempo
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Limite di tempo
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Non è possibile invitare qualcuno nella gilda mentre si è in un Assedio della Gilda.
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,È possibile sciogliere una gilda che ha richiesto un Assedio della Gilda.
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Non è possibile abbandonare una gilda durante l'Assedio della Gilda.
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,Non è possibile cambiare il logo della gilda durante l'Assedio della Gilda.
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,Non è possibile cambiare il nome della gilda durante l'Assedio della Gilda.
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Impossibile dichiarare guerra durante l'Assedio della Gilda.
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,Non è possibile utilizzare gli oggetti durante l'evento.
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,Non è possibile utilizzare le abilità durante l'evento.
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,Non è possibile incantare durante l'evento.
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,Non si può gridare durante l'evento.
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Non è disponile durante l'Assedio della Gilda.
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Rimborso per il fallimento di una gara d'appalto per l'assedio della gilda
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,Salve. Sono un manager di gilda di nome Donaris.\nVi restituirò parte del vostro denaro. Ho detratto il 2% come commissione.\nSpero di rivedervi all'Assedio della Gilda.\nGrazie per il vostro interesse
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.",Avete già ricevuto il premio in denaro per l'MVP o non siete MVP.
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Poiché l'importo supera i penya dell'inventario dopo l'aggiunta del premio dell'assedio della gilda, si prega di chiedere di ottenere la vincita al GM sul sito web. Ci scusiamo per l'inconveniente."
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,Hai ricevuto %d penya come MVP. Congratulazioni!
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.",Avete già ricevuto il premio in denaro o non avete bisogno di ricevere indietro la quota di iscrizione.
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,Hai ricevuto %d penya come premio in denaro per l'assedio della gilda. Congratulazioni!
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Avete ricevuto %d penya meno l'importo pagato per la candidatura.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,Non è possibile utilizzare gli oggetti durante l'evento.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,Non è possibile utilizzare le abilità durante l'evento.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,Non è possibile incantare durante l'evento.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,Non si può gridare durante l'evento.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,Non è disponile durante l'Assedio della Gilda.
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,Rimborso per il fallimento di una gara d'appalto per l'assedio della gilda
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!",Salve. Sono un manager di gilda di nome Donaris.\nVi restituirò parte del vostro denaro. Ho detratto il 2% come commissione.\nSpero di rivedervi all'Assedio della Gilda.\nGrazie per il vostro interesse
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.",Avete già ricevuto il premio in denaro per l'MVP o non siete MVP.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,"Poiché l'importo supera i penya dell'inventario dopo l'aggiunta del premio dell'assedio della gilda, si prega di chiedere di ottenere la vincita al GM sul sito web. Ci scusiamo per l'inconveniente."
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,Hai ricevuto %d penya come MVP. Congratulazioni!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.",Avete già ricevuto il premio in denaro o non avete bisogno di ricevere indietro la quota di iscrizione.
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,Hai ricevuto %d penya come premio in denaro per l'assedio della gilda. Congratulazioni!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,Avete ricevuto %d penya meno l'importo pagato per la candidatura.
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Non è possibile utilizzarlo mentre è in uso un transy.
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Questo account è stato bandito. Contattare il supporto FlyFF per assistenza.
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,Non puoi procedere per questa via.

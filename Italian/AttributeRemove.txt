@@ -1,2 +1,2 @@
-#b#cff0000ff Rimuovi Potenziamenti Elementali #nb#nc
+﻿#b#cff0000ff Rimuovi Potenziamenti Elementali #nb#nc
 L'aggiornamento elementale dell'arma verrà rimosso quando clicchi sul pulsante Rimuovi. Verranno prelevati 1.000.000 Penya dal tuo inventario.

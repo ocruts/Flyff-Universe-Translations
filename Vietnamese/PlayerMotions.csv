@@ -4,7 +4,7 @@ PROPMOTION_TXT_000001,Combat Stance,Lập trường chiến đấu
 PROPMOTION_TXT_000002,,
 PROPMOTION_TXT_000003,Sit Down,Ngồi xuống
 PROPMOTION_TXT_000004,,
-PROPMOTION_TXT_000005,Pickup Nearby Item,Nhặt vật phẩm lân cận
+PROPMOTION_TXT_000005,Pick Up Nearby Item,Nhặt vật phẩm lân cận
 PROPMOTION_TXT_000006,,
 PROPMOTION_TXT_000007,Shake Hands,Bắt tay
 PROPMOTION_TXT_000008,,
@@ -14,7 +14,7 @@ PROPMOTION_TXT_000011,Nod Head,Gật đầu
 PROPMOTION_TXT_000012,,
 PROPMOTION_TXT_000013,Shake Head,Lắc đầu
 PROPMOTION_TXT_000014,,
-PROPMOTION_TXT_000015,Run in place,Chạy tại chỗ
+PROPMOTION_TXT_000015,Run in Place,Chạy tại chỗ
 PROPMOTION_TXT_000016,,
 PROPMOTION_TXT_000017,Parade Rest,Phần còn lại của cuộc diễu hành
 PROPMOTION_TXT_000018,,
@@ -38,28 +38,28 @@ PROPMOTION_TXT_000035,Kneel,Quỳ xuống
 PROPMOTION_TXT_000036,,
 PROPMOTION_TXT_000037,Push-Ups,Chống đẩy
 PROPMOTION_TXT_000038,,
-PROPMOTION_TXT_000039,Shake butt,Lắc mông
+PROPMOTION_TXT_000039,Shake Butt,Lắc mông
 PROPMOTION_TXT_000040,Pow!,Pow!
 PROPMOTION_TXT_000041,Punch,Cú đấm
 PROPMOTION_TXT_000042,,
-PROPMOTION_TXT_000043,Put head on ground,Đặt đầu trên mặt đất
+PROPMOTION_TXT_000043,Put Head to the Ground,Đặt đầu trên mặt đất
 PROPMOTION_TXT_000044,,
-PROPMOTION_TXT_000045,Raise weapon,Nâng vũ khí
+PROPMOTION_TXT_000045,Raise Weapon,Nâng vũ khí
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,Thu thập bổ sung
 PROPMOTION_TXT_000048,,
 PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),Dịch chuyển đến thành phố gần nhất (thời gian sử dụng 5 phút)
 PROPMOTION_TXT_000050,,
-PROPMOTION_TXT_000051,Cheer up another character,Cổ vũ một nhân vật khác
+PROPMOTION_TXT_000051,Cheer Up Another Player,Cổ vũ một nhân vật khác
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the selected target,Tấn công mục tiêu đã chọn
+PROPMOTION_TXT_000053,Attack the Selected Target,Tấn công mục tiêu đã chọn
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected character.,Bạn đề xuất với nhân vật đã chọn.
+PROPMOTION_TXT_000055,You propose to the selected player.,Bạn đề xuất với nhân vật đã chọn.
 PROPMOTION_TXT_000057,Toggle Weapons,Chuyển đổi vũ khí
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,Kích hoạt pet's grace được triệu hồi
-PROPMOTION_TXT_000059,Follow the selected target,Theo dõi mục tiêu đã chọn
-PROPMOTION_TXT_000060,Swap your current stat page,Hoán đổi trang stat hiện tại của bạn
-PROPMOTION_TXT_000061,Play dead,Play dead
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,Kích hoạt pet's grace được triệu hồi
+PROPMOTION_TXT_000059,Follow the Selected Target,Theo dõi mục tiêu đã chọn
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,Hoán đổi trang stat hiện tại của bạn
+PROPMOTION_TXT_000061,Play Dead,Play Dead
 PROPMOTION_TXT_000062,Propose,Propose
 PROPMOTION_TXT_000063,High Five (Couple),High Five (Couple)
 PROPMOTION_TXT_000064,Hug (Couple),Hug (Couple)
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,Provoke
 PROPMOTION_TXT_000108,Surprised,Surprised
 PROPMOTION_TXT_000109,Look Around,Look Around
 PROPMOTION_TXT_000110,Arm Heart,Arm Heart
-PROPMOTION_TXT_000111,Swap your current skill page,Swap your current skill page
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Switch Your Current Skill Page
 PROPMOTION_TXT_000112,Surrender,Surrender
 PROPMOTION_TXT_000113,Begging,Begging

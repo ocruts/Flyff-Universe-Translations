@@ -4,7 +4,7 @@ PROPMOTION_TXT_000001,Combat Stance,Position de combat
 PROPMOTION_TXT_000002,,
 PROPMOTION_TXT_000003,Sit Down,S'asseoir
 PROPMOTION_TXT_000004,,
-PROPMOTION_TXT_000005,Pickup Nearby Item,Ramasser un objet
+PROPMOTION_TXT_000005,Pick Up Nearby Item,Ramasser un objet
 PROPMOTION_TXT_000006,,
 PROPMOTION_TXT_000007,Shake Hands,Serrer la main
 PROPMOTION_TXT_000008,,
@@ -14,7 +14,7 @@ PROPMOTION_TXT_000011,Nod Head,Approuver
 PROPMOTION_TXT_000012,,
 PROPMOTION_TXT_000013,Shake Head,Montrer son désaccord
 PROPMOTION_TXT_000014,,
-PROPMOTION_TXT_000015,Run in place,Marcher au pas
+PROPMOTION_TXT_000015,Run in Place,Marcher au pas
 PROPMOTION_TXT_000016,,
 PROPMOTION_TXT_000017,Parade Rest,Être en attente
 PROPMOTION_TXT_000018,,
@@ -38,28 +38,28 @@ PROPMOTION_TXT_000035,Kneel,Se mettre à genoux
 PROPMOTION_TXT_000036,,
 PROPMOTION_TXT_000037,Push-Ups,Faire des pompes
 PROPMOTION_TXT_000038,,
-PROPMOTION_TXT_000039,Shake butt,Narguer quelqu'un
+PROPMOTION_TXT_000039,Shake Butt,Narguer quelqu'un
 PROPMOTION_TXT_000040,Pow!,Pow!
 PROPMOTION_TXT_000041,Punch,Donner des coups de poing
 PROPMOTION_TXT_000042,,
-PROPMOTION_TXT_000043,Put head on ground,Essayer de faire le poirier
+PROPMOTION_TXT_000043,Put Head to the Ground,Essayer de faire le poirier
 PROPMOTION_TXT_000044,,
-PROPMOTION_TXT_000045,Raise weapon,Saluer
+PROPMOTION_TXT_000045,Raise Weapon,Saluer
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,Utiliser un collecteur
 PROPMOTION_TXT_000048,,
 PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),Se téléporter à la ville la plus proche (durée de l'incantation : 5mn)
 PROPMOTION_TXT_000050,,
-PROPMOTION_TXT_000051,Cheer up another character,Encourager un autre joueur
+PROPMOTION_TXT_000051,Cheer Up Another Player,Encourager un autre joueur
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the selected target,Attaquer la cible choisie
+PROPMOTION_TXT_000053,Attack the Selected Target,Attaquer la cible choisie
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected character.,Vous demandez la personne ciblée en mariage.
+PROPMOTION_TXT_000055,You propose to the selected player.,Vous demandez la personne ciblée en mariage.
 PROPMOTION_TXT_000057,Toggle Weapons,Ranger/Sortir les armes
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,Utiliser la compétence de votre familier invoqué
-PROPMOTION_TXT_000059,Follow the selected target,Suivez la cible sélectionnée.
-PROPMOTION_TXT_000060,Swap your current stat page,Changer de page de statistiques active
-PROPMOTION_TXT_000061,Play dead,Faire le mort
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,Utiliser la compétence de votre familier invoqué
+PROPMOTION_TXT_000059,Follow the Selected Target,Suivez la cible sélectionnée.
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,Changer de page de statistiques active
+PROPMOTION_TXT_000061,Play Dead,Faire le mort
 PROPMOTION_TXT_000062,Propose,Proposition
 PROPMOTION_TXT_000063,High Five (Couple),Tape m’en cinq (Couple)
 PROPMOTION_TXT_000064,Hug (Couple),Câlin (Couple)
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,Provoquer
 PROPMOTION_TXT_000108,Surprised,Surpris
 PROPMOTION_TXT_000109,Look Around,Regarder autour
 PROPMOTION_TXT_000110,Arm Heart,Cœur avec les bras
-PROPMOTION_TXT_000111,Swap your current skill page,Changer la page de compétences actuelle
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Changer la page de compétences actuelle
 PROPMOTION_TXT_000112,Surrender,Abandonner
 PROPMOTION_TXT_000113,Begging,Supplier

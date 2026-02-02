@@ -1,4 +1,4 @@
-#cffff0000Willkommen beim Flyff Universe Glücksrad!#nc
+﻿#cffff0000Willkommen beim Flyff Universe Glücksrad!#nc
 
 Sammle genügend Event-Gegenstände, um dein Glück am Rad zu versuchen!  
 Du kannst fantastische Belohnungen gewinnen!

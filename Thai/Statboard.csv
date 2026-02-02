@@ -21,6 +21,11 @@ STATBOARD_TXT_000018,CC's applied,การใช้ CC
 STATBOARD_TXT_000019,Damage Amped,Damage Amped
 STATBOARD_TXT_000020,Damage Mitigated,Damage Mitigated
 STATBOARD_TXT_000021,Damage Reflected,การสะท้อน Damage
+STATBOARD_TXT_000022,,
+STATBOARD_TXT_000023,,
+STATBOARD_TXT_000024,,
+STATBOARD_TXT_000025,,
+STATBOARD_TXT_000026,,
 STATBOARD_TOOLTIP_000000,Total seconds a player was crowd-controlled.,จำนวนเวลา (วินาที) ที่ถูกสกิลประเภท crowd-controlled
 STATBOARD_TOOLTIP_000001,Total seconds a player applied crowd-control effect on other players.,จำนวนเวลา (วินาที) ที่ใช้สกิลประเภท crowd-controlled กับผู้เล่นอื่น
 STATBOARD_TOOLTIP_000002,"Total damage a player amplified through effects like Holycross, Swordcross, etc.","Damage ทั้งหมดที่ผู้เล่นได้รับน้อยลงผ่านเอฟเฟกต์ต่างๆ เช่น Holycross, Swordcross เป็นต้น"

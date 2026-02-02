@@ -507,7 +507,7 @@ PROPSKILL_TXT_FWC_202502,Madrigal's elites guide you!,Madrigal's elites guide yo
 PROPSKILL_TXT_FWC_202503,Bubble's Fortune,Bubble's Fortune
 PROPSKILL_TXT_FWC_202504,Madrigal's most fortunate guide you!,Madrigal's most fortunate guide you!
 PROPSKILL_TXT_150000,Harlequin's Greeting,谑影戏礼
-PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.","使用迅捷步法，瞬间传送至目标身后并发起疾速攻击。"
+PROPSKILL_TXT_150001,"Perform a quick step, teleporting behind your target with a swift attack.",使用迅捷步法，瞬间传送至目标身后并发起疾速攻击。
 PROPSKILL_TXT_150002,Shadow Attack,Shadow Attack
 PROPSKILL_TXT_150003,"Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced.","Teleport instantly to the rear of your target to deal damage. If you use the skill while invisible, the next auto attack within three seconds will be a critical hit, and the cooldown will be reduced."
 PROPSKILL_TXT_150004,Range Increase,Range Increase
@@ -517,17 +517,17 @@ PROPSKILL_TXT_150007,Increased Damage,Increased Damage
 PROPSKILL_TXT_150008,Reduced Charge Time,Reduced Charge Time
 PROPSKILL_TXT_150009,Reduced Cooldown,Reduced Cooldown
 PROPSKILL_TXT_150010,Alter Ego,双重自我
-PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.","进入隐身状态，并在原地生成一个分身。该分身将向随机方向移动，反弹所受伤害，并在消亡时爆炸。"
+PROPSKILL_TXT_150011,"Become invisible and spawn a clone at your position which runs in a random direction, reflects damage, and explodes upon death.",进入隐身状态，并在原地生成一个分身。该分身将向随机方向移动，反弹所受伤害，并在消亡时爆炸。
 PROPSKILL_TXT_150012,Maintain Ego,Maintain Ego
 PROPSKILL_TXT_150014,Special Yo-Yo Mastery,特殊飞轮精通
-PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.","使用后提升普通攻击伤害、多重打击概率及飞轮的攻击距离。"
+PROPSKILL_TXT_150015,"Increases auto attack damage, multistrike chance, and Yo-Yo range when used.",使用后提升普通攻击伤害、多重打击概率及飞轮的攻击距离。
 PROPSKILL_TXT_150016,Auto Attack,自动攻击
 PROPSKILL_TXT_150017,Range,攻击距离
 PROPSKILL_TXT_150018,Multistrike,多重打击
 PROPSKILL_TXT_150019,Critical Yo-Yo Mastery,Critical Yo-Yo Mastery
 PROPSKILL_TXT_150020,String Yo-Yo Mastery,String Yo-Yo Mastery
 PROPSKILL_TXT_150021,Critical Stab,致命刺杀
-PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.","暴击率降低，暴击伤害提高。"
+PROPSKILL_TXT_150022,"Your critical chance is lowered, but critical damage is increased.",暴击率降低，暴击伤害提高。
 PROPSKILL_TXT_150024,Increased Duration,Increased Duration
 PROPSKILL_TXT_150026,Shadow Strike,影袭
 PROPSKILL_TXT_150027,Attacking from behind while invisible deals additional damage.,隐身状态下从背后发动攻击，将造成额外伤害。
@@ -567,21 +567,21 @@ PROPSKILL_TXT_150065,You can ignore one instance of disable or weaken debuffs,Yo
 PROPSKILL_TXT_150066,Successfull Debuff,Successfull Debuff
 PROPSKILL_TXT_150067,Additional Shield,Additional Shield
 PROPSKILL_TXT_150069,Chimera's Curse,奇美拉的诅咒
-PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.","以奇美拉之灵诅咒目标，对其造成伤害并将其变异为独眼蝙蝠。变异期间目标无法攻击。该技能在完全蓄力后，成功概率将提升30%。"
+PROPSKILL_TXT_150070,"Use Chimera's spirit to curse your target, dealing damage and mutating them into an Aibatt. While mutated, they cannot attack. When fully charged, this skill has a 30% higher chance of success.",以奇美拉之灵诅咒目标，对其造成伤害并将其变异为独眼蝙蝠。变异期间目标无法攻击。该技能在完全蓄力后，成功概率将提升30%。
 PROPSKILL_TXT_150071,Full charge duration increase,Full charge duration increase
 PROPSKILL_TXT_150072,Full charge debuff increase,Full charge debuff increase
 PROPSKILL_TXT_150073,Malefic Detonation,灾厄迸发
-PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.","根据你施加的控制类减益效果数量，以此倍增其效果。"
+PROPSKILL_TXT_150074,"Track the number of Disable type debuffs you apply, multiplying the bonuses given.",根据你施加的控制类减益效果数量，以此倍增其效果。
 PROPSKILL_TXT_150075,Weaken at full charge,Weaken at full charge
 PROPSKILL_TXT_150076,Cooldown reduction,Cooldown reduction
 PROPSKILL_TXT_150077,Shield,护盾
 PROPSKILL_TXT_150078,Hexe's Lament,怨缚悲鸣
-PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.","对目标周围区域造成伤害，并有概率使被命中的敌人陷入诅咒状态，剥夺其发动暴击的能力。技能完全蓄力后，持续时间将延长，且攻击频率提高。"
+PROPSKILL_TXT_150079,"Deal damage in a region around your target, with a chance to Jinx enemies hit, removing their ability to critically hit. When fully charged, the skill duration is increased, and hits more frequently.",对目标周围区域造成伤害，并有概率使被命中的敌人陷入诅咒状态，剥夺其发动暴击的能力。技能完全蓄力后，持续时间将延长，且攻击频率提高。
 PROPSKILL_TXT_150080,Aoe Range,Aoe Range
 PROPSKILL_TXT_150081,Debuff increase,Debuff increase
 PROPSKILL_TXT_150082,Damage increase,Damage increase
 PROPSKILL_TXT_150083,Damnation Surge,咒术奔涌
-PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.","根据你施加的虚弱类减益效果数量，以此倍增其效果。"
+PROPSKILL_TXT_150084,"Track the number of Weaken type debuffs you apply, multiplying the bonuses given.",根据你施加的虚弱类减益效果数量，以此倍增其效果。
 PROPSKILL_TXT_150085,Sleep at full charge,Sleep at full charge
 PROPSKILL_TXT_150087,Shield,护盾
 PROPSKILL_TXT_150088,Enhanced Blinkpool,Enhanced Blinkpool
@@ -752,7 +752,7 @@ PROPSKILL_TXT_150166,Spin your yo-yos in place to continuously attack all nearby
 PROPSKILL_TXT_150167,Extended Range,Extended Range
 PROPSKILL_TXT_150169,CC Attack,CC Attack
 PROPSKILL_TXT_150170,Toxic Cloud,毒雾
-PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.","向目标区域投掷毒瓶，生成一片毒雾，对范围内敌人造成伤害并有概率使其中毒。"
+PROPSKILL_TXT_150171,"Throw a vial of toxins at an area, creating a mist of poison which inflicts damage and has a chance to poison targets nearby.",向目标区域投掷毒瓶，生成一片毒雾，对范围内敌人造成伤害并有概率使其中毒。
 PROPSKILL_TXT_150172,Extended Range,Extended Range
 PROPSKILL_TXT_150174,Gas Cloud,Gas Cloud
 PROPSKILL_TXT_150175,Bloody Rush,Bloody Rush
@@ -802,27 +802,27 @@ PROPSKILL_TXT_150221,Stun Resistance,Stun Resistance
 PROPSKILL_TXT_150222,DoT Resistance,DoT Resistance
 PROPSKILL_TXT_150223,Area Increase,Area Increase
 PROPSKILL_TXT_150224,Soul of Rhisis,莱斯神之魂
-PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提供伤害减免。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150225,"Chant a hymn which provides nearby allies and yourself with damage reduction. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提供伤害减免。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150226,Effect Increase,Effect Increase
 PROPSKILL_TXT_150228,Duration Increase,Duration Increase
 PROPSKILL_TXT_150229,Celestial Barrier,天界屏障
-PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提供元素抗性。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150230,"Chant a hymn which provides nearby allies and yourself with elemental resistance. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提供元素抗性。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150234,Heaven's Step,天界步履
-PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提升闪避与格挡能力。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150235,"Chant a hymn which provides nearby allies and yourself with increased evasion and blocking power. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提升闪避与格挡能力。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150239,Gloria Patri,荣耀颂祷
-PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，周期性地为周围友方及自身恢复生命。吟唱期间使用其他技能将中断吟唱。圣歌的治疗效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150240,"Chant a hymn which heals nearby allies and yourself periodically. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，周期性地为周围友方及自身恢复生命。吟唱期间使用其他技能将中断吟唱。圣歌的治疗效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150244,Kyrie Eleison,怜恤祷言
-PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.","吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。"
+PROPSKILL_TXT_150245,"Chant a hymn which provides nearby allies and yourself with increased vital regeneration powers. While chanting, using other skills will cancel chanting. The effect of the hymn increases as you keep chanting.",吟唱圣歌，为周围友方及自身提升生命恢复效能。吟唱期间使用其他技能将中断吟唱。圣歌的效果随持续吟唱时间逐步增强。
 PROPSKILL_TXT_150249,Flow of Salvation,神佑流转
-PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.","向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。"
+PROPSKILL_TXT_150250,"Breath the flow of salvation into your target, healing them and flowing to nearby targets if they are allies, or dealing damage otherwise.",向目标释放救赎气息，对其进行治疗；若目标为友方，治疗效果将流转至附近其他友方目标；若目标为敌方，则转为造成伤害。
 PROPSKILL_TXT_150251,Increased Healing,Increased Healing
 PROPSKILL_TXT_150253,Increased Chain,Increased Chain
 PROPSKILL_TXT_150254,Hymn - Damage Reduction,圣歌 - 伤害减免
-PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.","吟唱圣歌期间，自身获得额外伤害减免效果。"
+PROPSKILL_TXT_150255,"While a hymn is being chanted, gain extra damage reduction for yourself.",吟唱圣歌期间，自身获得额外伤害减免效果。
 PROPSKILL_TXT_150256,Hymn - Perfect Performance,圣歌 - 完美演绎
 PROPSKILL_TXT_150257,Hymns that are chanted to completion will have their cooldowns reduced.,完成吟唱的圣歌，其冷却时间将缩短。
 PROPSKILL_TXT_150258,Hymn - Quick Step,圣歌 - 迅步
-PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.","吟唱圣歌期间，移动速度提升。"
+PROPSKILL_TXT_150259,"While a hymn is being chanted, walking speed is increased.",吟唱圣歌期间，移动速度提升。
 PROPSKILL_TXT_150260,Hymn - Liberation,圣歌 - 解放
 PROPSKILL_TXT_150261,Allow other hymn skills to be chanted at the same time.,允许同时吟唱其他圣歌类技能。
 PROPSKILL_TXT_150262,Nen Overflow,Nen Overflow

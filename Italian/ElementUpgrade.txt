@@ -1,4 +1,4 @@
-#bPotenziamenti Elementali#nb
+﻿#bPotenziamenti Elementali#nb
 
 Infondere un oggetto con un elemento ne potenzia le capacità contro i nemici di tipo elementale più debole e ne riduce le abilità contro i nemici di tipo elementale più forte. #cffff0000L'uso di una pergamena protettiva garantisce che il tuo oggetto non possa essere distrutto durante il processo.
 Le pergamene S-Protezione basse ridurranno il livello di potenziamento in caso di fallimento.#nc

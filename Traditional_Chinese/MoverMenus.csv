@@ -25,18 +25,18 @@ MMI_25,Mailbox,郵件
 MMI_26,Apply,套用
 MMI_27,Status,狀態
 MMI_28,Cancel,取消
-MMI_29,Join,加入
+MMI_29,Enter,加入
 MMI_30,Ranking,排名
 MMI_31,Cheer,鼓勵
 MMI_32,Remove piercing card,移除屬性卡
-MMI_33,Entry,組織參加者
-MMI_34,Receipt prize money and application money,領取獎金和申請費用
-MMI_35,The information of prize money,獎金情報
-MMI_36,Acceptance of prize money for MVP,MVP賞金
-MMI_37,Information to Participate,參加資格
-MMI_38,Basic Rule,基本規則
-MMI_39,Condition to Win,勝利條件
-MMI_40,The information of a commission,委託情報
+MMI_33,Lineup Setup,組織參加者
+MMI_34,Claim Guild Penya,領取獎金和申請費用
+MMI_35,Reward Information,獎金情報
+MMI_36,Claim MVP Penya Reward,MVP賞金
+MMI_37,Participation Information,參加資格
+MMI_38,Basic Rules,基本規則
+MMI_39,Winning Conditions,勝利條件
+MMI_40,Application Fee Information,委託情報
 MMI_41,The refund of application fee,退還申請費用
 MMI_42,Cosmetic Upgrades,變化臉部造型
 MMI_44,Rock-Paper-Scissors,剪刀-石頭-布
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,裝扮用衣櫥
 MMI_1018,Lv80 GS Apply,Lv80公會戰申請
 MMI_1019,Lv80 GS Status,Lv80公會戰戰況
 MMI_1020,Lv80 GS Cancel,Lv80公會戰取消
-MMI_1021,Lv80 GS Join,加入Lv80公會戰
-MMI_1022,Lv80 GS Line Up,Lv80公會戰陣容
+MMI_1021,Lv80 GS Enter,加入Lv80公會戰
+MMI_1022,Lv80 GS Lineup Setup,Lv80公會戰陣容
 MMI_1023,Lv80 GS Ranking,Lv80公會戰排名
 MMI_1024,Lv80 GS Information,Lv80公會戰資訊
 MMI_1025,Lv60 GS Apply,Lv60公會戰申請
 MMI_1026,Lv60 GS Status,Lv60公會戰戰況
 MMI_1027,Lv60 GS Cancel,Lv60公會戰取消
-MMI_1028,Lv60 GS Join,加入Lv60公會戰
-MMI_1029,Lv60 GS Line Up,Lv60公會戰陣容
+MMI_1028,Lv60 GS Enter,加入Lv60公會戰
+MMI_1029,Lv60 GS Lineup Setup,Lv60公會戰陣容
 MMI_1030,Lv60 GS Ranking,Lv60公會戰排名
 MMI_1031,Lv60 GS Information,Lv60公會戰資訊
 MMI_1032,Blue Chip Shop,藍籌碼商店

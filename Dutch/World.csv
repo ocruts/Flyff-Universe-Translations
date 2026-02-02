@@ -45,9 +45,9 @@ WORLD_WDGUILDWAR_VOLCANO_RGN_000000,Prove yourself!\nShow them that you are the 
 WDKEBARAS_WLD_000000,Lodelight,Lodelight
 WDKEBARAS_WLD_000001,This is a safe place.,Dit is een veilige plek.
 WORLD_WDKEBARAS_WDKEBARAS_RGN_000000,Kebaras,Kebaras
-WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,Welcome to the town Kebaras!\nThis place was a prison for criminals a long time ago...,Welcome to the town Kebaras!\nThis place was a prison for criminals a long time ago...
+WORLD_WDKEBARAS_WDKEBARAS_RGN_000001,"Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals...","Welcome to the town of Kebaras!\nLong ago, this place served as a prison for criminals..."
 WDMADRIGAL_WLD_000000,Mysterious Castle,Mysterious Castle
-WDMADRIGAL_WLD_000001,This place is not referenced on the map. No one knows how to enter inside...,Deze plaats wordt niet op de kaart vermeld. Niemand weet hoe je naar binnen moet...
+WDMADRIGAL_WLD_000001,This place is not marked on the map. No one knows how to enter it...,Deze plaats wordt niet op de kaart vermeld. Niemand weet hoe je naar binnen moet...
 WDMADRIGAL_WLD_000002,Refuge of Middle Leren Mountains,Refuge of Middle Leren Mountains
 WDMADRIGAL_WLD_000003,Line Flarine ↔ Saint City,Line Flarine ↔ Saint City
 WDMADRIGAL_WLD_000004,Line Flarine ↔ Darkon 1,Lijn Flarine ↔ Darkon 1
@@ -60,14 +60,14 @@ WDMADRIGAL_WLD_000010,Line Arians ↔ Guardiane,Lijn Arians ↔ Guardiane
 WDMADRIGAL_WLD_000011,Line Arians ↔ Deadwallderness,Line Arians ↔ Dode woestenij
 WDMADRIGAL_WLD_000012,Azria\nAbandoned Erons Factory,Azria\nVerlaten Erons Fabriek
 WDMADRIGAL_WLD_000013,Azria\nVillage,Azria\nDorp
-WDMADRIGAL_WLD_000014,Line Deadwalderness ↔ Azria,Line Deadwalderness ↔ Azria
+WDMADRIGAL_WLD_000014,Line Deadwallderness ↔ Azria,Line Deadwallderness ↔ Azria
 WDMADRIGAL_WLD_000015,Storm Peak Entrance,Storm Peak Entrance
 WDMADRIGAL_WLD_000017,Envy Depths Entrance,Envy Depths Entrance
 WDMADRIGAL_WLD_000019,Guardiane Sanctuary Entrance,Guardiane Sanctuary Entrance
 WDMADRIGAL_WLD_000021,Leren Chasm Entrance,Leren Chasm Entrance
 WDMADRIGAL_WLD_000022,Wilds Entrance,Wilds Entrance
 WDMADRIGAL_WLD_000023,Rhisis Catacombs,Rhisis Catacombs
-WDMADRIGAL_WLD_000024,This is a safe space.,This is a safe space.
+WDMADRIGAL_WLD_000024,This is a safe place.,This is a safe place.
 WDMADRIGAL_WLD_000025,The Wilds Entrance,The Wilds Entrance
 WDMADRIGAL_WLD_000026,Coral Village,Coral Village
 WDMADRIGAL_WLD_000028,Coral Island,Coral Island
@@ -76,20 +76,20 @@ WDMADRIGAL_WLD_000030,Red Sea,Red Sea
 WDMADRIGAL_WLD_000032,Deep Sea,Deep Sea
 WDMADRIGAL_WLD_000034,Swamp,Swamp
 WDMADRIGAL_WLD_000035,Saint City Arena,Saint City Arena
-WDMADRIGAL_WLD_000036,This place used to be famous a long time ago...,This place used to be famous a long time ago...
+WDMADRIGAL_WLD_000036,This place was famous long ago...,This place was famous long ago...
 WDMADRIGAL_WLD_000037,Kaillun,Kaillun
 WDMADRIGAL_WLD_000038,Welcome to Kaillun!,Welcome to Kaillun!
 WDMADRIGAL_WLD_000039,Orbalune Port,Orbalune Port
-WDMADRIGAL_WLD_000040,This is a safe space.,This is a safe space.
+WDMADRIGAL_WLD_000040,This is a safe place.,This is a safe place.
 WDMADRIGAL_WLD_000041,Kaillun Grassland,Kaillun Grassland
 WDMADRIGAL_WLD_000042,Dreknir Ridge,Dreknir Ridge
 WDMADRIGAL_WLD_000043,Lionrath Falls,Lionrath Falls
 WDMADRIGAL_WLD_000044,Velora Cliffs,Velora Cliffs
 WDMADRIGAL_WLD_000045,Dreknir Forest,Dreknir Forest
 WDMADRIGAL_WLD_000046,Ankou's Asylum Entrance,Ankou's Asylum Entrance
-WDMADRIGAL_WLD_000047,This is a safe space.,This is a safe space.
+WDMADRIGAL_WLD_000047,This is a safe place.,This is a safe place.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000000,Darkon 1\nErons Factory 2,Darkon 1\nErons Fabriek 2
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used for producing Erons.,Erons Fabriek 2. Wordt gebruikt voor het produceren van Erons.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000001,Erons Factory 2. Used to produce Erons.,Erons Fabriek 2. Wordt gebruikt voor het produceren van Erons.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000002,The Middle of Leren Mountains,The Middle of Leren Mountains
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000003,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.,The middle district of Leren Mountains in Flaris.\nThere is Billeting Place of the High-Dwarpets and the Plain of Bubble.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000004,Flarine\nCentral Flarine,Flarine\nCentraal Flarine
@@ -103,12 +103,12 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000011,Plain of Bubble,Plain of Bubble
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000012,This area was created by the Clown God Bubble.,This area was created by the Clown God Bubble.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000013,The South of Leren Mountains,The South of Leren Mountains
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000014,The southern district of the Leren Mountains.,The southern district of the Leren Mountains.
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat..,The Center for Guild Combat..
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000015,The Center for Guild Combat,The Center for Guild Combat
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000016,Guild combat is managed here.,Guild combat is managed here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000017,The South of Leren Mountains\nAltar of Dreadpet,The South of Leren Mountains\nAltar of Dreadpet
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000018,Dreadpet is kept here.\nHis keepers control great magic.,Dreadpet is kept here.\nHis keepers control great magic.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000019,Darkon 1\nErons Factory 1,Darkon 1\nErons Factory 1
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The 1st Erons Factory.\nThis factory produces 80% of all Erons.,The 1st Erons Factory.\nThis factory produces 80% of all Erons.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000020,The First Erons Factory.\nThis factory produces 80% of all Erons.,The First Erons Factory.\nThis factory produces 80% of all Erons.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000021,Darkon\nAltar of Violet,Darkon\nAltar of Violet
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000022,There is evidence here of a major event.,There is evidence here of a major event.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000023,The Middle of Leren Mountains,The Middle of Leren Mountains
@@ -122,7 +122,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000030,The bridge was repaired!\n You used to ha
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000031,Lodelight,Lodelight
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000032,This is a safe place.,Dit is een veilige plek.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000033,Madren Town,Madren Town
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast off Demian live in this town.,This is a small town for Demian.\nCast off Demian live in this town.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000034,This is a small town for Demian.\nCast-off Demian live here.,This is a small town for Demian.\nCast-off Demian live here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000035,Middle of River of Weeping,Middle of River of Weeping
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000036,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.,This river overflows when it rains every once in a while.\nHigh-Dwarpet can sometimes be seen bathing here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000037,Madren Town\nAltar of Dreadpet,Madren Town\nAltar of Dreadpet
@@ -130,10 +130,10 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000038,Another place for controlling the Dreadpe
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000039,Fountain of Dead Person,Fountain of Dead Person
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000040,"It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life.","It is known that souls gather together in this place.\nAccording to tradition, the water in this place gives perennial youth and long life."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000041,Northern Leren Mountains,Northern Leren Mountains
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and Fountain of Dead Person is here.,The northern district of the Leren Mountains.\nThe Mars Mine and Fountain of Dead Person is here.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000042,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.,The northern district of the Leren Mountains.\nThe Mars Mine and the Fountain of Dead Person are here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000043,Mars Mine,Mars Mine
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000044,"This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now.","This Mine was found and developed by mining merchants long ago.\n However, the place is overrun with Masquerpets now."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence in Ludviehill,The residence in Ludviehill
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000045,The residence of Ludviehill,The residence of Ludviehill
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000046,The rich of Flaris live in Ludviehill.,The rich of Flaris live in Ludviehill.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000049,Saint Tree,Saint Tree
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000050,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.,Saint Tree is really old\n This tree is one of the symbols of Saint Morning.
@@ -151,7 +151,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000061,Saint Morning has gained independence fro
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000062,Saint Morning\nStation,Saint Morning\nStation
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000063,This is the biggest station on Madrigal.\nSaint Morning could become the center of commerce for Madrigal by using this station.,This is the biggest station on Madrigal.\nSaint Morning could become the center of commerce for Madrigal by using this station.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000064,Saint Morning square,Saint Morning square
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is local hang out.\nThere is lots of space to open stores.,Saint Morning square is local hang out.\nThere is lots of space to open stores.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000065,Saint Morning square is a local hang out.\nThere is lots of space to open stores.,Saint Morning square is a local hang out.\nThere is lots of space to open stores.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000066,Saint Morning\nThe Madrigal History Society.,Saint Morning\nThe Madrigal History Society.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000067,Research in the History of Madrigal is being made here.,Research in the History of Madrigal is being made here.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000068,Flaris\nAltar of Violet,Flaris\nAltar of Violet
@@ -169,7 +169,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000079,Plateau of Silence\nGravity Disorder Area
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000080,"It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world.","It is impossible to fly in this area of Madrigal. According to a research group, gravity is stronger here than anywhere else in the world."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000081,Hill of Shade,Hill of Shade
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000082,"Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye.","Shade, the Clown Goddess was here.\nShe created this place in the time it takes to blink an eye."
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe area. You are safe from enemies.,This is a safe area. You are safe from enemies.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000083,This is a safe place.,This is a safe place.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000084,Pumpkin Town\nThe Home of Mr. Pumpkin.,Pumpkin Town\nThe Home of Mr. Pumpkin.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000085,"This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins.","This town was made by people who dislike the city life of Saint Morning.\nHowever, this town was ruined because of an invasion of Mr. Pumpkins."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000086,Central Hillid Mountains,Central Hillid Mountains
@@ -229,15 +229,15 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000139,Artificial cave.\nThe area surrounding Da
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000140,Darkon 2\nCave of Envy,Darkon 2\nCave of Envy
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000141,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000142,Darkon 2\nCave of Envy,Darkon 2\nCave of Envy
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks war.,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks war.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000143,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.,Artificial cave.\nThe area surrounding Darken became infested with Masquerpets\nafter the Clockworks War.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000144,Darkon 1\nKhipra,Darkon 1\nKhipra
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000145,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000146,Darkon 1\nGouthan Mountains,Darkon 1\nGouthan Mountains
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000147,The biggest mountains in Darkon.,The biggest mountains in Darkon.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000148,Darkon 1\nGouthan Mountains,Darkon 1\nGouthan Mountains
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000149,The biggest mountains in Darkon.,The biggest mountains in Darkon.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000150,Darkon 1\nKhipra,Darkon 1\nKhipra
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.,The wildlife around this area was destroyed by developers\nbuilding the Erons Factory nearby.
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000151,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.,The wildlife around this area was destroyed during\nthe construction of the nearby Erons Factory.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000152,Darkon 2\nThe Cage of Clockworks.,Darkon 2\nThe Cage of Clockworks.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000153,Clockworks was sealed here after the Clockworks War.,Clockworks was sealed here after the Clockworks War.
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000154,Flaris Observatory,Flaris Observatory
@@ -248,7 +248,7 @@ WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000158,Darkon 1\nHideout of Hanoyan,Darkon 1\nHi
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000159,Altar of Jester,Altar of Jester
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000160,Darkon 3\nVillage of Kan,Darkon 3\nVillage of Kan
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000161,Herneos,Herneos
-WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions.","Herneos was a beautiful underwater haven with magnificient architecture.\n However, shade's hand caused disruptions."
+WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000162,"Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption.","Herneos was a beautiful underwater haven with magnificent architecture.\n However, Shade's hand caused great disruption."
 WORLD_WDMADRIGAL_WDMADRIGAL_RGN_000163,Eillun,Eillun
 PROTOTYPE_WLD_000000,Prototype,Prototype
 WDPROTOTYPE_WLD_000000,Unknown Place in Madrigal,Unknown Place in Madrigal

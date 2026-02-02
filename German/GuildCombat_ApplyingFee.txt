@@ -1,4 +1,4 @@
-#b#cff0000ff* Anmeldegebühr#nb#nc
+﻿#b#cff0000ff* Anmeldegebühr#nb#nc
 - Stornierung: 20 % der Anmeldegebühr wird abgezogen.  
 - Scheitern: 2 % der Anmeldegebühr wird abgezogen.  
 * Bitte beachten: Die 10 Gilden, die erfolgreich am Gilden-Kampf teilnehmen, erhalten die Anmeldegebühr nicht zurück.

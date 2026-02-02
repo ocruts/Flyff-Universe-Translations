@@ -1,4 +1,4 @@
-#cff0000ffInscription#nc
+﻿#cff0000ffInscription#nc
 Heure du match d’Assaut Kalgas : Tous les %s %s ~ %s (Max. %d min)
 Limite de niveau : %d
 Période d’inscription : Tous les %s %s ~ %s %s

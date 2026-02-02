@@ -1,4 +1,4 @@
-#cff0000ffRegistrierung#nc
+﻿#cff0000ffRegistrierung#nc
 Kalgas-Angriff Matchzeit: Jeden %s %s ~ %s (max. %d Min.)  
 Levelbegrenzung: %d  
 Registrierungszeit: Jeden %s %s ~ %s %s  

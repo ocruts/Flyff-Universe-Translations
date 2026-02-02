@@ -25,18 +25,18 @@ MMI_25,Mailbox,ファン･ポスト
 MMI_26,Apply,適用
 MMI_27,Status,申請状況
 MMI_28,Cancel,キャンセル
-MMI_29,Join,参加
+MMI_29,Enter,参加
 MMI_30,Ranking,ランキング
 MMI_31,Cheer,応援
 MMI_32,Remove piercing card,ソケット効果の削除
-MMI_33,Entry,エントリー
-MMI_34,Receipt prize money and application money,賞金・申請金の受け取り
-MMI_35,The information of prize money,賞金情報
-MMI_36,Acceptance of prize money for MVP,MVP褒賞金の受取り
-MMI_37,Information to Participate,参加案内
-MMI_38,Basic Rule,レギュレーション
-MMI_39,Condition to Win,勝利条件
-MMI_40,The information of a commission,手数料の情報
+MMI_33,Lineup Setup,エントリー
+MMI_34,Claim Guild Penya,賞金・申請金の受け取り
+MMI_35,Reward Information,賞金情報
+MMI_36,Claim MVP Penya Reward,MVP褒賞金の受取り
+MMI_37,Participation Information,参加案内
+MMI_38,Basic Rules,レギュレーション
+MMI_39,Winning Conditions,勝利条件
+MMI_40,Application Fee Information,手数料の情報
 MMI_41,The refund of application fee,申請料の返金
 MMI_42,Cosmetic Upgrades,メイクショップ
 MMI_44,Rock-Paper-Scissors,じゃんけん
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,コスメティックワードローブ
 MMI_1018,Lv80 GS Apply,Lv80 GS適用
 MMI_1019,Lv80 GS Status,Lv80 GSステータス
 MMI_1020,Lv80 GS Cancel,Lv80 GSキャンセル
-MMI_1021,Lv80 GS Join,Lv80 GSジョイン
-MMI_1022,Lv80 GS Line Up,Lv80 GSラインナップ
+MMI_1021,Lv80 GS Enter,Lv80 GSジョイン
+MMI_1022,Lv80 GS Lineup Setup,Lv80 GSラインナップ
 MMI_1023,Lv80 GS Ranking,Lv80GSランキング
 MMI_1024,Lv80 GS Information,Lv80GS情報
 MMI_1025,Lv60 GS Apply,Lv60GS適用
 MMI_1026,Lv60 GS Status,Lv60 GSステータス
 MMI_1027,Lv60 GS Cancel,Lv60 GSキャンセル
-MMI_1028,Lv60 GS Join,Lv60 GS ジョイン
-MMI_1029,Lv60 GS Line Up,Lv60 GSラインナップ
+MMI_1028,Lv60 GS Enter,Lv60 GS ジョイン
+MMI_1029,Lv60 GS Lineup Setup,Lv60 GSラインナップ
 MMI_1030,Lv60 GS Ranking,Lv60GSランキング
 MMI_1031,Lv60 GS Information,Lv60GS情報
 MMI_1032,Blue Chip Shop,ブルーチップショップ

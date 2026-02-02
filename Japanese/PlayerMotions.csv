@@ -4,7 +4,7 @@ PROPMOTION_TXT_000001,Combat Stance,戦闘姿勢の開始/解除
 PROPMOTION_TXT_000002,,
 PROPMOTION_TXT_000003,Sit Down,座り/立ち
 PROPMOTION_TXT_000004,,
-PROPMOTION_TXT_000005,Pickup Nearby Item,物を拾う
+PROPMOTION_TXT_000005,Pick Up Nearby Item,物を拾う
 PROPMOTION_TXT_000006,,
 PROPMOTION_TXT_000007,Shake Hands,握手のフリをする
 PROPMOTION_TXT_000008,,
@@ -14,7 +14,7 @@ PROPMOTION_TXT_000011,Nod Head,うなずく（肯定的表現）
 PROPMOTION_TXT_000012,,
 PROPMOTION_TXT_000013,Shake Head,手を振る（否定的表現）
 PROPMOTION_TXT_000014,,
-PROPMOTION_TXT_000015,Run in place,走るフリをする
+PROPMOTION_TXT_000015,Run in Place,走るフリをする
 PROPMOTION_TXT_000016,,
 PROPMOTION_TXT_000017,Parade Rest,休め
 PROPMOTION_TXT_000018,,
@@ -38,28 +38,28 @@ PROPMOTION_TXT_000035,Kneel,片ひざをつきます
 PROPMOTION_TXT_000036,,
 PROPMOTION_TXT_000037,Push-Ups,腕立て伏せをします
 PROPMOTION_TXT_000038,,
-PROPMOTION_TXT_000039,Shake butt,からかいます
+PROPMOTION_TXT_000039,Shake Butt,からかいます
 PROPMOTION_TXT_000040,Pow!,えいっ！
 PROPMOTION_TXT_000041,Punch,気合を入れます
 PROPMOTION_TXT_000042,,
-PROPMOTION_TXT_000043,Put head on ground,頭を地につけて伏せます
+PROPMOTION_TXT_000043,Put Head to the Ground,頭を地につけて伏せます
 PROPMOTION_TXT_000044,,
-PROPMOTION_TXT_000045,Raise weapon,武器を掲げます
+PROPMOTION_TXT_000045,Raise Weapon,武器を掲げます
 PROPMOTION_TXT_000046,,
 PROPMOTION_TXT_000047,Collect Supplement,資源を採集します
 PROPMOTION_TXT_000048,,
 PROPMOTION_TXT_000049,Nearest Town Teleport (5 min. casting time),一番近い町に移動します（5分後に移動します。使用回数に制限はありません。）
 PROPMOTION_TXT_000050,,
-PROPMOTION_TXT_000051,Cheer up another character,他ユーザを応援します
+PROPMOTION_TXT_000051,Cheer Up Another Player,他ユーザを応援します
 PROPMOTION_TXT_000052,,
-PROPMOTION_TXT_000053,Attack the selected target,選択されたターゲットを攻撃します。
+PROPMOTION_TXT_000053,Attack the Selected Target,選択されたターゲットを攻撃します。
 PROPMOTION_TXT_000054,,
-PROPMOTION_TXT_000055,You propose to the selected character.,選択した相手に告白します。
+PROPMOTION_TXT_000055,You propose to the selected player.,選択した相手に告白します。
 PROPMOTION_TXT_000057,Toggle Weapons,武器の切り替え
-PROPMOTION_TXT_000058,Activate your summoned pet's grace,召喚中のペットスキルを使用します
-PROPMOTION_TXT_000059,Follow the selected target,選択したターゲットを追跡する
-PROPMOTION_TXT_000060,Swap your current stat page,現在のステータスページの切り替え
-PROPMOTION_TXT_000061,Play dead,死んだふりをする
+PROPMOTION_TXT_000058,Activate Your Summoned Pet's Grace,召喚中のペットスキルを使用します
+PROPMOTION_TXT_000059,Follow the Selected Target,選択したターゲットを追跡する
+PROPMOTION_TXT_000060,Switch Your Current Stat Page,現在のステータスページの切り替え
+PROPMOTION_TXT_000061,Play Dead,死んだふりをする
 PROPMOTION_TXT_000062,Propose,Propose
 PROPMOTION_TXT_000063,High Five (Couple),High Five (Couple)
 PROPMOTION_TXT_000064,Hug (Couple),Hug (Couple)
@@ -100,6 +100,6 @@ PROPMOTION_TXT_000107,Provoke,Provoke
 PROPMOTION_TXT_000108,Surprised,Surprised
 PROPMOTION_TXT_000109,Look Around,Look Around
 PROPMOTION_TXT_000110,Arm Heart,Arm Heart
-PROPMOTION_TXT_000111,Swap your current skill page,Swap your current skill page
+PROPMOTION_TXT_000111,Switch Your Current Skill Page,Switch Your Current Skill Page
 PROPMOTION_TXT_000112,Surrender,Surrender
 PROPMOTION_TXT_000113,Begging,Begging

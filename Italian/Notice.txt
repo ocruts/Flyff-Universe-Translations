@@ -1,11 +1,11 @@
-﻿#cffff0000Welcome in the fabulous world of Flyff!#nc
+﻿#cffff0000 Welcome to the fabulous world of Flyff! #nc
 
-Madrigal's continent has known many conflicts…
-but is from now on seeking harmony, mutual support and peace.
+The continent of Madrigal has known many conflicts...
+But now, it seeks harmony, mutual support, and peace.
 
-As would have wished Rhisis,
-respect and help other citizens of Madrigal.
+As Rhisis would wish,
+respect and help your fellow citizens of Madrigal.
 
 Enjoy the adventure!
 
-#cffff0000Discover the project on $WEBSITE$!#nc
+#cffff0000 Discover the project at $WEBSITE$! #nc

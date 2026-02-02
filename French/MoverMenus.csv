@@ -25,18 +25,18 @@ MMI_25,Mailbox,Boîte aux lettres
 MMI_26,Apply,Appliquer
 MMI_27,Status,Statut
 MMI_28,Cancel,Annuler
-MMI_29,Join,Rejoindre
+MMI_29,Enter,Rejoindre
 MMI_30,Ranking,Classement
 MMI_31,Cheer,Acclamation
 MMI_32,Remove piercing card,Retirer une carte de piercing
-MMI_33,Entry,Composer l'équipe
-MMI_34,Receipt prize money and application money,Réception de argent et de la demande
-MMI_35,The information of prize money,Informations sur les récompenses
-MMI_36,Acceptance of prize money for MVP,Récompense pour le meilleur joueur (MVP)
-MMI_37,Information to Participate,Conditions de participation
-MMI_38,Basic Rule,Règlement
-MMI_39,Condition to Win,Condition de victoire
-MMI_40,The information of a commission,Information de la commission
+MMI_33,Lineup Setup,Composer l'équipe
+MMI_34,Claim Guild Penya,Réception de argent et de la demande
+MMI_35,Reward Information,Informations sur les récompenses
+MMI_36,Claim MVP Penya Reward,Récompense pour le meilleur joueur (MVP)
+MMI_37,Participation Information,Conditions de participation
+MMI_38,Basic Rules,Règlement
+MMI_39,Winning Conditions,Condition de victoire
+MMI_40,Application Fee Information,Information de la commission
 MMI_41,The refund of application fee,Le remboursement des frais de dossier
 MMI_42,Cosmetic Upgrades,Amélioration cosmétique
 MMI_44,Rock-Paper-Scissors,Jeu du Flyffoumi
@@ -84,15 +84,15 @@ MMI_1017,Cosmetic Wardrobe,Penderie Cosmétique
 MMI_1018,Lv80 GS Apply,Appliquer GdG niv. 80
 MMI_1019,Lv80 GS Status,Statut GdG niv. 80
 MMI_1020,Lv80 GS Cancel,Annuler GdG niv. 80
-MMI_1021,Lv80 GS Join,Rejoindre GdG niv. 80
-MMI_1022,Lv80 GS Line Up,Compo. GdG niv. 80
+MMI_1021,Lv80 GS Enter,Rejoindre GdG niv. 80
+MMI_1022,Lv80 GS Lineup Setup,Compo. GdG niv. 80
 MMI_1023,Lv80 GS Ranking,Classement GdG niv. 80
 MMI_1024,Lv80 GS Information,Information GdG niv. 80
 MMI_1025,Lv60 GS Apply,Appliquer GdG niv. 60
 MMI_1026,Lv60 GS Status,Statut GdG niv. 60
 MMI_1027,Lv60 GS Cancel,Annuler GdG niv. 60
-MMI_1028,Lv60 GS Join,Rejoindre GdG niv. 60
-MMI_1029,Lv60 GS Line Up,Compo. GdG niv. 60
+MMI_1028,Lv60 GS Enter,Rejoindre GdG niv. 60
+MMI_1029,Lv60 GS Lineup Setup,Compo. GdG niv. 60
 MMI_1030,Lv60 GS Ranking,Classement GdG niv. 60
 MMI_1031,Lv60 GS Information,Information GdG niv. 60
 MMI_1032,Blue Chip Shop,Boutique de Jetons Bleus

@@ -1,7 +1,7 @@
-﻿Welcome, adventurers! #bStory mode#nb dungeons have monsters with reduced attack, health, and experience compared to the normal version of a dungeon.
+﻿Welcome, adventurers! #bStory Mode#nb dungeons feature monsters with reduced attack, health, and experience compared to the normal dungeon difficulty.
 
-Players may use Story mode difficulty to complete quests with friends, or enjoy a casual stroll through the scenario in a #blow risk#nb environment. Enjoy!
+Story Mode is ideal for completing quests with friends or enjoying a relaxed walkthrough of the scenario in a #blow-risk#nb environment. Enjoy!
 
-- Masquerpets in Story mode dungeons do not drop items
-- Pet cages and treasure chests do not spawn in Story mode
-- Players do not earn achievement credit in Story mode
+- Masquerpets in Story Mode dungeons do not drop items.
+- Pet cages and treasure chests do not spawn in Story Mode.
+- Players do not earn achievement progress in Story Mode.

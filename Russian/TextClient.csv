@@ -133,7 +133,7 @@ TEXTCLIENT_APP_FAQ,FAQ,ЧаВо
 TEXTCLIENT_APP_FITTINGROOM,Fitting Room,Fitting Room
 TEXTCLIENT_APP_HELP_WIKI,Wiki Help,Энциклопедия
 TEXTCLIENT_APP_INFO_PANG,Info-Pang,Пингвид
-TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a Party in the Guild Siege arena.,Вы не можете создать труппу на арене поединка гильдий.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_PARTY,You cannot make a party in the Guild Siege arena.,Вы не можете создать труппу на арене поединка гильдий.
 TEXTCLIENT_PPVP_ADD_PARTY,You cannot invite another character to join the party during party PvP.,Нельзя приглашать в труппу новых игроков во время группового поединка.
 TEXTCLIENT_DUEL_ADD_PARTY,You cannot join the party during duel.,"Вы не можете вступить в труппу, пока не завершите поединок."
 TEXTCLIENT_DUEL_ADD_GUILD,You cannot join the guild during duel.,"Вы не можете вступить в гильдию, пока не завершите поединок."
@@ -398,7 +398,7 @@ TEXTCLIENT_FLIGHTDROP,You cannot drop items while flying.,В полете выб
 TEXTCLIENT_TRADELIMITITEM,You cannot drop items while trading.,"Вы слишком заняты покупками, чтобы выбросить предмет."
 TEXTCLIENT_FALLING_RIDENOTUSE,Only wings can save you when you fall,Только крылья спасут тебя от падения.
 TEXTCLIENT_INVALIDSHOPNAME,This shop name is not allowed.,Данное имя лавки запрещено.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade during event.,Вы не можете торговать в данный момент.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_TRADE,You cannot trade in the Guild Siege arena.,Вы не можете торговать в данный момент.
 TEXTCLIENT_FAIL_TO_OPEN_SHOP,Private Shops are unavailable in this area.,Здесь нельзя открыть частную лавочку.
 TEXTCLIENT_NPC_RADIUS,You cannot open a Private Shop near an NPC.,Нельзя открывать частную лавочку рядом с NPC.
 TEXTCLIENT_PRIVATE_SHOP_EMPTY,All items of the private shop were sold.,Все товары частной лавки были распроданы.
@@ -611,64 +611,64 @@ TEXTCLIENT_ERROR_CHATTING_1,The last message could not be transmitted due to cha
 TEXTCLIENT_ERROR_CHATTING_3,Currently your chat has been blocked.(Remaining: %d minute %d second),Вы не можете отправлять сообщения. (Блокировка общения будет снята через %d мин. %d сек.)
 TEXTCLIENT_LIMIT_SHOUT,Shouting is only allowed 5 times per 60 seconds.,Кричать можно не более 5 раз за 60 секунд.
 TEXTCLIENT_LIMIT_FULL_SHOUT,Shouting with Full Shout is only allowed once every 2 minutes.,Shouting with Full Shout is only allowed once every 2 minutes.
-TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You either do not have a guild or you are not the guild master.,"Либо вы не состоите в гильдии, либо не являетесь ее лидером."
+TEXTCLIENT_GUILDCOMBAT_NOT_GUILD_LEADER,You are not in a guild or are not the Guild Master.,"Либо вы не состоите в гильдии, либо не являетесь ее лидером."
 TEXTCLIENT_GUILDCOMBAT_REQUESTEND,Guild Siege is closed.,Прием заявок окончен.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild level must be at least %d in order to apply for the siege.,"Чтобы выступить на арене, гильдия должна быть не ниже %d-го уровня."
+TEXTCLIENT_GUILDCOMBAT_REQUEST_LEVEL,Your guild must be at least level %d to apply for the Guild Siege.,"Чтобы выступить на арене, гильдия должна быть не ниже %d-го уровня."
 TEXTCLIENT_GUILDCOMBAT_REQUEST_BASEPENYA,It will cost you at least %d penya to apply to the siege,Вступительный взнос для участия в поединке составляет %d пенни.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_PENYA,It will cost you %d penya to apply to the siege.,It will cost you %d penya to apply to the siege.
 TEXTCLIENT_GUILDCOMBAT_REQUEST_NOTPENYA,You can apply to the guild siege if you have the required Penya.,"Если у вас хватает средств, можете подать заявку."
-TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,You have asked for %d penya first. And then you asked for an additional %d penya.,Предыдущий взнос %d пенни. Добавлено %d пенни.
-TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the guild siege. You can organize the entry of guild from 5 pm (PST) every Saturday.,Вы подали заявку на участие в поединках гильдий. Состав команды можно объявить начиная с 18:30 в субботу.
-TEXTCLIENT_GUILDCOMBAT_APP,Registration for guild siege has finished.,Заявка на участие в поединках гильдий принята.
+TEXTCLIENT_GUILDCOMBAT_APP_CONFIRM,Your previous bid was %d Penya. You have added %d Penya to increase your bid.,Предыдущий взнос %d пенни. Добавлено %d пенни.
+TEXTCLIENT_GUILDCOMBAT_REQUEST_GUILDCOMBAT,You have successfully applied to the Guild Siege.,Вы подали заявку на участие в поединках гильдий. Состав команды можно объявить начиная с 18:30 в субботу.
+TEXTCLIENT_GUILDCOMBAT_APP,Registration for Guild Siege has finished.,Заявка на участие в поединках гильдий принята.
 TEXTCLIENT_GUILDCOMBAT_NOT_USE,You cannot use it right now.,Невозможно использовать в данный момент.
-TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not register for the Guild Siege.,Вы не подавали заявку на участие в поединке гильдий.
-TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee is refunded when you fail to join the guild siege.,"Если команда не является на осаду, вступительный взнос возвращается гильдии."
-TEXTCLIENT_GUILDCOMBAT_CANCEL,The guild siege you joined was cancelled.,"Поединок гильдий, на который вы подавали заявку, отменен."
-TEXTCLIENT_GC_CANCELREQUEST,Payback Penya,Пенни от Пенни
-TEXTCLIENT_GC_CANCELREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!,Hello. I am a guild manager named Donaris.\nI am going to give you money back because of your cancellation. I have deducted 20% as a commission.\nHave a good day!
+TEXTCLIENT_GUILDCOMBAT_NOTAPP,You did not apply for the Guild Siege.,Вы не подавали заявку на участие в поединке гильдий.
+TEXTCLIENT_GUILDCOMBAT_EXPENSE_RETURN,The application fee has been refunded.,"Если команда не является на осаду, вступительный взнос возвращается гильдии."
+TEXTCLIENT_GUILDCOMBAT_CANCEL,Your guild's application for the Guild Siege has been canceled.,"Поединок гильдий, на который вы подавали заявку, отменен."
+TEXTCLIENT_GC_CANCELREQUEST,Guild Siege Application Refund,Пенни от Пенни
+TEXTCLIENT_GC_CANCELREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!","Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application has been canceled, and the application fee has been refunded. Please note that a 20% commission has been deducted.\nHave a nice day!"
 TEXTCLIENT_GUILDCOMBAT_NEXT_COMBAT,Today's Guild Siege will not be held due to lack of participants.,Today's Guild Siege will not be held due to lack of participants.
 TEXTCLIENT_GUILDCOMBAT_ENJOY,Have a good day!,Желаем хорошего дня!
-TEXTCLIENT_GUILDCOMBAT_JOIN_OK,"You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now.","You qualified to enter the guild siege. Please finish ""line up for the guild siege"" in Flaris now."
-TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris.","You have failed to qualify. Please challenge again next week. After finishing the guild siege, receive an admission fee in Flaris."
+TEXTCLIENT_GUILDCOMBAT_JOIN_OK,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.,You have qualified to enter the Guild Siege. Please complete your lineup setup in Flarine.
+TEXTCLIENT_GUILDCOMBAT_JOIN_CANCEL,"You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine.","You did not qualify for this Guild Siege. Please try again next week. After the Guild Siege ends, you may reclaim the application fee in Flarine."
 TEXTCLIENT_GUILDCOMBAT_OPEN_READY_MSG,The Guild Siege will begin soon. You will be automatically teleported to Flaris after %d seconds.,Поединок скоро начнется. Вас перенесет во Фларинцию через %d сек.
-TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,"From now on, Franky in Flarine can let you into the Guild Siege arena.","From now on, Franky in Flarine can let you into the Guild Siege arena."
-TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,"From now on, you can organize the entry of guild siege.",Теперь можно собирать команду и участвовать в поединках гильдий.
-TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Time for organizing line up and preparation for Guild Siege.,Поединки начнутся через
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Guild Siege begins in,Guild Siege begins in
-TEXTCLIENT_GUILDCOMBAT_WAR_END,End combat,Завершение поединка
-TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flaris,Перемещение во Фларинцию
-TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,Guild Siege mode is now available.,Доступны поединки гильдий.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,"For now, you can not organize an entry.",В данный момент сформировать команду невозможно.
-TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,"You didn't apply the guild siege or, you are not accepted to attend the guild siege.",Вы не подавали заявку на участие в поединке гильдий или не прошли предварительный отбор.
+TEXTCLIENT_GUILDCOMBAT_OPEN_MSG,You can now enter the Guild Siege arena through Franky in Flarine.,You can now enter the Guild Siege arena through Franky in Flarine.
+TEXTCLIENT_GUILDCOMBAT_NOW_PLAYER_MAKEUP,You can now set up the Guild Siege lineup.,Теперь можно собирать команду и участвовать в поединках гильдий.
+TEXTCLIENT_GUILDCOMBAT_PLAYER_MAKEUP_FINISH,Lineup Setup Ends In,Поединки начнутся через
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE,Combat Starts In,Combat Starts In
+TEXTCLIENT_GUILDCOMBAT_WAR_END,Combat Ends In,Завершение поединка
+TEXTCLIENT_GUILDCOMBAT_EXIT_MSG,Teleporting to Flarine,Перемещение во Фларинцию
+TEXTCLIENT_GUILDCOMBAT_JOIN_NOW,You can now enter the Guild Siege.,Доступны поединки гильдий.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP,You cannot edit the lineup at this time.,В данный момент сформировать команду невозможно.
+TEXTCLIENT_GUILDCOMBAT_CANNOT_MAKEUP_FAIL,Your guild did not apply for the Guild Siege or was not accepted.,Вы не подавали заявку на участие в поединке гильдий или не прошли предварительный отбор.
 TEXTCLIENT_GUILDCOMBAT_SELECTION_MAX,The number %d of people was exceeded.,The number %d of people was exceeded.
 TEXTCLIENT_GUILDCOMBAT_LIMIT_LEVEL_NOTICE,You should be over level %d for an entry.,You should be over level %d for an entry.
 TEXTCLIENT_GUILDCOMBAT_ALREADY_ENTRY,Be registered. Register again.,Нужно зарегистрироваться.
-TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be a defender.,Лидер гильдии не может быть защитником.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no kingpin or guild master in an entry.,На участие должен быть заявлен лидер гильдии или его заместитель.
-TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,There is no defender. Select a defender.,Нужно выбрать защитника.
-TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,There is no participant. Select participant.,Выберите участников.
-TEXTCLIENT_GUILDCOMBAT_ENTER,The guild siege is held for this week.,На этой неделе состоится поединок гильдий.
+TEXTCLIENT_GUILDCOMBAT_MASTER_NOT_ASSIGN_DEFENDER,The Guild Master cannot be assigned as the Defender.,Лидер гильдии не может быть защитником.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_MASTER,There is no Guild Master or Kingpin in the lineup.,На участие должен быть заявлен лидер гильдии или его заместитель.
+TEXTCLIENT_GUILDCOMBAT_NOT_ASSIGN_DEFENDER,No Defender has been assigned. Please select a Defender.,Нужно выбрать защитника.
+TEXTCLIENT_GUILDCOMBAT_HAVENOT_PLAYER,No participants have been selected. Please select participants.,Выберите участников.
+TEXTCLIENT_GUILDCOMBAT_ENTER,The Guild Siege is now open.,На этой неделе состоится поединок гильдий.
 TEXTCLIENT_GUILDCOMBAT_NOT_JOIN,Please join after a while.,"Подождите, прежде чем присоединяться."
 TEXTCLIENT_GUILDCOMBAT_NOT_OPEN,Preparations underway.,Идет подготовка.
-TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,A vagrant is not eligible for guild siege. Try again after your first job chance.,Бродяги не могут участвовать в поединках гильдий. Выберите класс и подайте заявку заново.
+TEXTCLIENT_GUILDCOMBAT_NOTENTER_VAGRANT,Vagrants are not eligible for the Guild Siege. Please try again after your first job change.,Бродяги не могут участвовать в поединках гильдий. Выберите класс и подайте заявку заново.
 TEXTCLIENT_GUILDCOMBAT_WELCOME,Welcome to the Guild Siege.,Добро пожаловать на арену!
-TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom in the camera by pressing the [Scroll Lock] key.,"Чтобы приблизить камеру, нажимайте [Scroll Lock]."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,"You are guild master! Defeating the defender, you will get a bonus.","You are guild master! Defeating the defender, you will get a bonus."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are defender! If you are defeated by the enemy, they will get a bonus.","Вы - защитник. Если соперник одолеет вас, то получит дополнительные очки."
-TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,"Defeat your opponent for glory of your guild! Defeating the defender, you will get a bonus.","Сражайтесь во славу гильдии! Если вы одолеете защитника, то получите дополнительные очки."
-TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,"Congratulations, you get the guild map!",Поздравляем! Вы получаете карту гильдии!
-TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat starts right after server maintenance. Prepare for war!,Сражение начнется по завершении отсчета. Готовьтесь к битве!
+TEXTCLIENT_GUILDCOMBAT_ZOOM_USE,You can zoom the camera using the [Scroll Lock] key.,"Чтобы приблизить камеру, нажимайте [Scroll Lock]."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_MASTER,You are the Guild Master! Defeating the Defender grants 1 bonus point.,You are the Guild Master! Defeating the Defender grants 1 bonus point.
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_DEFENDER,"You are the Defender! If you are defeated, the enemy gains 1 bonus point.","Вы - защитник. Если соперник одолеет вас, то получит дополнительные очки."
+TEXTCLIENT_GUILDCOMBAT_JOIN_MSG_GENERAL,Defeat your opponents for the glory of your guild! Defeating the Defender grants 1 bonus point.,"Сражайтесь во славу гильдии! Если вы одолеете защитника, то получите дополнительные очки."
+TEXTCLIENT_GUILDCOMBAT_MASTER_MAP,You have entered the Guild Siege combat area!,Поздравляем! Вы получаете карту гильдии!
+TEXTCLIENT_GUILDCOMBAT_MAINTENANCE2,Combat will begin after the Preparation Phase. Prepare for battle!,Сражение начнется по завершении отсчета. Готовьтесь к битве!
 TEXTCLIENT_GUILDCOMBAT_WAR,Start Combat,Начало поединка
-TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The guild master has gained %d!,Лидер гильдии получил %d!!
-TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d!,Ваша гильдия получила %d!!
-TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained points!,Ваш защитник повержен! Гильдия '%s' набирает очки!
+TEXTCLIENT_GUILDCOMBAT_POINT_MASTER,The Guild Master has gained %d points!,Лидер гильдии получил %d!!
+TEXTCLIENT_GUILDCOMBAT_POINT_GENERAL,Your guild has gained %d points!,Ваша гильдия получила %d!!
+TEXTCLIENT_GUILDCOMBAT_POINT_DEFENDER,Your defender is dead! %s guild has gained an extra point!,Ваш защитник повержен! Гильдия '%s' набирает очки!
 TEXTCLIENT_GUILDCOMBAT_POINT_REVIVAL,You gained %d resurrection points!,You gained %d resurrection points!
-TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter Guild Siege.,You must be connected on Channel 1 to enter Guild Siege.
+TEXTCLIENT_GUILDCOMBAT_WRONG_CHANNEL,You must be connected on Channel 1 to enter the Guild Siege.,You must be connected on Channel 1 to enter the Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_END,The Guild Siege has ended.,Поединок окончен.
-TEXTCLIENT_GUILDCOMBAT_WINNER,The winning guild for this week: %s guild.,Победитель этой недели - гильдия '%s'!
-TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP is %s.,Лучший воин - %s.
+TEXTCLIENT_GUILDCOMBAT_WINNER,This week's winning guild: %s.,Победитель этой недели - гильдия '%s'!
+TEXTCLIENT_GUILDCOMBAT_WINNER1,MVP: %s.,Лучший воин - %s.
 TEXTCLIENT_GUILDCOMBAT_WINNER2,Congratulations!,Мои поздравления!
-TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Time Limit,Необходимо быть на арене через
+TEXTCLIENT_GUILDCOMBAT_JOIN_LIMIT_TIME,Entry Phase Ends In,Необходимо быть на арене через
 TEXTCLIENT_GUILDCOMBAT_NOT_INVITATION_GUILD,You can not invite someone to the guild while in Guild Siege.,Во время поединка принимать игроков в гильдию нельзя.
 TEXTCLIENT_GUILDCOMBAT_NOT_DISSOLVE_GUILD,You can disband a guild that has applied for a Guild Siege.,"Гильдию, подавшую заявку на поединок, нельзя расформировать."
 TEXTCLIENT_GUILDCOMBAT_NOT_LEAVE_GUILD,You can not quit from a guild while in Guild Siege.,Во время поединка выходить из гильдии нельзя.
@@ -676,19 +676,19 @@ TEXTCLIENT_GUILDCOMBAT_NO_MEMBER,Unable to use the member management function du
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_LOGO,You cannot change your guild logo during Guild Siege.,You cannot change your guild logo during Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_CHANGE_NAME,You cannot change your guild name during Guild Siege.,You cannot change your guild name during Guild Siege.
 TEXTCLIENT_GUILDCOMBAT_NOT_WAR,Unable to declare war during Guild Siege.,Unable to declare war during Guild Siege.
-TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during event.,You cannot use items during event.
-TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during event.,You cannot use skills during event.
-TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during event.,You cannot enchant during event.
-TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during event.,You cannot shout during event.
-TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during Guild Siege.,Действие невозможно во время поединка гильдий.
-TEXTCLIENT_GC_NOTREQUEST,Refund from failure of a tender for the guild siege,Отбор гильдий проигран
-TEXTCLIENT_GC_NOTREQUEST1,Hello. I am a guild manager named Donaris.\nI am going to give you some of your money back. I have deducted 2% as a commission.\nI hope to see you at the Guild Siege again.\nThanks for your interest,"Привет! Меня зовут Пенни. Я казначей арены.\nВозвращаю тебе взнос. Почти честно и почти весь. Два процента вычитаю в пользу казны.\nНадеюсь, твоя гильдия еще решится на поединок как-нибудь в будущем.\nХорошего дня!"
-TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already received the prize money for MVP or, you are not MVP.","Либо вы уже получили призовые деньги, либо вы не являетесь чемпионом."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,"Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience.","Because the amount exceeds the penya of inventory after adding prize money of guild siege, please asked to get the prize money to GM on web site. Sorry for your inconvenience."
-TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d penya as MVP. Congratulations!,You have received %d penya as MVP. Congratulations!
-TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the prize money or, you are not one who needs to receive the application fee back.","Либо вы уже получили призовые деньги, либо вам не положено забирать вступительный взнос."
-TEXTCLIENT_GUILDCOMBAT_JACKPOT,You received %d penya as prize money for the guild siege. Congratulations!,You received %d penya as prize money for the guild siege. Congratulations!
-TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d penya minus the amount you paid for the application.,Вы получили %d пенни за вычетом вступительной платы.
+TEXTCLIENT_EVENT_STANDS_NOTUSEITEM,You cannot use items during the event.,You cannot use items during the event.
+TEXTCLIENT_EVENT_STANDS_NOTUSESKILL,You cannot use skills during the event.,You cannot use skills during the event.
+TEXTCLIENT_EVENT_STANDS_NOTENCHANT,You cannot enchant during the event.,You cannot enchant during the event.
+TEXTCLIENT_EVENT_STANDS_NOTSHOUT,You cannot shout during the event.,You cannot shout during the event.
+TEXTCLIENT_GUILDCOMBAT_NOT_GETITEM,That is unavailable during the Guild Siege.,Действие невозможно во время поединка гильдий.
+TEXTCLIENT_GC_NOTREQUEST,Guild Siege Application Refund,Отбор гильдий проигран
+TEXTCLIENT_GC_NOTREQUEST1,"Hello, this is [Guild Siege Manager] Donaris.\nYour Guild Siege application was unsuccessful, and the application fee has been refunded. Please note that a 2% commission has been deducted.\nWe hope to see you at the Guild Siege again.\nHave a nice day!","Привет! Меня зовут Пенни. Я казначей арены.\nВозвращаю тебе взнос. Почти честно и почти весь. Два процента вычитаю в пользу казны.\nНадеюсь, твоя гильдия еще решится на поединок как-нибудь в будущем.\nХорошего дня!"
+TEXTCLIENT_GUILDCOMBAT_NOT_MVP,"You have already claimed the MVP reward, or you are not the MVP.","Либо вы уже получили призовые деньги, либо вы не являетесь чемпионом."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_LIMIT,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.,The Penya reward could not be delivered because it would exceed your inventory limit. Please contact a GM through helpshift to receive your reward. We apologize for the inconvenience.
+TEXTCLIENT_GUILDCOMBAT_MVP_PENYA,You have received %d Penya as the MVP. Congratulations!,You have received %d Penya as the MVP. Congratulations!
+TEXTCLIENT_GUILDCOMBAT_WINNER_NOT_GUILD,"You have already received the reward, or you are not eligible to reclaim the application fee.","Либо вы уже получили призовые деньги, либо вам не положено забирать вступительный взнос."
+TEXTCLIENT_GUILDCOMBAT_JACKPOT,You have received %d Penya as a Guild Siege reward. Congratulations!,You have received %d Penya as a Guild Siege reward. Congratulations!
+TEXTCLIENT_GUILDCOMBAT_JACKPOT_CANCEL,You received %d Penya minus the amount you paid for the application.,Вы получили %d пенни за вычетом вступительной платы.
 TEXTCLIENT_BEAUTYSHOP_DISGUISE,You can't use this while a transy is in use.,Невозможно в данный момент.
 TEXTCLIENT_BANNED,This account is banned. Contact FlyFF Support for assistance.,Учетная запись заблокирована. Свяжитесь с администрацией для выяснения причин.
 TEXTCLIENT_FORBIDDEN_AREA,You cannot go this way.,You cannot go this way.

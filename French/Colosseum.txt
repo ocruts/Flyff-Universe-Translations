@@ -1,3 +1,3 @@
-Bienvenue, champions. Affrontez-vous pour obtenir le #bmeilleur temps de victoire#nb dans le Colisée afin de remporter de superbes récompenses et d’inscrire votre nom dans la compétition !
+﻿Bienvenue, champions. Affrontez-vous pour obtenir le #bmeilleur temps de victoire#nb dans le Colisée afin de remporter de superbes récompenses et d’inscrire votre nom dans la compétition !
 
 Veuillez noter que #bseul le meilleur classement sera pris en compte pour chaque joueur et équipe#nb. Si un joueur possède plusieurs classements, les autres seront ignorés. Une guilde peut avoir plusieurs classements, mais tous les joueurs participants doivent être différents pour pouvoir prétendre à une récompense. En tenant compte de cela, le classement requis pour recevoir une récompense peut différer de celui affiché dans le jeu, car il peut inclure plusieurs entrées pour les mêmes joueurs.

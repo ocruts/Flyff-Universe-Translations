@@ -1565,6 +1565,10 @@ PROPQUEST_INC_110253,"I have misjudged you! I’ll look for another person, now 
 PROPQUEST_INC_110254,I've heard Private Leo has been successfully rescued! Please accept this reward!,ฉันได้ยินมาว่าพลทหาร Leo ได้รับการช่วยเหลือสำเร็จแล้ว! โปรดรับรางวัลด้วย!
 PROPQUEST_INC_110255,Has Private Leo been rescued yet?,พลทหาร Leo ได้รับการช่วยเหลือแล้วหรือยัง?
 PROPQUEST_INC_110256,Visit dungeon NPC to learn all about Event,พบ NPC ของดันเจี้ยนเพื่อสอบถามข้อมูลกิจกรรม
+PROPQUEST_INC_110257,,
+PROPQUEST_INC_110258,,
+PROPQUEST_INC_110259,,
+PROPQUEST_INC_110260,,
 PROPQUEST_INC_110261,Rescue the missing childrens,ช่วยเด็กๆ ที่หายตัวไป
 PROPQUEST_INC_110262,The children from the town have gone missing... Please rescue them from the monsters!,เด็กๆ ในเมืองหายตัวไป... โปรดช่วยพวกเขาจากเหล่าสัตว์ประหลาดด้วย!
 PROPQUEST_INC_110263,"I need you to save $QUEST_END_TRIGGERCTRL_COUNT$ childrens in any dungeon, before midnight.",ฉันขอให้คุณช่วยเด็ก $QUEST_END_TRIGGERCTRL_COUNT$ คน ในดันเจี้ยน ก่อนเวลาเที่ยงคืน

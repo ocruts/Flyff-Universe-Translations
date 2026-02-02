@@ -1,4 +1,4 @@
-#b Renninformationen #nb
+﻿#b Renninformationen #nb
 Das Rainbow Race bietet allen Spielern die Gelegenheit, in einem interaktiven und intensiven Flugrennen gegeneinander anzutreten. Spieler müssen während des Rennens ihr eigenes Flugreittier verwenden.
 
 #iHinweis: Die Anmeldegebühr wird nicht erstattet. Jeder Spieler ist selbst dafür verantwortlich, ein Flugreittier bereitzustellen.#ni

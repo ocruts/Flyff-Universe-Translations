@@ -1,4 +1,4 @@
-#bGegenstand Piercing#nb
+﻿#bGegenstand Piercing#nb
 
 Das Piercen eines Gegenstands öffnet Plätze für Piercing-Karten, die die Fähigkeiten und Stärke des Gegenstands erheblich verbessern können.  
 #cffff0000Die Verwendung einer G-Protect-Schriftrolle garantiert, dass dein Gegenstand während des Vorgangs nicht zerstört wird.#nc

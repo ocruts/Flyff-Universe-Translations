@@ -1,1 +1,1 @@
-Hebt den Segen eines Gegenstands auf. Nach dem Entfernen kann der Segen nicht wiederhergestellt werden.
+﻿Hebt den Segen eines Gegenstands auf. Nach dem Entfernen kann der Segen nicht wiederhergestellt werden.
